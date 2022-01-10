@@ -1,0 +1,855 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+Tnp_22_trimer        PF17489.3  O15381               -               0.05   13.9   2.5      0.05   13.9   2.5   1.0   1   0   0   1   1   1   0 L1 transposable element trimerization domain
+Tnp_22_trimer        PF17489.3  O15381               -            0.00082   19.6   1.6   0.00096   19.4   1.6   1.1   1   0   0   1   1   1   1 L1 transposable element trimerization domain
+Tnp_22_trimer        PF17489.3  O15381               -             0.0051   17.1   3.1    0.0052   17.1   3.1   1.0   1   0   0   1   1   1   1 L1 transposable element trimerization domain
+Homeodomain          PF00046.30 Q96IS3               -            2.2e-05   24.2   8.7   2.6e-05   24.0   8.7   1.1   1   0   0   1   1   1   1 Homeodomain
+MRG                  PF05712.14 Q8N5Y2               -              2e-05   24.0   0.0     2e-05   24.0   0.0   1.0   1   0   0   1   1   1   1 MRG
+Homeodomain          PF00046.30 O43316               -            7.4e-05   22.6   5.1   8.4e-05   22.4   5.1   1.1   1   0   0   1   1   1   1 Homeodomain
+RGS12_us1            PF16613.6  O14924               -            1.9e-07   31.4   1.1   1.9e-07   31.4   1.1   1.0   1   0   0   1   1   1   1 Unstructured region of RGS12
+Tristanin_u2         PF16638.6  Q9NQV6               -               0.22   12.5   1.4      0.25   12.3   1.4   1.1   1   0   0   1   1   1   0 Unstructured region on methyltransferase between zinc-fingers
+Tristanin_u2         PF16638.6  Q9NQV6               -              0.014   16.4   0.9     0.015   16.3   0.9   1.1   1   0   0   1   1   1   0 Unstructured region on methyltransferase between zinc-fingers
+AT_hook              PF02178.20 Q9HBE1               -            0.00014   21.4   2.2   0.00014   21.4   2.2   1.4   2   0   0   2   2   2   1 AT hook motif
+AT_hook              PF02178.20 Q9HBE1               -            9.8e-05   21.8   2.2   0.00015   21.3   2.2   1.4   1   0   0   1   1   1   1 AT hook motif
+AT_hook              PF02178.20 Q9HBE1               -            9.2e-05   21.9   2.2   0.00014   21.4   2.2   1.4   1   0   0   1   1   1   1 AT hook motif
+PLC-beta_C           PF08703.11 Q9NQ66               -             0.0011   19.0   8.4    0.0011   19.0   8.4   1.0   1   0   0   1   1   1   1 PLC-beta C terminal
+zf-H2C2_2            PF13465.7  Q9BWE0               -             0.0029   18.0   0.4    0.0029   18.0   0.4   1.4   2   0   0   2   2   2   1 Zinc-finger double domain
+zf-C2H2              PF00096.27 Q9BWE0               -               0.12   12.9   1.1      0.14   12.7   1.1   1.1   1   0   0   1   1   1   0 Zinc finger, C2H2 type
+WSK                  PF03832.14 Q92698               -             0.0023   17.6   0.3    0.0023   17.6   0.3   1.1   1   0   0   1   1   1   1 WSK motif
+RHINO                PF15319.7  Q9BSD3               -              0.052   13.6   3.1     0.052   13.6   3.1   1.0   1   0   0   1   1   1   0 RAD9, RAD1, HUS1-interacting nuclear orphan protein
+Homeodomain          PF00046.30 Q9HBU1               -            0.00019   21.3   5.4    0.0002   21.2   5.4   1.0   1   0   0   1   1   1   1 Homeodomain
+Homeodomain          PF00046.30 Q9HBU1               -            5.7e-05   22.9   6.1   6.1e-05   22.8   6.1   1.0   1   0   0   1   1   1   1 Homeodomain
+Homeodomain          PF00046.30 P09016               -            3.2e-05   23.7   6.3   3.6e-05   23.6   6.3   1.1   1   0   0   1   1   1   1 Homeodomain
+Homeodomain          PF00046.30 P09016               -            9.7e-06   25.4   6.9   1.1e-05   25.2   6.9   1.1   1   0   0   1   1   1   1 Homeodomain
+Homeodomain          PF00046.30 P13378               -            2.4e-05   24.1   6.9   2.7e-05   23.9   6.9   1.1   1   0   0   1   1   1   1 Homeodomain
+Homeodomain          PF00046.30 P13378               -            6.7e-06   25.9   7.6   7.8e-06   25.7   7.6   1.1   1   0   0   1   1   1   1 Homeodomain
+Hexokinase_1         PF00349.22 P35557               -              0.032   14.1   0.1     0.032   14.1   0.1   1.0   1   0   0   1   1   1   0 Hexokinase
+CENP-B_N             PF04218.14 Q9Y4A0               -              0.034   13.8   0.4     0.034   13.8   0.4   1.0   1   0   0   1   1   1   0 CENP-B N-terminal DNA-binding domain
+CENP-B_N             PF04218.14 O75564               -              0.038   13.6   1.2     0.038   13.6   1.2   1.3   2   0   0   2   2   2   0 CENP-B N-terminal DNA-binding domain
+Homeodomain          PF00046.30 Q5XKR4               -            1.1e-05   25.2   8.1   1.4e-05   24.9   8.1   1.2   1   0   0   1   1   1   1 Homeodomain
+OAR                  PF03826.18 Q5XKR4               -            4.8e-09   35.8   0.1   5.2e-09   35.7   0.1   1.1   1   0   0   1   1   1   1 OAR motif
+Homeodomain          PF00046.30 Q5XKR4               -              0.007   16.2   7.9     0.011   15.7   7.9   1.3   1   0   0   1   1   1   1 Homeodomain
+RAMP4                PF06624.13 Q9HB58               -               0.65   10.0   3.6       1.7    8.7   3.6   1.8   1   1   0   1   1   1   0 Ribosome associated membrane protein RAMP4
+RRP36                PF06102.13 Q96EU6               -               0.01   15.8   2.1      0.01   15.8   2.1   1.0   1   0   0   1   1   1   0 rRNA biogenesis protein RRP36
+Ets                  PF00178.23 Q01892               -              0.069   13.5   0.1     0.069   13.5   0.1   1.0   1   0   0   1   1   1   0 Ets-domain
+HMG_box              PF00505.20 Q9UEW8               -               0.02   15.3   0.1      0.02   15.3   0.1   1.0   1   0   0   1   1   1   0 HMG (high mobility group) box
+CENP-B_N             PF04218.14 Q4W5G0               -              0.034   13.8   0.4     0.034   13.8   0.4   1.0   1   0   0   1   1   1   0 CENP-B N-terminal DNA-binding domain
+Rap1_C               PF11626.9  Q9NYB0               -              0.019   15.0   0.2     0.019   15.0   0.2   1.0   1   0   0   1   1   1   0 TRF2-interacting telomeric protein/Rap1 - C terminal domain
+SAP130_C             PF16014.6  Q9H0E3               -            1.4e-09   37.6   0.7   1.4e-09   37.6   0.7   1.0   1   0   0   1   1   1   1 Histone deacetylase complex subunit SAP130 C-terminus
+PH                   PF00169.30 Q9UH65               -              0.011   16.3   0.1     0.011   16.3   0.1   1.0   1   0   0   1   1   1   0 PH domain
+Rb_C                 PF08934.11 P06400               -            6.6e-07   29.2   0.0   6.6e-07   29.2   0.0   1.0   1   0   0   1   1   1   1 Rb C-terminal domain
+CUTL                 PF16557.6  Q9UPW6               -            3.9e-05   23.8   5.2   4.3e-05   23.6   5.2   1.1   1   0   0   1   1   1   1 CUT1-like DNA-binding domain of SATB
+DUF5361              PF17318.3  Q08170               -               0.19   11.9   3.1      0.21   11.7   3.1   1.1   1   0   0   1   1   1   0 Family of unknown function (DUF5361)
+RBR                  PF17208.4  Q96GD3               -            1.6e-08   35.2   9.0   1.6e-08   35.2   9.0   1.0   1   0   0   1   1   1   1 RNA binding Region
+RBR                  PF17208.4  Q96GD3               -            1.3e-07   32.2  10.1   1.3e-07   32.2  10.1   1.0   1   0   0   1   1   1   1 RNA binding Region
+SOSSC                PF15925.6  Q9NRY2               -               0.11   13.8   0.3      0.11   13.8   0.3   1.0   1   0   0   1   1   1   0 SOSS complex subunit C
+Homeodomain          PF00046.30 P26367               -            9.9e-05   22.1   6.1   0.00011   22.0   6.1   1.1   1   0   0   1   1   1   1 Homeodomain
+CID                  PF04818.14 Q9NQG5               -              0.022   15.0   0.1     0.022   15.0   0.1   1.0   1   0   0   1   1   1   0 CID domain
+Homeodomain          PF00046.30 Q9Y2V3               -            2.2e-05   24.2   8.7   2.6e-05   24.0   8.7   1.1   1   0   0   1   1   1   1 Homeodomain
+RBR                  PF17208.4  Q8N228               -            3.5e-06   27.6   3.9   3.5e-06   27.6   3.9   1.0   1   0   0   1   1   1   1 RNA binding Region
+RBR                  PF17208.4  Q8N228               -            8.7e-07   29.6   5.5   8.7e-07   29.6   5.5   1.0   1   0   0   1   1   1   1 RNA binding Region
+RBR                  PF17208.4  Q8N228               -            4.3e-06   27.4   4.9   4.3e-06   27.4   4.9   1.0   1   0   0   1   1   1   1 RNA binding Region
+LYRIC                PF15686.6  Q86UE4               -            3.1e-08   33.5   2.4   3.2e-08   33.5   2.4   1.0   1   0   0   1   1   1   1 Lysine-rich CEACAM1 co-isolated protein family
+Matrilin_ccoil       PF10393.10 P40763               -             0.0099   15.8   1.0    0.0099   15.8   1.0   1.0   1   0   0   1   1   1   1 Trimeric coiled-coil oligomerisation domain of matrilin
+STAT_alpha           PF01017.21 P40763               -             0.0092   16.0   2.8    0.0094   15.9   2.8   1.0   1   0   0   1   1   1   1 STAT protein, all-alpha domain
+Matrilin_ccoil       PF10393.10 P40763               -              0.014   15.3   1.1     0.021   14.7   1.1   1.5   1   1   0   1   1   1   0 Trimeric coiled-coil oligomerisation domain of matrilin
+Matrilin_ccoil       PF10393.10 P40763               -              0.024   14.5   0.4     0.024   14.5   0.4   1.0   1   0   0   1   1   1   0 Trimeric coiled-coil oligomerisation domain of matrilin
+Nup88                PF10168.10 Q99567               -              0.079   10.8   0.0     0.079   10.8   0.0   1.0   1   0   0   1   1   1   0 Nuclear pore component
+Nup88                PF10168.10 Q99567               -             0.0087   14.0   0.0    0.0087   13.9   0.0   1.0   1   0   0   1   1   1   1 Nuclear pore component
+zf-C4                PF00105.19 P28702               -            2.3e-05   24.8   5.6   2.3e-05   24.8   5.6   1.0   1   0   0   1   1   1   1 Zinc finger, C4 type (two domains)
+AT_hook              PF02178.20 Q9Y6X0               -              0.031   14.2   7.4     0.049   13.5   7.4   1.4   1   0   0   1   1   1   0 AT hook motif
+AT_hook              PF02178.20 Q9Y6X0               -             0.0077   16.0   6.0    0.0087   15.8   6.0   1.1   1   0   0   1   1   1   1 AT hook motif
+AT_hook              PF02178.20 Q9Y6X0               -              0.006   16.3   4.9    0.0074   16.1   4.9   1.1   1   0   0   1   1   1   1 AT hook motif
+AT_hook              PF02178.20 Q9Y6X0               -            0.00018   21.1   1.5   0.00025   20.6   1.5   1.3   1   0   0   1   1   1   1 AT hook motif
+AT_hook              PF02178.20 Q9Y6X0               -              0.006   16.3   4.9    0.0074   16.1   4.9   1.1   1   0   0   1   1   1   1 AT hook motif
+AT_hook              PF02178.20 Q9Y6X0               -             0.0002   20.9   1.5   0.00025   20.6   1.5   1.2   1   0   0   1   1   1   1 AT hook motif
+AT_hook              PF02178.20 Q9Y6X0               -             0.0086   15.9   6.0     0.012   15.4   6.0   1.3   1   0   0   1   1   1   1 AT hook motif
+AT_hook              PF02178.20 Q9Y6X0               -             0.0002   20.9   1.5   0.00025   20.6   1.5   1.2   1   0   0   1   1   1   1 AT hook motif
+AT_hook              PF02178.20 Q9Y6X0               -             0.0068   16.2   6.0    0.0087   15.8   6.0   1.2   1   0   0   1   1   1   1 AT hook motif
+AT_hook              PF02178.20 Q9Y6X0               -             0.0002   20.9   1.5   0.00025   20.6   1.5   1.2   1   0   0   1   1   1   1 AT hook motif
+AT_hook              PF02178.20 Q9Y6X0               -             0.0059   16.4   4.9    0.0074   16.1   4.9   1.1   1   0   0   1   1   1   1 AT hook motif
+AT_hook              PF02178.20 Q9Y6X0               -             0.0077   16.0   6.0    0.0087   15.8   6.0   1.1   1   0   0   1   1   1   1 AT hook motif
+DUF2116              PF09889.10 P78364               -              0.084   12.9   0.8     0.084   12.9   0.8   1.0   1   0   0   1   1   1   0 Uncharacterized protein containing a Zn-ribbon (DUF2116)
+Hepatitis_core       PF00906.21 Q8NAV1               -               0.82    9.2  14.7      0.78    9.3  14.7   1.0   1   0   0   1   1   1   0 Hepatitis core antigen
+TP2                  PF01254.19 Q05952               -            3.1e-07   31.1   3.1   3.2e-07   31.1   3.1   1.0   1   0   0   1   1   1   1 Nuclear transition protein 2
+BTG                  PF07742.13 P50616               -            5.1e-05   23.0   0.0   5.1e-05   23.0   0.0   1.0   1   0   0   1   1   1   1 BTG family
+BTG                  PF07742.13 P50616               -            1.6e-07   31.1   0.0   1.6e-07   31.1   0.0   1.0   1   0   0   1   1   1   1 BTG family
+Homeodomain          PF00046.30 Q9BQY4               -            2.6e-05   24.0   4.3   2.9e-05   23.9   4.3   1.1   1   0   0   1   1   1   1 Homeodomain
+Treslin_N            PF15292.7  Q7Z2Z1               -            2.1e-06   26.5   3.6   2.2e-06   26.5   3.6   1.0   1   0   0   1   1   1   1 Treslin N-terminus
+Treslin_N            PF15292.7  Q7Z2Z1               -              0.008   14.7   0.4     0.008   14.7   0.4   1.0   1   0   0   1   1   1   1 Treslin N-terminus
+TEA                  PF01285.19 P28347               -            1.6e-08   34.6   1.1   1.6e-08   34.6   1.1   1.0   1   0   0   1   1   1   1 TEA/ATTS domain
+Nt_Gln_amidase       PF09764.10 Q96HA8               -              0.018   14.7   0.0     0.018   14.7   0.0   1.0   1   0   0   1   1   1   0 N-terminal glutamine amidase
+Ets                  PF00178.23 P17947               -            2.6e-05   24.4   0.5   2.7e-05   24.4   0.5   1.0   1   0   0   1   1   1   1 Ets-domain
+AT_hook              PF02178.20 Q9Y242               -             0.0067   16.2   2.0    0.0091   15.8   2.0   1.3   1   0   0   1   1   1   1 AT hook motif
+zf-CXXC              PF02008.21 O43151               -             0.0056   16.7   5.1     0.006   16.6   5.1   1.1   1   0   0   1   1   1   1 CXXC zinc finger domain
+KH_2                 PF07650.18 P23396               -              0.028   14.3   0.2     0.028   14.3   0.2   1.0   1   0   0   1   1   1   0 KH domain
+SnAC                 PF14619.7  P51531               -             0.0046   17.5   4.5    0.0047   17.5   4.5   1.0   1   0   0   1   1   1   1 Snf2-ATP coupling, chromatin remodelling complex
+AT_hook              PF02178.20 Q8WVM7               -               0.58   10.2  11.3       2.4    8.4   5.9   2.2   2   0   0   2   2   2   0 AT hook motif
+TPR_1                PF00515.29 P31948               -              0.035   13.9   0.1     0.037   13.9   0.1   1.1   1   0   0   1   1   1   0 Tetratricopeptide repeat
+TPR_2                PF07719.18 P31948               -              0.069   13.3   0.1     0.074   13.2   0.1   1.1   1   0   0   1   1   1   0 Tetratricopeptide repeat
+DTHCT                PF08070.12 P11388               -             0.0049   17.6   4.6    0.0049   17.6   4.6   1.0   1   0   0   1   1   1   1 DTHCT (NUC029) region
+zf-C4                PF00105.19 P48443               -            1.7e-05   25.2   5.1   1.7e-05   25.2   5.1   1.0   1   0   0   1   1   1   1 Zinc finger, C4 type (two domains)
+UPF0515              PF15135.7  Q9NUL5               -            4.7e-07   29.5   3.4   4.7e-07   29.5   3.4   1.0   1   0   0   1   1   1   1 Uncharacterised protein UPF0515
+UPF0515              PF15135.7  Q9NUL5               -            2.1e-14   53.5   6.8   2.2e-14   53.5   6.8   1.0   1   0   0   1   1   1   1 Uncharacterised protein UPF0515
+DUF1387              PF07139.12 Q9NUQ6               -             0.0046   16.7   8.4    0.0046   16.7   8.4   1.0   1   0   0   1   1   1   1 Protein of unknown function (DUF1387)
+DUF1387              PF07139.12 Q9NUQ6               -              0.036   13.8  10.2     0.036   13.8  10.2   1.0   1   0   0   1   1   1   0 Protein of unknown function (DUF1387)
+DUF3310              PF11753.9  Q9BQI6               -               0.11   12.7   0.8      0.11   12.6   0.8   1.0   1   0   0   1   1   1   0 Protein of unknwon function (DUF3310)
+zf-C4                PF00105.19 P19793               -            1.7e-05   25.2   5.1   1.7e-05   25.2   5.1   1.0   1   0   0   1   1   1   1 Zinc finger, C4 type (two domains)
+zf-C4_ClpX           PF06689.14 Q5MJ70               -              0.026   14.4   0.1     0.026   14.4   0.1   1.0   1   0   0   1   1   1   0 ClpX C4-type zinc finger
+SRRM_C               PF15230.7  Q8IYB3               -               0.33   11.5  12.9      0.32   11.6  12.9   1.0   1   0   0   1   1   1   0 Serine/arginine repetitive matrix protein C-terminus
+PRP1_N               PF06424.13 O94906               -            4.6e-07   30.4   0.4   4.6e-07   30.4   0.4   1.0   1   0   0   1   1   1   1 PRP1 splicing factor, N-terminal
+SART-1               PF03343.14 O43290               -              0.036   12.7   0.8     0.036   12.7   0.8   1.0   1   0   0   1   1   1   0 SART-1 family
+SPAN-X               PF07458.13 Q9NY87               -            6.8e-06   26.5   0.1   6.8e-06   26.5   0.1   1.0   1   0   0   1   1   1   1 Sperm protein associated with nucleus, mapped to X chromosome
+SPAN-X               PF07458.13 Q9NY87               -              4e-07   30.5   0.1     4e-07   30.5   0.1   1.0   1   0   0   1   1   1   1 Sperm protein associated with nucleus, mapped to X chromosome
+SWIRM-assoc_2        PF16496.6  Q8TAQ2               -              0.015   14.2   2.7     0.015   14.2   2.7   1.0   1   0   0   1   1   1   0 SWIRM-associated domain at the N-terminal
+Spb1_C               PF07780.13 Q8IY81               -            9.8e-06   25.3   6.6   9.8e-06   25.3   6.6   1.0   1   0   0   1   1   1   1 Spb1 C-terminal domain
+Homeodomain          PF00046.30 P0C7M4               -            2.6e-05   24.0   4.3   2.9e-05   23.9   4.3   1.1   1   0   0   1   1   1   1 Homeodomain
+BCOR                 PF15808.6  Q8NCN4               -               0.19   11.9   3.4      0.19   11.9   3.4   1.0   1   0   0   1   1   1   0 BCL-6 co-repressor, non-ankyrin-repeat region
+Homeodomain          PF00046.30 Q99697               -             0.0005   19.9   9.1   0.00061   19.6   9.1   1.2   1   0   0   1   1   1   1 Homeodomain
+Calsarcin            PF05556.12 Q9UMS6               -               0.13   11.8   0.8      0.13   11.9   0.8   1.0   1   0   0   1   1   1   0 Calcineurin-binding protein (Calsarcin)
+Calsarcin            PF05556.12 Q9UMS6               -               0.21   11.2   1.0      0.18   11.3   1.0   1.0   1   0   0   1   1   1   0 Calcineurin-binding protein (Calsarcin)
+C2                   PF00168.31 O00443               -              0.005   17.1   0.4     0.005   17.1   0.4   1.0   1   0   0   1   1   1   1 C2 domain
+C2                   PF00168.31 O00443               -              0.009   16.3   0.3     0.009   16.3   0.3   1.0   1   0   0   1   1   1   1 C2 domain
+C2                   PF00168.31 O00443               -              0.003   17.9   0.1     0.003   17.9   0.1   1.0   1   0   0   1   1   1   1 C2 domain
+BEX                  PF04538.13 Q5H9L2               -            3.5e-05   24.5   0.5   3.5e-05   24.5   0.5   1.0   1   0   0   1   1   1   1 Brain expressed X-linked like family
+BEX                  PF04538.13 Q6IPX3               -            9.5e-05   23.1   0.3   9.5e-05   23.1   0.3   1.0   1   0   0   1   1   1   1 Brain expressed X-linked like family
+zf-C2HE              PF16278.6  P51692               -              0.055   13.9   0.1     0.055   13.9   0.1   1.0   1   0   0   1   1   1   0 C2HE / C2H2 / C2HC zinc-binding finger
+Homeodomain          PF00046.30 P58304               -            2.5e-05   24.1   7.7   2.7e-05   23.9   7.7   1.1   1   0   0   1   1   1   1 Homeodomain
+SnAC                 PF14619.7  P51532               -             0.0035   17.9   5.3    0.0037   17.8   5.3   1.0   1   0   0   1   1   1   1 Snf2-ATP coupling, chromatin remodelling complex
+HMG_box_2            PF09011.11 P23497               -            7.3e-10   39.3   0.7   7.5e-10   39.3   0.7   1.0   1   0   0   1   1   1   1 HMG-box domain
+HMG_box              PF00505.20 P23497               -            4.1e-05   24.0   0.3   4.1e-05   23.9   0.3   1.0   1   0   0   1   1   1   1 HMG (high mobility group) box
+Laps                 PF10169.10 Q9BRT6               -             0.0021   18.7   5.8    0.0021   18.7   5.8   1.0   1   0   0   1   1   1   1 Learning-associated protein
+DUF2423              PF10338.10 Q9BRT6               -            5.4e-05   23.3  10.5   5.4e-05   23.3  10.5   1.0   1   0   0   1   1   1   1 Protein of unknown function (DUF2423)
+Laps                 PF10169.10 Q9BRT6               -            0.00018   22.1  10.5   0.00019   22.1  10.5   1.0   1   0   0   1   1   1   1 Learning-associated protein
+Mab-21               PF03281.15 Q13394               -              0.028   13.8   0.4     0.028   13.8   0.4   1.0   1   0   0   1   1   1   0 Mab-21 protein
+FAM192A_Fyv6_N       PF10187.10 Q9GZU8               -            0.00095   19.5   0.8   0.00096   19.5   0.8   1.0   1   0   0   1   1   1   1 FAM192A/Fyv6, N-terminal domain
+SRF-TF               PF00319.19 Q96N64               -              0.078   12.6   0.7     0.078   12.6   0.7   1.1   1   0   0   1   1   1   0 SRF-type transcription factor (DNA-binding and dimerisation domain)
+Homeodomain          PF00046.30 P78337               -             0.0005   19.9   9.1   0.00061   19.6   9.1   1.2   1   0   0   1   1   1   1 Homeodomain
+TAF                  PF02969.18 Q9Y6J9               -              7e-08   32.6   0.1     7e-08   32.5   0.1   1.0   1   0   0   1   1   1   1 TATA box binding protein associated factor (TAF)
+zf-SAP30             PF13866.7  O75446               -              4e-05   23.7   1.1   4.3e-05   23.6   1.1   1.0   1   0   0   1   1   1   1 SAP30 zinc-finger
+zf-SAP30             PF13866.7  O75446               -            0.00047   20.2   0.6    0.0005   20.1   0.6   1.0   1   0   0   1   1   1   1 SAP30 zinc-finger
+BEX                  PF04538.13 Q96EI5               -            0.00017   22.3   0.4   0.00017   22.3   0.4   1.0   1   0   0   1   1   1   1 Brain expressed X-linked like family
+RNF111_N             PF15303.7  Q6ZNA4               -            2.2e-06   27.6   0.2   2.2e-06   27.6   0.2   1.0   1   0   0   1   1   1   1 E3 ubiquitin-protein ligase Arkadia N-terminus
+LAG1-DNAbind         PF09271.12 Q06330               -            3.3e-06   27.8   3.4   3.3e-06   27.8   3.4   1.0   1   0   0   1   1   1   1 LAG1, DNA binding
+RNA_pol_Rpb2_4       PF04566.14 P30876               -              0.012   15.9   0.1     0.012   15.9   0.1   1.0   1   0   0   1   1   1   0 RNA polymerase Rpb2, domain 4
+Toxin_20             PF08089.12 O96028               -               0.12   12.6   1.4      0.12   12.6   1.4   1.0   1   0   0   1   1   1   0 Huwentoxin-II family
+SNF2_N               PF00176.24 Q9H4L7               -              0.013   14.3   0.1     0.013   14.3   0.1   1.0   1   0   0   1   1   1   0 SNF2 family N-terminal domain
+zf-C2H2              PF00096.27 A8MQ14               -              3e-07   30.5   0.5   3.1e-07   30.5   0.5   1.0   1   0   0   1   1   1   1 Zinc finger, C2H2 type
+zf-C2H2_4            PF13894.7  A8MQ14               -            0.00023   21.8   0.3   0.00023   21.7   0.3   1.0   1   0   0   1   1   1   1 C2H2-type zinc finger
+zf-H2C2_2            PF13465.7  A8MQ14               -             0.0015   18.9   0.5    0.0015   18.9   0.5   1.9   2   0   0   2   2   2   1 Zinc-finger double domain
+zf-LYAR              PF08790.12 A8MQ14               -              0.013   15.4   0.1     0.014   15.3   0.1   1.1   1   0   0   1   1   1   0 LYAR-type C2HC zinc finger
+zf-C2H2_6            PF13912.7  A8MQ14               -              0.015   15.3   0.2     0.021   14.9   0.2   1.2   1   1   0   1   1   1   0 C2H2-type zinc finger
+Zn-ribbon_8          PF09723.11 A8MQ14               -              0.039   14.1   0.2     0.039   14.1   0.2   1.1   1   0   0   1   1   1   0 Zinc ribbon domain
+Ogr_Delta            PF04606.13 A8MQ14               -              0.041   13.9   0.1     0.041   13.9   0.1   1.0   1   0   0   1   1   1   0 Ogr/Delta-like zinc finger
+zf_UBZ               PF18439.2  A8MQ14               -              0.054   13.2   0.1     0.054   13.2   0.1   1.1   1   0   0   1   1   1   0 Ubiquitin-Binding Zinc Finger
+zf-C2H2              PF00096.27 Q68DY9               -            8.1e-07   29.2   0.2   8.2e-07   29.2   0.2   1.0   1   0   0   1   1   1   1 Zinc finger, C2H2 type
+zf-C2H2_4            PF13894.7  Q68DY9               -            2.7e-05   24.7   0.3   2.8e-05   24.6   0.3   1.0   1   0   0   1   1   1   1 C2H2-type zinc finger
+zf-C2H2_6            PF13912.7  Q68DY9               -             0.0015   18.5   0.9    0.0019   18.2   0.9   1.3   1   1   0   1   1   1   1 C2H2-type zinc finger
+zf-H2C2_2            PF13465.7  Q68DY9               -              0.005   17.2   0.7     0.005   17.2   0.7   1.5   2   0   0   2   2   2   1 Zinc-finger double domain
+zf-C2H2_11           PF16622.6  Q68DY9               -             0.0055   16.4   0.1    0.0055   16.4   0.1   1.0   1   0   0   1   1   1   1 zinc-finger C2H2-type
+Zn-ribbon_8          PF09723.11 Q68DY9               -              0.018   15.2   0.1     0.018   15.2   0.1   1.1   1   0   0   1   1   1   0 Zinc ribbon domain
+zf_UBZ               PF18439.2  Q68DY9               -              0.067   12.9   0.1     0.067   12.9   0.1   1.1   1   0   0   1   1   1   0 Ubiquitin-Binding Zinc Finger
+zf-H2C2_5            PF13909.7  Q68DY9               -               0.57   10.0   4.5      0.89    9.4   0.8   2.0   2   0   0   2   2   2   0 C2H2-type zinc-finger domain
+AT_hook              PF02178.20 Q9BVI0               -             0.0041   16.9   3.4    0.0049   16.6   3.4   1.2   1   0   0   1   1   1   1 AT hook motif
+AT_hook              PF02178.20 Q9BVI0               -              0.004   16.9   3.4    0.0049   16.6   3.4   1.2   1   0   0   1   1   1   1 AT hook motif
+eRF1_2               PF03464.16 Q9BRX2               -             0.0031   17.9   0.1    0.0031   17.9   0.1   1.0   1   0   0   1   1   1   1 eRF1 domain 2
+zf-UBP               PF02148.20 Q9UPT9               -              0.019   15.3   3.2     0.019   15.3   3.2   1.0   1   0   0   1   1   1   0 Zn-finger in ubiquitin-hydrolases and other protein
+zf-H2C2_2            PF13465.7  P0DPD5               -             0.0074   16.7   1.1    0.0083   16.5   1.1   1.1   1   0   0   1   1   1   1 Zinc-finger double domain
+zf-C2H2              PF00096.27 P0DPD5               -              0.059   13.9   0.8     0.069   13.7   0.8   1.1   1   0   0   1   1   1   0 Zinc finger, C2H2 type
+PglL_A               PF15864.6  P0DPD5               -               0.25   11.1   0.3       0.3   10.9   0.3   1.1   1   0   0   1   1   1   0 Protein glycosylation ligase
+zf-H2C2_2            PF13465.7  P0DPD5               -             0.0017   18.7   1.5    0.0021   18.5   1.5   1.3   1   1   0   1   1   1   1 Zinc-finger double domain
+zf-H2C2_2            PF13465.7  P0DPD5               -            0.00033   21.0   2.0   0.00037   20.8   2.0   1.1   1   0   0   1   1   1   1 Zinc-finger double domain
+zf-H2C2_2            PF13465.7  Q8N7K0               -             0.0015   18.9   0.5    0.0016   18.8   0.5   1.1   1   0   0   1   1   1   1 Zinc-finger double domain
+zf-H2C2_2            PF13465.7  Q8N7K0               -              0.006   17.0   0.5    0.0064   16.9   0.5   1.1   1   0   0   1   1   1   1 Zinc-finger double domain
+MAGI_u1              PF16663.6  Q5H9K5               -              0.048   13.6   0.2     0.048   13.6   0.2   1.1   1   0   0   1   1   1   0 Unstructured region on MAGI
+AT_hook              PF02178.20 Q96C55               -            0.00081   19.0   4.3    0.0012   18.5   4.3   1.4   1   0   0   1   1   1   1 AT hook motif
+AT_hook              PF02178.20 Q96C55               -            0.00087   18.9   4.3    0.0012   18.5   4.3   1.3   1   0   0   1   1   1   1 AT hook motif
+AT_hook              PF02178.20 Q96C55               -             0.0008   19.0   4.3    0.0012   18.5   4.3   1.4   1   0   0   1   1   1   1 AT hook motif
+PNMA                 PF14893.7  Q8ND90               -            0.00016   21.2   0.1   0.00016   21.2   0.1   1.0   1   0   0   1   1   1   1 PNMA
+SprT-like            PF10263.10 Q9H040               -             0.0057   16.5   0.1    0.0058   16.5   0.1   1.0   1   0   0   1   1   1   1 SprT-like family
+SPAN-X               PF07458.13 Q9NS25               -            2.3e-07   31.2   0.2   2.3e-07   31.2   0.2   1.0   1   0   0   1   1   1   1 Sperm protein associated with nucleus, mapped to X chromosome
+SPAN-X               PF07458.13 Q9NS25               -            1.2e-08   35.4   0.1   1.2e-08   35.4   0.1   1.0   1   0   0   1   1   1   1 Sperm protein associated with nucleus, mapped to X chromosome
+SBP56                PF05694.12 Q13228               -              0.024   13.5   0.0     0.024   13.5   0.0   1.0   1   0   0   1   1   1   0 56kDa selenium binding protein (SBP56)
+E2F_TDP              PF02319.21 Q5H9I0               -            8.5e-05   22.5   0.2   9.7e-05   22.3   0.2   1.1   1   0   0   1   1   1   1 E2F/DP family winged-helix DNA-binding domain
+zf-H2C2_5            PF13909.7  Q6ZNH5               -              0.042   13.6   0.0     0.047   13.5   0.0   1.1   1   0   0   1   1   1   0 C2H2-type zinc-finger domain
+zf-H2C2_2            PF13465.7  Q6ZNH5               -              0.071   13.6   0.1     0.075   13.5   0.1   1.0   1   0   0   1   1   1   0 Zinc-finger double domain
+zf-H2C2_5            PF13909.7  Q96MR9               -              0.026   14.3   0.1     0.037   13.8   0.1   1.4   1   0   0   1   1   1   0 C2H2-type zinc-finger domain
+zf-H2C2_2            PF13465.7  P0CG24               -              0.086   13.3   2.5       0.1   13.1   2.5   1.1   1   0   0   1   1   1   0 Zinc-finger double domain
+NOA36                PF06524.13 Q9Y3S2               -             0.0015   18.0   2.4    0.0015   18.0   2.4   1.0   1   0   0   1   1   1   1 NOA36 protein
+NOA36                PF06524.13 Q9Y3S2               -            0.00016   21.1   3.3   0.00016   21.1   3.3   1.0   1   0   0   1   1   1   1 NOA36 protein
+zf-H2C2_2            PF13465.7  P17032               -             0.0024   18.3   0.1    0.0024   18.3   0.1   1.0   1   0   0   1   1   1   1 Zinc-finger double domain
+zf-H2C2_2            PF13465.7  Q99676               -            2.8e-06   27.5   0.2     3e-06   27.4   0.2   1.1   1   0   0   1   1   1   1 Zinc-finger double domain
+zf-H2C2_5            PF13909.7  Q99676               -              0.012   15.4   0.0     0.012   15.4   0.0   1.9   2   0   0   2   2   2   0 C2H2-type zinc-finger domain
+TEA                  PF01285.19 Q15562               -            1.6e-08   34.6   1.1   1.6e-08   34.6   1.1   1.0   1   0   0   1   1   1   1 TEA/ATTS domain
+zf-H2C2_2            PF13465.7  Q3KP31               -             0.0011   19.3   0.8    0.0011   19.3   0.8   1.4   1   1   0   1   1   1   1 Zinc-finger double domain
+zf-C2H2              PF00096.27 Q96BR9               -            0.00013   22.2   4.8   0.00015   22.0   4.8   1.2   1   0   0   1   1   1   1 Zinc finger, C2H2 type
+zf-H2C2_5            PF13909.7  Q96BR9               -             0.0002   21.1   6.4   0.00023   20.9   6.4   1.1   1   0   0   1   1   1   1 C2H2-type zinc-finger domain
+zf-C2H2_4            PF13894.7  Q96BR9               -             0.0071   17.1   4.0    0.0079   17.0   4.0   1.2   1   0   0   1   1   1   1 C2H2-type zinc finger
+GAGA                 PF09237.12 Q96BR9               -               0.01   15.7   1.2      0.01   15.7   1.2   1.0   1   0   0   1   1   1   1 GAGA factor
+zf-C2HE              PF16278.6  Q96BR9               -               0.28   11.7   2.3      0.28   11.7   2.3   1.0   1   0   0   1   1   1   0 C2HE / C2H2 / C2HC zinc-binding finger
+zf-H2C2_2            PF13465.7  Q8WXB4               -             0.0011   19.4   0.8    0.0011   19.4   0.8   1.6   2   0   0   2   2   2   1 Zinc-finger double domain
+DUF2448              PF10476.10 Q5SNT2               -             0.0099   15.8   1.9      0.01   15.8   1.9   1.0   1   0   0   1   1   1   1 Protein of unknown function C-terminus (DUF2448)
+zf-H2C2_2            PF13465.7  Q6ZR52               -            0.00019   21.7   0.5   0.00021   21.6   0.5   1.1   1   0   0   1   1   1   1 Zinc-finger double domain
+zf-H2C2_2            PF13465.7  Q6ZR52               -            0.00033   21.0   2.0   0.00037   20.8   2.0   1.1   1   0   0   1   1   1   1 Zinc-finger double domain
+zf-H2C2_2            PF13465.7  Q6ZR52               -            0.00033   21.0   2.0   0.00037   20.8   2.0   1.1   1   0   0   1   1   1   1 Zinc-finger double domain
+zf-H2C2_2            PF13465.7  Q6ZR52               -              0.017   15.6   4.2      0.02   15.3   4.2   1.2   1   0   0   1   1   1   0 Zinc-finger double domain
+zf-C2H2              PF00096.27 Q6ZR52               -              0.071   13.6   2.9       0.1   13.1   2.9   1.3   1   0   0   1   1   1   0 Zinc finger, C2H2 type
+zf-H2C2_2            PF13465.7  Q8N823               -             0.0024   18.2   0.6    0.0028   18.0   0.6   1.2   1   0   0   1   1   1   1 Zinc-finger double domain
+zf-C2H2              PF00096.27 Q8TAF7               -            6.2e-08   32.7   0.5   6.4e-08   32.7   0.5   1.0   1   0   0   1   1   1   1 Zinc finger, C2H2 type
+zf-C2H2_4            PF13894.7  Q8TAF7               -            0.00021   21.9   0.4   0.00021   21.9   0.4   1.0   1   0   0   1   1   1   1 C2H2-type zinc finger
+zf-C2H2_jaz          PF12171.9  Q8TAF7               -             0.0019   18.5   0.1    0.0019   18.4   0.1   1.0   1   0   0   1   1   1   1 Zinc-finger double-stranded RNA-binding
+zf-C2H2_6            PF13912.7  Q8TAF7               -             0.0035   17.3   1.6    0.0042   17.1   1.6   1.3   1   1   0   1   1   1   1 C2H2-type zinc finger
+zf-H2C2_2            PF13465.7  Q8TAF7               -             0.0042   17.5   2.3    0.0043   17.4   0.7   1.7   2   0   0   2   2   2   1 Zinc-finger double domain
+zf_UBZ               PF18439.2  Q8TAF7               -             0.0097   15.6   0.3      0.01   15.5   0.3   1.1   1   0   0   1   1   1   1 Ubiquitin-Binding Zinc Finger
+Zn-ribbon_8          PF09723.11 Q8TAF7               -              0.014   15.6   0.5     0.014   15.6   0.5   1.1   1   0   0   1   1   1   0 Zinc ribbon domain
+XPA_N                PF01286.19 Q8TAF7               -              0.024   14.7   0.1     0.024   14.7   0.1   1.1   1   0   0   1   1   1   0 XPA protein N-terminal
+HTH_psq              PF05225.17 Q15361               -              0.063   13.0   0.3     0.064   13.0   0.3   1.1   1   0   0   1   1   1   0 helix-turn-helix, Psq domain
+HTH_psq              PF05225.17 Q15361               -              0.056   13.2   0.3     0.056   13.2   0.3   1.1   1   0   0   1   1   1   0 helix-turn-helix, Psq domain
+HTH_psq              PF05225.17 Q15361               -              0.063   13.1   0.3     0.064   13.0   0.3   1.1   1   0   0   1   1   1   0 helix-turn-helix, Psq domain
+Tfb2                 PF03849.15 Q92759               -            3.2e-06   26.3   0.1   3.2e-06   26.3   0.1   1.0   1   0   0   1   1   1   1 Transcription factor Tfb2
+TEA                  PF01285.19 Q15561               -            1.6e-08   34.6   1.1   1.6e-08   34.6   1.1   1.0   1   0   0   1   1   1   1 TEA/ATTS domain
+zf-H2C2_2            PF13465.7  Q52M93               -              0.016   15.6   0.1     0.018   15.5   0.1   1.1   1   0   0   1   1   1   0 Zinc-finger double domain
+zf-H2C2_2            PF13465.7  Q6ZN08               -            0.00033   21.0   0.5   0.00037   20.8   0.5   1.1   1   0   0   1   1   1   1 Zinc-finger double domain
+zf-H2C2_2            PF13465.7  Q6ZN08               -            0.00032   21.0   2.0   0.00037   20.8   2.0   1.1   1   0   0   1   1   1   1 Zinc-finger double domain
+zf-H2C2_2            PF13465.7  Q6ZN08               -              0.027   14.9   1.3     0.032   14.7   0.2   1.6   2   0   0   2   2   2   0 Zinc-finger double domain
+zf-C2H2              PF00096.27 Q9BUY5               -            0.00084   19.7   0.6   0.00089   19.6   0.6   1.0   1   0   0   1   1   1   1 Zinc finger, C2H2 type
+zf-H2C2_2            PF13465.7  Q9BUY5               -              0.011   16.2   1.9     0.014   15.9   1.0   1.7   1   1   1   2   2   2   0 Zinc-finger double domain
+zf-H2C2_5            PF13909.7  Q9BUY5               -               0.37   10.6   3.1      0.58   10.0   3.1   1.5   1   1   0   1   1   1   0 C2H2-type zinc-finger domain
+zf-C2H2              PF00096.27 Q6ECI4               -            0.00028   21.2   0.5   0.00031   21.0   0.5   1.1   1   0   0   1   1   1   1 Zinc finger, C2H2 type
+zf-C2H2_4            PF13894.7  Q6ECI4               -              0.014   16.2   0.6     0.015   16.1   0.6   1.1   1   0   0   1   1   1   0 C2H2-type zinc finger
+zf-H2C2_2            PF13465.7  Q6ECI4               -               0.02   15.3   0.3      0.03   14.8   0.3   1.3   1   0   0   1   1   1   0 Zinc-finger double domain
+XPA_N                PF01286.19 Q6ECI4               -              0.045   13.8   0.6     0.063   13.4   0.2   1.5   2   0   0   2   2   2   0 XPA protein N-terminal
+Zn-ribbon_8          PF09723.11 Q6ECI4               -              0.049   13.8   0.6     0.049   13.8   0.6   1.2   1   0   0   1   1   1   0 Zinc ribbon domain
+zf-C2H2_6            PF13912.7  Q6ECI4               -              0.086   12.9   1.8      0.13   12.3   1.8   1.4   1   1   0   1   1   1   0 C2H2-type zinc finger
+zf-C2H2              PF00096.27 Q6IQ21               -             0.0064   16.9   2.4    0.0067   16.8   2.4   1.0   1   0   0   1   1   1   1 Zinc finger, C2H2 type
+AT_hook              PF02178.20 Q9UKY1               -               0.42   10.7  30.0      0.76    9.9   6.5   3.2   1   1   1   2   2   2   0 AT hook motif
+AT_hook              PF02178.20 Q9UKY1               -               0.21   11.6  21.2       2.3    8.4   8.4   2.3   1   1   1   2   2   2   0 AT hook motif
+AT_hook              PF02178.20 Q9UKY1               -               0.12   12.3  28.2       3.7    7.8   6.1   3.2   1   1   1   2   2   2   0 AT hook motif
+zf-C2H2              PF00096.27 P13682               -            2.8e-08   33.8   0.4   2.9e-08   33.7   0.4   1.0   1   0   0   1   1   1   1 Zinc finger, C2H2 type
+zf-C2H2_4            PF13894.7  P13682               -              0.001   19.7   0.3    0.0011   19.7   0.3   1.0   1   0   0   1   1   1   1 C2H2-type zinc finger
+zf-C2H2_6            PF13912.7  P13682               -               0.01   15.8   0.3     0.011   15.8   0.3   1.2   1   0   0   1   1   1   0 C2H2-type zinc finger
+zf-H2C2_2            PF13465.7  P13682               -              0.015   15.8   1.4     0.017   15.5   0.4   1.6   2   0   0   2   2   2   0 Zinc-finger double domain
+Zn-ribbon_8          PF09723.11 P13682               -              0.031   14.4   0.1     0.031   14.4   0.1   1.1   1   0   0   1   1   1   0 Zinc ribbon domain
+zf_UBZ               PF18439.2  P13682               -              0.055   13.2   0.1     0.055   13.2   0.1   1.1   1   0   0   1   1   1   0 Ubiquitin-Binding Zinc Finger
+zf-H2C2_2            PF13465.7  Q8IYN0               -             0.0016   18.8   1.6    0.0019   18.5   1.6   1.2   1   0   0   1   1   1   1 Zinc-finger double domain
+zf-C2H2              PF00096.27 Q8IYN0               -              0.083   13.4   2.9       0.1   13.1   2.9   1.2   1   0   0   1   1   1   0 Zinc finger, C2H2 type
+zf-H2C2_2            PF13465.7  P51508               -            0.00063   20.1   0.3    0.0007   19.9   0.3   1.1   1   0   0   1   1   1   1 Zinc-finger double domain
+zf-C2H2              PF00096.27 P51508               -               0.11   13.0   0.4      0.12   12.8   0.4   1.1   1   0   0   1   1   1   0 Zinc finger, C2H2 type
+Swi3                 PF07962.13 Q9BVW5               -              0.016   15.2   0.0     0.016   15.2   0.0   1.0   1   0   0   1   1   1   0 Replication Fork Protection Component Swi3
+zf-C2H2              PF00096.27 Q49AA0               -            5.9e-06   26.5   1.2   5.9e-06   26.5   1.2   1.0   1   0   0   1   1   1   1 Zinc finger, C2H2 type
+zf-C2H2_4            PF13894.7  Q49AA0               -              0.001   19.7   1.0    0.0011   19.7   1.0   1.1   1   0   0   1   1   1   1 C2H2-type zinc finger
+Zn-ribbon_8          PF09723.11 Q49AA0               -             0.0073   16.5   0.2    0.0073   16.5   0.2   1.1   1   0   0   1   1   1   1 Zinc ribbon domain
+zf-C2H2_6            PF13912.7  Q49AA0               -             0.0082   16.2   0.9    0.0082   16.2   0.9   1.9   2   0   0   2   2   2   1 C2H2-type zinc finger
+zf-H2C2_2            PF13465.7  Q49AA0               -             0.0088   16.5   1.1    0.0088   16.5   1.1   1.9   2   0   0   2   2   2   1 Zinc-finger double domain
+DUF1187              PF06688.12 Q49AA0               -              0.062   13.7   0.0     0.062   13.7   0.0   1.0   1   0   0   1   1   1   0 Protein of unknown function (DUF1187)
+zf-H2C2_2            PF13465.7  Q8N720               -            0.00016   22.0   1.0   0.00017   21.9   1.0   1.1   1   0   0   1   1   1   1 Zinc-finger double domain
+zf-C2H2              PF00096.27 Q8N720               -              0.082   13.4   1.1       0.1   13.1   1.1   1.2   1   0   0   1   1   1   0 Zinc finger, C2H2 type
+zf-MIZ               PF02891.21 O75925               -            9.8e-07   28.4   0.4   1.1e-06   28.3   0.4   1.1   1   0   0   1   1   1   1 MIZ/SP-RING zinc finger
+zf-Sec23_Sec24       PF04810.16 O75925               -             0.0041   17.2   0.1    0.0045   17.0   0.1   1.1   1   0   0   1   1   1   1 Sec23/Sec24 zinc finger
+Vps36-NZF-N          PF16988.6  O75925               -               0.02   14.3   0.1     0.021   14.3   0.1   1.1   1   0   0   1   1   1   0 Vacuolar protein sorting 36 NZF-N zinc-finger domain
+zf-H2C2_2            PF13465.7  O75925               -              0.024   15.1   0.2     0.027   14.9   0.2   1.3   1   0   0   1   1   1   0 Zinc-finger double domain
+zf-CHCC              PF10276.10 O75925               -              0.045   13.8   0.2     0.055   13.5   0.2   1.2   1   0   0   1   1   1   0 Zinc-finger domain
+bZIP_2               PF07716.16 Q9UKL0               -              0.089   12.9   0.3     0.089   12.9   0.3   1.1   1   0   0   1   1   1   0 Basic region leucine zipper
+zf-SAP30             PF13866.7  Q9HAJ7               -            1.8e-05   24.8   1.4   1.9e-05   24.7   1.4   1.0   1   0   0   1   1   1   1 SAP30 zinc-finger
+PINIT                PF14324.7  O75928               -              0.032   14.7   0.1     0.032   14.7   0.1   1.0   1   0   0   1   1   1   0 PINIT domain
+SPAN-X               PF07458.13 Q9BXN6               -            6.8e-06   26.5   0.1   6.8e-06   26.5   0.1   1.0   1   0   0   1   1   1   1 Sperm protein associated with nucleus, mapped to X chromosome
+SPAN-X               PF07458.13 Q9BXN6               -              4e-07   30.5   0.1     4e-07   30.5   0.1   1.0   1   0   0   1   1   1   1 Sperm protein associated with nucleus, mapped to X chromosome
+Sin_N                PF04801.14 Q9NVU0               -            1.8e-05   24.2   0.0   1.9e-05   24.2   0.0   1.0   1   0   0   1   1   1   1 Sin-like protein conserved region
+Tho1_MOS11_C         PF18592.2  P82979               -             0.0055   16.7   4.3    0.0083   16.1   4.3   1.4   1   1   0   1   1   1   1 Tho1/MOS11 C-terminal domain
+Tho1_MOS11_C         PF18592.2  P82979               -            0.00033   20.6   0.1   0.00033   20.6   0.1   1.1   1   0   0   1   1   1   1 Tho1/MOS11 C-terminal domain
+Tho1_MOS11_C         PF18592.2  P82979               -             0.0051   16.8   4.4    0.0075   16.2   4.4   1.4   1   1   0   1   1   1   1 Tho1/MOS11 C-terminal domain
+DUF3583              PF12126.9  P29590               -            0.00018   21.1   1.0   0.00018   21.1   1.0   1.0   1   0   0   1   1   1   1 Protein of unknown function (DUF3583)
+MA3                  PF02847.18 Q53EL6               -               0.18   11.8   0.0      0.18   11.8   0.0   1.0   1   0   0   1   1   1   0 MA3 domain
+zf-C2H2              PF00096.27 Q14872               -             0.0054   17.1   1.4    0.0058   17.1   1.4   1.0   1   0   0   1   1   1   1 Zinc finger, C2H2 type
+zf-H2C2_2            PF13465.7  Q14872               -               0.12   12.9   2.0      0.12   12.9   2.0   1.5   2   0   0   2   2   2   0 Zinc-finger double domain
+Phospho_p8           PF10195.10 O60356               -            1.1e-09   38.7   0.5   1.3e-09   38.5   0.5   1.1   1   0   0   1   1   1   1 DNA-binding nuclear phosphoprotein p8
+AT_hook              PF02178.20 Q96BD5               -            0.00024   20.6   2.2   0.00028   20.4   2.2   1.2   1   0   0   1   1   1   1 AT hook motif
+AT_hook              PF02178.20 Q96BD5               -            0.00024   20.7   2.2   0.00028   20.4   2.2   1.2   1   0   0   1   1   1   1 AT hook motif
+Atrophin-1           PF03154.16 Q9P2R6               -            0.00034   18.9   0.9   0.00035   18.9   0.9   1.0   1   0   0   1   1   1   1 Atrophin-1 family
+Homeodomain          PF00046.30 P17482               -            1.5e-05   24.8   4.1   1.8e-05   24.5   4.1   1.1   1   0   0   1   1   1   1 Homeodomain
+Homeodomain          PF00046.30 P50221               -              4e-05   23.4   7.8   4.2e-05   23.3   7.8   1.0   1   0   0   1   1   1   1 Homeodomain
+Homeodomain          PF00046.30 P50222               -            3.9e-05   23.4   7.8   4.2e-05   23.3   7.8   1.1   1   0   0   1   1   1   1 Homeodomain
+P120R                PF08062.12 P46087               -              0.018   15.3   7.7     0.018   15.3   7.7   1.5   2   0   0   2   2   2   0 P120R (NUC006) repeat
+bZIP_1               PF00170.22 Q16236               -            3.2e-06   27.1   0.4   3.2e-06   27.1   0.4   1.0   1   0   0   1   1   1   1 bZIP transcription factor
+bZIP_Maf             PF03131.18 Q16236               -            9.3e-05   22.9   0.2   9.3e-05   22.9   0.2   1.0   1   0   0   1   1   1   1 bZIP Maf transcription factor
+bZIP_2               PF07716.16 Q16236               -              0.018   15.1   1.0      0.02   15.0   1.0   1.0   1   0   0   1   1   1   0 Basic region leucine zipper
+bZIP_Maf             PF03131.18 Q16236               -            1.2e-08   35.3   2.4   1.2e-08   35.3   2.4   1.0   1   0   0   1   1   1   1 bZIP Maf transcription factor
+bZIP_1               PF00170.22 Q16236               -            2.9e-06   27.3   2.4     3e-06   27.2   2.4   1.0   1   0   0   1   1   1   1 bZIP transcription factor
+bZIP_2               PF07716.16 Q16236               -             0.0037   17.3   4.2    0.0038   17.3   4.2   1.1   1   0   0   1   1   1   1 Basic region leucine zipper
+Calsarcin            PF05556.12 Q9NP98               -              0.015   14.9   0.0     0.015   14.9   0.0   1.0   1   0   0   1   1   1   0 Calcineurin-binding protein (Calsarcin)
+zf-C4                PF00105.19 O75469               -             0.0073   16.8   0.3    0.0073   16.8   0.3   1.0   1   0   0   1   1   1   1 Zinc finger, C4 type (two domains)
+zf-C4                PF00105.19 O75469               -            2.5e-12   47.1  13.3   2.7e-12   47.0  13.3   1.0   1   0   0   1   1   1   1 Zinc finger, C4 type (two domains)
+NUFIP2               PF15293.7  Q7Z417               -            9.6e-09   34.7   2.7   9.7e-09   34.7   2.7   1.0   1   0   0   1   1   1   1 Nuclear fragile X mental retardation-interacting protein 2
+PBSX_XtrA            PF17356.3  P20700               -              0.098   12.6   0.1      0.11   12.5   0.1   1.0   1   0   0   1   1   1   0 Phage-like element PBSX protein XtrA
+PBSX_XtrA            PF17356.3  P20700               -               0.11   12.5   0.1      0.12   12.3   0.1   1.0   1   0   0   1   1   1   0 Phage-like element PBSX protein XtrA
+PBSX_XtrA            PF17356.3  P20700               -              0.094   12.7   0.1     0.094   12.7   0.1   1.0   1   0   0   1   1   1   0 Phage-like element PBSX protein XtrA
+NUT                  PF12881.8  Q86Y26               -            0.00019   20.1   0.0   0.00019   20.1   0.0   1.0   1   0   0   1   1   1   1 NUT protein
+WSK                  PF03832.14 Q86Y26               -             0.0045   16.7   2.7    0.0047   16.6   2.7   1.1   1   0   0   1   1   1   1 WSK motif
+Homeodomain          PF00046.30 P31269               -            1.5e-05   24.8   4.1   1.8e-05   24.5   4.1   1.2   1   0   0   1   1   1   1 Homeodomain
+DUF4748              PF15932.6  Q8TF01               -               0.98    9.3   5.5      0.93    9.3   5.5   1.0   1   0   0   1   1   1   0 Domain of unknown function (DUF4748)
+NRIP1_repr_1         PF15687.6  P48552               -            2.3e-05   24.3   0.2   2.3e-05   24.2   0.2   1.0   1   0   0   1   1   1   1 Nuclear receptor-interacting protein 1 repression 1
+INCA1                PF15142.7  Q0VD86               -            2.4e-08   34.2   2.6   2.5e-08   34.2   2.6   1.0   1   0   0   1   1   1   1 INCA1
+zf-C3HC4_3           PF13920.7  Q00987               -            4.4e-07   29.7   4.6   4.4e-07   29.7   4.6   1.0   1   0   0   1   1   1   1 Zinc finger, C3HC4 type (RING finger)
+zf-RING_2            PF13639.7  Q00987               -             0.0027   18.1   3.5    0.0027   18.1   3.5   1.0   1   0   0   1   1   1   1 Ring finger domain
+zf-RING_5            PF14634.7  Q00987               -              0.011   15.7   4.6     0.012   15.6   4.6   1.0   1   0   0   1   1   1   0 zinc-RING finger domain
+zf-RING_4            PF14570.7  Q00987               -              0.029   14.1   4.3     0.033   14.0   4.3   1.0   1   0   0   1   1   1   0 RING/Ubox like zinc-binding domain
+zf-C3HC4             PF00097.26 Q00987               -              0.073   13.0   5.2     0.079   12.9   5.2   1.1   1   0   0   1   1   1   0 Zinc finger, C3HC4 type (RING finger)
+zinc_ribbon_2        PF13240.7  Q00987               -               0.24   11.2   6.0      0.28   11.0   6.0   1.1   1   0   0   1   1   1   0 zinc-ribbon domain
+Nrf1_DNA-bind        PF10491.10 Q16656               -            7.9e-09   35.5   1.0   8.1e-09   35.5   1.0   1.0   1   0   0   1   1   1   1 NLS-binding and DNA-binding and dimerisation domains of Nrf1
+Nrf1_DNA-bind        PF10491.10 Q16656               -            3.3e-08   33.5   0.3   3.3e-08   33.5   0.3   1.0   1   0   0   1   1   1   1 NLS-binding and DNA-binding and dimerisation domains of Nrf1
+PA28_beta            PF02252.19 P61289               -            0.00078   19.2   0.2   0.00078   19.2   0.2   1.0   1   0   0   1   1   1   1 Proteasome activator pa28 beta subunit
+zf-C2H2_aberr        PF17017.6  Q86VZ6               -             0.0089   16.2   0.2    0.0089   16.2   0.2   1.0   1   0   0   1   1   1   1 Aberrant zinc-finger
+Menin                PF05053.14 O00255               -               0.12   10.7   0.2      0.12   10.8   0.2   1.0   1   0   0   1   1   1   0 Menin
+HNF-1_N              PF04814.14 P35680               -            3.9e-10   40.4   0.2     4e-10   40.4   0.2   1.0   1   0   0   1   1   1   1 Hepatocyte nuclear factor 1 (HNF-1), N terminus
+PSRP-3_Ycf65         PF04839.14 Q8IVI9               -              0.078   13.2   0.1     0.079   13.2   0.1   1.0   1   0   0   1   1   1   0 Plastid and cyanobacterial ribosomal protein (PSRP-3 / Ycf65)
+DUF3619              PF12279.9  Q96EL1               -               0.54   10.6   3.4      0.51   10.7   3.4   1.0   1   0   0   1   1   1   0 Protein of unknown function (DUF3619)
+HLH                  PF00010.27 Q9BW11               -            3.9e-05   23.6   3.1   3.9e-05   23.6   3.1   1.0   1   0   0   1   1   1   1 Helix-loop-helix DNA-binding domain
+DUF4683              PF15735.6  Q5QGS0               -              3e-06   27.2   1.6     3e-06   27.2   1.6   1.0   1   0   0   1   1   1   1 Domain of unknown function (DUF4683)
+DUF4683              PF15735.6  Q5QGS0               -            1.8e-05   24.6   2.3   1.9e-05   24.6   2.3   1.0   1   0   0   1   1   1   1 Domain of unknown function (DUF4683)
+AT_hook              PF02178.20 Q9NTI5               -             0.0066   16.2   2.5    0.0081   15.9   2.5   1.2   1   0   0   1   1   1   1 AT hook motif
+zf-C2H2              PF00096.27 P28698               -            2.3e-05   24.6   0.1   2.4e-05   24.6   0.1   1.0   1   0   0   1   1   1   1 Zinc finger, C2H2 type
+zf-C2H2_4            PF13894.7  P28698               -             0.0031   18.3   0.1    0.0032   18.2   0.1   1.0   1   0   0   1   1   1   1 C2H2-type zinc finger
+zf-C2HE              PF16278.6  P28698               -              0.015   15.7   0.1     0.016   15.7   0.1   1.0   1   0   0   1   1   1   0 C2HE / C2H2 / C2HC zinc-binding finger
+zf_UBZ               PF18439.2  P28698               -              0.054   13.2   0.0     0.054   13.2   0.0   1.1   1   0   0   1   1   1   0 Ubiquitin-Binding Zinc Finger
+zf-H2C2_2            PF13465.7  P28698               -               0.11   12.9   1.8      0.16   12.4   0.3   1.8   2   0   0   2   2   2   0 Zinc-finger double domain
+zf-C2H2              PF00096.27 P28698               -            2.4e-06   27.7   0.1   2.5e-06   27.6   0.1   1.0   1   0   0   1   1   1   1 Zinc finger, C2H2 type
+zf-C2H2_4            PF13894.7  P28698               -            0.00018   22.1   0.1   0.00018   22.1   0.1   1.0   1   0   0   1   1   1   1 C2H2-type zinc finger
+zf-H2C2_2            PF13465.7  P28698               -             0.0044   17.4   2.4    0.0046   17.4   0.6   1.8   2   0   0   2   2   2   1 Zinc-finger double domain
+zf_UBZ               PF18439.2  P28698               -             0.0091   15.7   0.1    0.0091   15.7   0.1   1.1   1   0   0   1   1   1   1 Ubiquitin-Binding Zinc Finger
+zf-C2H2_6            PF13912.7  P28698               -              0.022   14.8   0.3      0.03   14.4   0.3   1.4   1   1   0   1   1   1   0 C2H2-type zinc finger
+DUF5810              PF19126.1  P28698               -              0.023   14.8   0.1     0.023   14.8   0.1   1.0   1   0   0   1   1   1   0 Family of unknown function (DUF5810)
+zf-C2HE              PF16278.6  P28698               -              0.085   13.4   0.0     0.085   13.4   0.0   1.0   1   0   0   1   1   1   0 C2HE / C2H2 / C2HC zinc-binding finger
+zf-H2C2_5            PF13909.7  P28698               -               0.55   10.0   3.0       2.9    7.8   0.2   2.0   2   0   0   2   2   2   0 C2H2-type zinc-finger domain
+Macoilin             PF09726.10 Q8N5G2               -            0.00082   18.1   2.2   0.00082   18.1   2.2   1.0   1   0   0   1   1   1   1 Macoilin family
+MBD_C                PF14048.7  Q9UBB5               -            6.4e-05   23.6   4.4   6.7e-05   23.6   4.4   1.0   1   0   0   1   1   1   1 C-terminal domain of methyl-CpG binding protein 2 and 3
+zf-C2H2              PF00096.27 Q96K83               -             0.0031   17.9   0.5    0.0033   17.8   0.5   1.1   1   0   0   1   1   1   1 Zinc finger, C2H2 type
+zf-H2C2_2            PF13465.7  Q96K83               -            0.00073   19.9   2.6   0.00088   19.6   2.6   1.2   1   0   0   1   1   1   1 Zinc-finger double domain
+zf-H2C2_2            PF13465.7  Q8IYX0               -             0.0013   19.1   1.3    0.0016   18.8   0.4   1.6   2   0   0   2   2   2   1 Zinc-finger double domain
+zf-H2C2_2            PF13465.7  Q8IYX0               -              0.003   17.9   0.4    0.0034   17.8   0.4   1.2   1   0   0   1   1   1   1 Zinc-finger double domain
+zf-C2H2              PF00096.27 Q2M1K9               -             0.0041   17.5   0.5    0.0042   17.5   0.5   1.1   1   0   0   1   1   1   1 Zinc finger, C2H2 type
+zf-H2C2_2            PF13465.7  Q2M1K9               -              0.005   17.2   1.6     0.006   17.0   1.6   1.2   1   0   0   1   1   1   1 Zinc-finger double domain
+zf-H2C2_2            PF13465.7  Q8TF32               -            1.1e-06   28.8   2.0   1.1e-06   28.8   2.0   1.0   1   0   0   1   1   1   1 Zinc-finger double domain
+zf-H2C2_2            PF13465.7  Q8TF32               -            4.9e-05   23.6   1.1   5.6e-05   23.4   0.9   1.3   1   1   0   1   1   1   1 Zinc-finger double domain
+zf-H2C2_5            PF13909.7  Q8TF32               -              0.028   14.2   0.4     0.031   14.0   0.4   1.1   1   0   0   1   1   1   0 C2H2-type zinc-finger domain
+zf-H2C2_2            PF13465.7  Q8TF32               -            0.00036   20.9   0.5   0.00037   20.8   0.5   1.1   1   0   0   1   1   1   1 Zinc-finger double domain
+Tash_PEST            PF07708.12 O95785               -               0.19   12.0   0.0      0.22   11.8   0.0   1.1   1   0   0   1   1   1   0 Tash protein PEST motif
+DUF4195              PF13836.7  Q6N043               -            1.7e-05   25.1   1.0   1.7e-05   25.1   1.0   1.0   1   0   0   1   1   1   1 Domain of unknown function (DUF4195)
+zf-H2C2_2            PF13465.7  Q68DY1               -               0.02   15.3   0.6     0.026   15.0   0.6   1.2   1   0   0   1   1   1   0 Zinc-finger double domain
+zf-H2C2_2            PF13465.7  Q68DY1               -            0.00035   20.9   0.7   0.00042   20.6   0.7   1.2   1   0   0   1   1   1   1 Zinc-finger double domain
+TEA                  PF01285.19 Q99594               -            1.6e-08   34.6   1.1   1.6e-08   34.6   1.1   1.0   1   0   0   1   1   1   1 TEA/ATTS domain
+Homeodomain          PF00046.30 A6NJT0               -            1.7e-05   24.6   8.4     2e-05   24.4   8.4   1.1   1   0   0   1   1   1   1 Homeodomain
+zf-H2C2_2            PF13465.7  Q8N7Q3               -            1.3e-05   25.4   0.6   1.4e-05   25.3   0.6   1.1   1   0   0   1   1   1   1 Zinc-finger double domain
+zf-C2H2              PF00096.27 Q8N7Q3               -              0.017   15.6   1.4     0.021   15.3   1.4   1.2   1   0   0   1   1   1   0 Zinc finger, C2H2 type
+zf-H2C2_5            PF13909.7  Q8N7Q3               -              0.043   13.6   0.6     0.051   13.4   0.6   1.1   1   0   0   1   1   1   0 C2H2-type zinc-finger domain
+zf-H2C2_2            PF13465.7  Q8NDQ6               -             0.0018   18.6   0.1    0.0019   18.5   0.1   1.1   1   0   0   1   1   1   1 Zinc-finger double domain
+zf-H2C2_5            PF13909.7  Q8NDQ6               -             0.0069   16.1   0.6    0.0085   15.9   0.6   1.1   1   0   0   1   1   1   1 C2H2-type zinc-finger domain
+zf-H2C2_2            PF13465.7  Q9P255               -            9.4e-05   22.7   0.6    0.0001   22.6   0.6   1.1   1   0   0   1   1   1   1 Zinc-finger double domain
+zf-H2C2_2            PF13465.7  Q9P255               -            7.9e-05   22.9   0.5   8.6e-05   22.8   0.5   1.1   1   0   0   1   1   1   1 Zinc-finger double domain
+zf-H2C2_2            PF13465.7  Q9P255               -             0.0024   18.2   1.6    0.0027   18.1   1.6   1.1   1   0   0   1   1   1   1 Zinc-finger double domain
+zf-C2H2              PF00096.27 Q9P255               -               0.21   12.2   2.4      0.26   11.9   2.4   1.2   1   0   0   1   1   1   0 Zinc finger, C2H2 type
+zf-C2H2              PF00096.27 Q9P255               -              0.084   13.4   0.9      0.11   13.0   0.9   1.2   1   0   0   1   1   1   0 Zinc finger, C2H2 type
+zf-H2C2_2            PF13465.7  Q9P255               -            0.00031   21.0   2.0   0.00037   20.8   2.0   1.2   1   0   0   1   1   1   1 Zinc-finger double domain
+zf-C2H2              PF00096.27 Q9P255               -               0.39   11.3   3.3      0.48   11.0   3.3   1.2   1   0   0   1   1   1   0 Zinc finger, C2H2 type
+BEX                  PF04538.13 Q9H3H9               -            0.00029   21.5   0.4   0.00029   21.5   0.4   1.0   1   0   0   1   1   1   1 Brain expressed X-linked like family
+BEX                  PF04538.13 Q969E4               -            3.5e-05   24.5   0.5   3.5e-05   24.5   0.5   1.0   1   0   0   1   1   1   1 Brain expressed X-linked like family
+XRCC4                PF06632.13 Q13426               -            8.2e-07   28.2   0.3   8.2e-07   28.2   0.3   1.0   1   0   0   1   1   1   1 DNA double-strand break repair and V(D)J recombination protein XRCC4
+Zfx_Zfy_act          PF04704.14 P17010               -            1.4e-05   24.3   1.4   1.4e-05   24.3   1.4   1.0   1   0   0   1   1   1   1 Zfx / Zfy transcription activation region
+zf-H2C2_2            PF13465.7  Q6ZNG1               -              0.001   19.4   0.4     0.001   19.4   0.4   1.1   1   0   0   1   1   1   1 Zinc-finger double domain
+zf-H2C2_2            PF13465.7  A8MTY0               -            0.00033   21.0   2.0   0.00037   20.8   2.0   1.1   1   0   0   1   1   1   1 Zinc-finger double domain
+zf-C2H2              PF00096.27 A8MTY0               -              0.082   13.4   2.5       0.1   13.1   2.5   1.2   1   0   0   1   1   1   0 Zinc finger, C2H2 type
+zf-H2C2_2            PF13465.7  Q13105               -              0.063   13.8   0.0     0.067   13.7   0.0   1.0   1   0   0   1   1   1   0 Zinc-finger double domain
+zf-H2C2_2            PF13465.7  Q8N4W9               -            2.9e-05   24.3   0.8   3.2e-05   24.2   0.8   1.1   1   0   0   1   1   1   1 Zinc-finger double domain
+zf-H2C2_5            PF13909.7  Q8N4W9               -              0.003   17.3   0.7    0.0036   17.1   0.7   1.1   1   0   0   1   1   1   1 C2H2-type zinc-finger domain
+zf-C2H2              PF00096.27 Q8N4W9               -              0.026   15.0   0.7     0.032   14.7   0.7   1.2   1   0   0   1   1   1   0 Zinc finger, C2H2 type
+zf-H2C2_2            PF13465.7  Q03936               -             0.0014   19.0   0.3    0.0015   18.9   0.3   1.1   1   0   0   1   1   1   1 Zinc-finger double domain
+zf-H2C2_2            PF13465.7  Q5HYK9               -             0.0016   18.8   0.3     0.002   18.5   0.3   1.2   1   0   0   1   1   1   1 Zinc-finger double domain
+zf-H2C2_2            PF13465.7  Q5SXM1               -            9.1e-06   25.9   0.4     1e-05   25.8   0.4   1.1   1   0   0   1   1   1   1 Zinc-finger double domain
+zf-H2C2_2            PF13465.7  Q5SXM1               -             0.0001   22.6   0.9   0.00011   22.4   0.9   1.1   1   0   0   1   1   1   1 Zinc-finger double domain
+Chromo               PF00385.25 O95503               -             0.0029   17.5   0.1    0.0029   17.5   0.1   1.0   1   0   0   1   1   1   1 Chromo (CHRromatin Organisation MOdifier) domain
+Homeodomain          PF00046.30 P52951               -            5.9e-06   26.1   7.6   6.3e-06   26.0   7.6   1.0   1   0   0   1   1   1   1 Homeodomain
+DUF4611              PF15387.7  Q9BXV9               -              0.021   15.1   0.1     0.021   15.1   0.1   1.0   1   0   0   1   1   1   0 Domain of unknown function (DUF4611)
+DUF4611              PF15387.7  Q9BXV9               -               0.05   13.9   0.2      0.05   13.9   0.2   1.0   1   0   0   1   1   1   0 Domain of unknown function (DUF4611)
+HMG_box_2            PF09011.11 P09429               -            2.4e-09   37.7   0.5   2.5e-09   37.6   0.5   1.0   1   0   0   1   1   1   1 HMG-box domain
+HMG_box              PF00505.20 P09429               -            0.00026   21.4   0.1   0.00027   21.3   0.1   1.0   1   0   0   1   1   1   1 HMG (high mobility group) box
+HMG_box_2            PF09011.11 P09429               -               0.02   15.5   0.8     0.021   15.4   0.8   1.0   1   0   0   1   1   1   0 HMG-box domain
+HMG_box_2            PF09011.11 P09429               -             0.0001   22.9   0.2    0.0001   22.9   0.2   1.0   1   0   0   1   1   1   1 HMG-box domain
+HMG_box              PF00505.20 P09429               -              0.021   15.3   0.1     0.022   15.2   0.1   1.0   1   0   0   1   1   1   0 HMG (high mobility group) box
+MRVI1                PF05781.13 Q12912               -            0.00032   19.5   0.0   0.00032   19.5   0.0   1.0   1   0   0   1   1   1   1 MRVI1 protein
+NAP                  PF00956.19 P55209               -             0.0085   15.3   1.8    0.0085   15.3   1.8   1.0   1   0   0   1   1   1   1 Nucleosome assembly protein (NAP)
+NAP                  PF00956.19 P55209               -             0.0046   16.2   2.2    0.0046   16.2   2.2   1.0   1   0   0   1   1   1   1 Nucleosome assembly protein (NAP)
+NAP                  PF00956.19 P55209               -              0.015   14.5   2.3     0.015   14.5   2.3   1.0   1   0   0   1   1   1   0 Nucleosome assembly protein (NAP)
+bZIP_1               PF00170.22 Q16621               -            2.6e-06   27.5   0.3   2.6e-06   27.5   0.3   1.0   1   0   0   1   1   1   1 bZIP transcription factor
+bZIP_Maf             PF03131.18 Q16621               -            0.00037   21.0   0.2   0.00037   21.0   0.2   1.0   1   0   0   1   1   1   1 bZIP Maf transcription factor
+bZIP_2               PF07716.16 Q16621               -              0.027   14.6   0.4      0.03   14.4   0.4   1.0   1   0   0   1   1   1   0 Basic region leucine zipper
+bZIP_Maf             PF03131.18 Q16621               -            1.3e-07   32.0   2.7   1.3e-07   32.0   2.7   1.0   1   0   0   1   1   1   1 bZIP Maf transcription factor
+bZIP_1               PF00170.22 Q16621               -            2.6e-06   27.4   1.8   2.7e-06   27.4   1.8   1.0   1   0   0   1   1   1   1 bZIP transcription factor
+bZIP_2               PF07716.16 Q16621               -             0.0021   18.2   2.9    0.0023   18.0   2.9   1.1   1   0   0   1   1   1   1 Basic region leucine zipper
+Ion_trans_N          PF08412.11 P25205               -               0.24   11.0   1.0      0.27   10.9   1.0   1.1   1   0   0   1   1   1   0 Ion transport protein N-terminal
+Ion_trans_N          PF08412.11 P25205               -               0.25   11.0   1.0      0.27   10.9   1.0   1.1   1   0   0   1   1   1   0 Ion transport protein N-terminal
+Quaking_NLS          PF16551.6  Q96PU8               -            1.3e-16   59.9   6.2   1.3e-16   59.9   6.2   1.0   1   0   0   1   1   1   1 Putative nuclear localisation signal of quaking
+zf-H2C2_2            PF13465.7  Q9UKN5               -              8e-05   22.9   0.6   8.5e-05   22.8   0.6   1.0   1   0   0   1   1   1   1 Zinc-finger double domain
+zf-H2C2_5            PF13909.7  Q9UKN5               -            0.00097   18.9   0.1   0.00097   18.9   0.1   1.7   2   0   0   2   2   2   1 C2H2-type zinc-finger domain
+UPF0239              PF06783.12 P57052               -               0.81   10.0   7.3      0.85    9.9   7.3   1.1   1   0   0   1   1   1   0 Uncharacterised protein family (UPF0239)
+Homeodomain          PF00046.30 O75364               -            0.00051   19.9   9.1   0.00061   19.6   9.1   1.2   1   0   0   1   1   1   1 Homeodomain
+DUF3460              PF11943.9  O95072               -              0.078   13.3   0.2     0.078   13.3   0.2   1.0   1   0   0   1   1   1   0 Protein of unknown function (DUF3460)
+Ribosomal_S8e        PF01201.23 O95478               -              0.023   14.9  10.0      0.97    9.7  10.0   2.0   1   1   0   1   1   1   0 Ribosomal protein S8e
+Mustang              PF15682.6  Q8IVN3               -            4.8e-05   23.4   0.5   5.1e-05   23.3   0.5   1.0   1   0   0   1   1   1   1 Musculoskeletal, temporally activated-embryonic nuclear protein 1
+Mustang              PF15682.6  Q8IVN3               -            6.8e-05   22.9   0.5   7.6e-05   22.7   0.5   1.1   1   0   0   1   1   1   1 Musculoskeletal, temporally activated-embryonic nuclear protein 1
+TFIIB_C_1            PF18542.2  Q9Y314               -              0.041   14.0   0.1     0.041   14.0   0.1   1.0   1   0   0   1   1   1   0 Transcription factor IIB C-terminal module 1
+Homeodomain          PF00046.30 O60393               -            0.00097   19.0   7.5    0.0011   18.8   7.5   1.1   1   0   0   1   1   1   1 Homeodomain
+zf-Nse               PF11789.9  Q96MF7               -             0.0016   18.4   0.3    0.0016   18.3   0.3   1.0   1   0   0   1   1   1   1 Zinc-finger of the MIZ type in Nse subunit
+zf-Nse               PF11789.9  Q96MF7               -              0.016   15.1   0.1     0.016   15.1   0.1   1.0   1   0   0   1   1   1   0 Zinc-finger of the MIZ type in Nse subunit
+RAG1_imp_bd          PF12560.9  P15918               -             0.0075   15.9   0.1    0.0075   15.9   0.1   1.0   1   0   0   1   1   1   1 RAG1 importin binding
+WSK                  PF03832.14 Q13523               -               0.23   11.2   6.9      0.25   11.1   6.9   1.1   1   0   0   1   1   1   0 WSK motif
+IFRD_C               PF04836.13 Q13523               -              0.019   15.6   0.5     0.019   15.6   0.5   1.0   1   0   0   1   1   1   0 Interferon-related protein conserved region
+WSK                  PF03832.14 Q13523               -               0.14   11.9   6.0      0.15   11.8   6.0   1.1   1   0   0   1   1   1   0 WSK motif
+Daxx                 PF03344.16 Q9UER7               -            9.1e-07   28.9   0.4   9.2e-07   28.9   0.4   1.0   1   0   0   1   1   1   1 Daxx N-terminal Rassf1C-interacting domain
+Daxx                 PF03344.16 Q9UER7               -             0.0002   21.4   0.0    0.0002   21.4   0.0   1.0   1   0   0   1   1   1   1 Daxx N-terminal Rassf1C-interacting domain
+AT_hook              PF02178.20 P78545               -             0.0041   16.8   5.1    0.0041   16.8   5.1   1.7   3   0   0   3   3   3   1 AT hook motif
+RFX5_DNA_bdg         PF14621.7  P78545               -               0.47   10.2   5.3       0.4   10.4   5.3   1.0   1   0   0   1   1   1   0 RFX5 DNA-binding domain
+AT_hook              PF02178.20 P78545               -              0.021   14.7   7.0     0.021   14.7   7.0   1.7   3   0   0   3   3   3   0 AT hook motif
+RFX5_DNA_bdg         PF14621.7  P78545               -               0.38   10.5   4.8      0.33   10.7   4.8   1.1   1   0   0   1   1   1   0 RFX5 DNA-binding domain
+AT_hook              PF02178.20 P78545               -             0.0041   16.8   5.1    0.0041   16.8   5.1   1.4   2   0   0   2   2   2   1 AT hook motif
+RFX5_DNA_bdg         PF14621.7  P78545               -              0.086   12.6   2.8     0.087   12.6   2.8   1.0   1   0   0   1   1   1   0 RFX5 DNA-binding domain
+AT_hook              PF02178.20 P78545               -             0.0057   16.4   5.1    0.0057   16.4   5.1   1.7   3   0   0   3   3   3   1 AT hook motif
+RFX5_DNA_bdg         PF14621.7  P78545               -              0.084   12.6   2.6     0.081   12.7   2.6   1.0   1   0   0   1   1   1   0 RFX5 DNA-binding domain
+AT_hook              PF02178.20 P78545               -             0.0041   16.8   5.1    0.0041   16.8   5.1   1.4   2   0   0   2   2   2   1 AT hook motif
+RFX5_DNA_bdg         PF14621.7  P78545               -              0.043   13.6   1.9     0.043   13.6   1.9   1.0   1   0   0   1   1   1   0 RFX5 DNA-binding domain
+Homeodomain          PF00046.30 P17481               -            2.4e-05   24.1   6.9   2.7e-05   23.9   6.9   1.1   1   0   0   1   1   1   1 Homeodomain
+Homeodomain          PF00046.30 P17481               -            6.7e-06   25.9   7.6   7.8e-06   25.7   7.6   1.1   1   0   0   1   1   1   1 Homeodomain
+Homeodomain          PF00046.30 P09017               -            3.2e-05   23.7   6.3   3.6e-05   23.6   6.3   1.1   1   0   0   1   1   1   1 Homeodomain
+Homeodomain          PF00046.30 P09017               -            9.5e-06   25.4   6.9   1.1e-05   25.2   6.9   1.1   1   0   0   1   1   1   1 Homeodomain
+NUFIP1               PF10453.10 Q8TBE0               -               0.17   11.8   1.5      0.15   11.9   1.5   1.1   1   0   0   1   1   1   0 Nuclear fragile X mental retardation-interacting protein 1 (NUFIP1)
+NUFIP1               PF10453.10 Q8TBE0               -               0.16   11.9   1.2      0.13   12.1   1.2   1.1   1   0   0   1   1   1   0 Nuclear fragile X mental retardation-interacting protein 1 (NUFIP1)
+PP1_bind             PF15276.7  Q69YH5               -            6.7e-06   26.2   0.1   7.6e-06   26.0   0.1   1.1   1   0   0   1   1   1   1 Protein phosphatase 1 binding
+PP1_bind             PF15276.7  Q69YH5               -             0.0015   18.6   0.1    0.0018   18.4   0.1   1.1   1   0   0   1   1   1   1 Protein phosphatase 1 binding
+PP1_bind             PF15276.7  Q69YH5               -            7.9e-05   22.8   0.1   9.1e-05   22.6   0.1   1.1   1   0   0   1   1   1   1 Protein phosphatase 1 binding
+Homeodomain          PF00046.30 O15499               -            0.00014   21.7   5.5   0.00016   21.5   5.5   1.1   1   0   0   1   1   1   1 Homeodomain
+ROKNT                PF08067.12 P61978               -            2.7e-10   40.4   2.2   2.9e-10   40.3   2.2   1.0   1   0   0   1   1   1   1 ROKNT (NUC014) domain
+AT_hook              PF02178.20 P52926               -            0.00017   21.1   2.3   0.00023   20.7   2.3   1.3   1   0   0   1   1   1   1 AT hook motif
+AT_hook              PF02178.20 P52926               -            0.00016   21.2   2.3   0.00023   20.7   2.3   1.4   1   0   0   1   1   1   1 AT hook motif
+AT_hook              PF02178.20 P52926               -              0.063   13.2   8.1     0.088   12.8   8.1   1.3   1   0   0   1   1   1   0 AT hook motif
+AT_hook              PF02178.20 P52926               -            0.00054   19.6   4.8   0.00054   19.6   4.8   1.6   2   0   0   2   2   2   1 AT hook motif
+AT_hook              PF02178.20 P52926               -              0.058   13.3   8.1     0.088   12.8   8.1   1.4   1   0   0   1   1   1   0 AT hook motif
+AT_hook              PF02178.20 P52926               -            0.00018   21.1   2.3   0.00026   20.6   2.3   1.4   1   0   0   1   1   1   1 AT hook motif
+AT_hook              PF02178.20 P52926               -            0.00017   21.1   2.3   0.00023   20.7   2.3   1.3   1   0   0   1   1   1   1 AT hook motif
+AT_hook              PF02178.20 P52926               -            0.00046   19.8   4.8   0.00054   19.6   4.8   1.2   1   0   0   1   1   1   1 AT hook motif
+AT_hook              PF02178.20 P52926               -            0.00046   19.8   4.8   0.00061   19.4   4.8   1.3   1   0   0   1   1   1   1 AT hook motif
+AT_hook              PF02178.20 P52926               -              0.072   13.0   6.9     0.097   12.6   6.9   1.3   1   0   0   1   1   1   0 AT hook motif
+bZIP_1               PF00170.22 Q9BYV9               -            1.1e-05   25.5   2.5   1.1e-05   25.5   2.5   1.0   1   0   0   1   1   1   1 bZIP transcription factor
+bZIP_2               PF07716.16 Q9BYV9               -            0.00035   20.6   0.5   0.00035   20.6   0.5   1.1   1   0   0   1   1   1   1 Basic region leucine zipper
+bZIP_Maf             PF03131.18 Q9BYV9               -             0.0011   19.5   1.1    0.0011   19.5   1.1   1.0   1   0   0   1   1   1   1 bZIP Maf transcription factor
+Homeodomain          PF00046.30 P09630               -            3.2e-05   23.7   6.3   3.6e-05   23.6   6.3   1.1   1   0   0   1   1   1   1 Homeodomain
+Homeodomain          PF00046.30 P09630               -            9.5e-06   25.4   6.9   1.1e-05   25.2   6.9   1.1   1   0   0   1   1   1   1 Homeodomain
+Homeodomain          PF00046.30 Q03014               -            1.5e-05   24.7   7.6   1.7e-05   24.6   7.6   1.1   1   0   0   1   1   1   1 Homeodomain
+FRG2                 PF15315.7  Q64ET8               -            8.5e-05   22.8   4.0   8.5e-05   22.8   4.0   1.0   1   0   0   1   1   1   1 Facioscapulohumeral muscular dystrophy candidate 2
+Homeodomain          PF00046.30 P31268               -            3.3e-05   23.7   6.3   3.6e-05   23.6   6.3   1.1   1   0   0   1   1   1   1 Homeodomain
+Homeodomain          PF00046.30 P31268               -              1e-05   25.3   6.9   1.1e-05   25.2   6.9   1.1   1   0   0   1   1   1   1 Homeodomain
+BRD4_CDT             PF17105.6  Q8WUQ7               -              0.079   12.5   2.1     0.076   12.5   2.1   1.0   1   0   0   1   1   1   0 C-terminal domain of bromodomain protein 4
+zf-H2C2_5            PF13909.7  Q8NBF1               -              0.052   13.3   0.1     0.058   13.2   0.1   1.1   1   0   0   1   1   1   0 C2H2-type zinc-finger domain
+Fcf1                 PF04900.13 Q9Y324               -            1.4e-07   31.8   0.1   1.4e-07   31.8   0.1   1.0   1   0   0   1   1   1   1 Fcf1
+Homeodomain          PF00046.30 P31273               -            2.3e-05   24.2   6.9   2.7e-05   23.9   6.9   1.1   1   0   0   1   1   1   1 Homeodomain
+Homeodomain          PF00046.30 P31273               -            6.7e-06   25.9   7.6   7.8e-06   25.7   7.6   1.1   1   0   0   1   1   1   1 Homeodomain
+Chromo               PF00385.25 Q8N8U2               -            1.6e-05   24.7   3.4   1.7e-05   24.7   3.4   1.0   1   0   0   1   1   1   1 Chromo (CHRromatin Organisation MOdifier) domain
+Mtf2_C               PF14061.7  Q8N8U2               -             0.0053   16.9   0.7    0.0057   16.8   0.7   1.0   1   0   0   1   1   1   1 Polycomb-like MTF2 factor 2
+CR6_interact         PF10147.10 Q8TAE8               -               0.42   10.3   8.7      0.41   10.4   8.7   1.0   1   0   0   1   1   1   0 Growth arrest and DNA-damage-inducible proteins-interacting protein 1
+CR6_interact         PF10147.10 Q8TAE8               -              0.016   14.9   9.2     0.016   14.9   9.2   1.0   1   0   0   1   1   1   0 Growth arrest and DNA-damage-inducible proteins-interacting protein 1
+CR6_interact         PF10147.10 Q8TAE8               -              1e-05   25.4  10.8     1e-05   25.4  10.8   1.0   1   0   0   1   1   1   1 Growth arrest and DNA-damage-inducible proteins-interacting protein 1
+HTH_SUN2             PF18580.2  Q8TAE8               -               0.32   11.3   5.6      0.35   11.2   5.6   1.1   1   0   0   1   1   1   0 SUN2 helix-turn-helix domain
+FeoC                 PF09012.11 Q96BT7               -              0.075   13.1   0.0     0.075   13.1   0.0   1.0   1   0   0   1   1   1   0 FeoC like transcriptional regulator
+FCP1_C               PF09309.11 Q9Y5B0               -            0.00071   19.6   2.3   0.00071   19.6   2.3   1.0   1   0   0   1   1   1   1 FCP1, C-terminal
+CSRNP_N              PF16019.6  Q8WYN3               -            5.5e-06   26.5   0.0   5.5e-06   26.5   0.0   1.0   1   0   0   1   1   1   1 Cysteine/serine-rich nuclear protein N-terminus
+DM                   PF00751.19 Q5VZB9               -            9.1e-10   38.3   0.7   9.2e-10   38.3   0.7   1.0   1   0   0   1   1   1   1 DM DNA binding domain
+FRG1                 PF06229.13 Q14331               -            4.3e-05   23.3   0.1   4.3e-05   23.3   0.1   1.0   1   0   0   1   1   1   1 FRG1-like domain
+FRG1                 PF06229.13 Q14331               -            3.8e-10   39.8   1.3   3.9e-10   39.8   1.3   1.0   1   0   0   1   1   1   1 FRG1-like domain
+Cnd2                 PF05786.15 Q15003               -            0.00065   18.6   0.6   0.00065   18.6   0.6   1.0   1   0   0   1   1   1   1 Condensin complex subunit 2
+FAM92                PF06730.12 A1XBS5               -               0.01   15.3   0.1      0.01   15.3   0.1   1.0   1   0   0   1   1   1   0 FAM92 protein
+Docking              PF08990.12 A1XBS5               -               0.13   12.1   3.6      0.17   11.7   3.6   1.2   1   0   0   1   1   1   0 Erythronolide synthase docking domain
+BRD4_CDT             PF17105.6  Q58F21               -            2.6e-09   36.5   6.4   2.6e-09   36.5   6.4   1.0   1   0   0   1   1   1   1 C-terminal domain of bromodomain protein 4
+CAF-1_p150           PF11600.9  Q13111               -              4e-06   26.7  13.0   4.1e-06   26.7  13.0   1.0   1   0   0   1   1   1   1 Chromatin assembly factor 1 complex p150 subunit, N-terminal
+CAF1-p150_C2         PF15539.7  Q13111               -            2.4e-07   30.4   0.4   2.5e-07   30.3   0.4   1.0   1   0   0   1   1   1   1 CAF1 complex subunit p150, region binding to CAF1-p60 at C-term
+CAF1-p150_C2         PF15539.7  Q13111               -            7.4e-08   32.0   0.1   7.5e-08   32.0   0.1   1.0   1   0   0   1   1   1   1 CAF1 complex subunit p150, region binding to CAF1-p60 at C-term
+CAF1-p150_C2         PF15539.7  Q13111               -            4.7e-07   29.4   0.9   4.8e-07   29.4   0.9   1.0   1   0   0   1   1   1   1 CAF1 complex subunit p150, region binding to CAF1-p60 at C-term
+Chromo               PF00385.25 Q9HC52               -               0.02   14.8   0.0      0.02   14.8   0.0   1.0   1   0   0   1   1   1   0 Chromo (CHRromatin Organisation MOdifier) domain
+Synapsin_N           PF10581.10 Q9H1I8               -               0.11   12.5   0.1      0.13   12.3   0.1   1.1   1   0   0   1   1   1   0 Synapsin N-terminal
+SR-25                PF10500.10 Q66PJ3               -               0.12   12.0   9.0      0.12   11.9   9.0   1.0   1   0   0   1   1   1   0 Nuclear RNA-splicing-associated protein
+Homeodomain          PF00046.30 Q3C1V8               -            0.00052   19.8   4.8   0.00064   19.6   4.8   1.2   1   0   0   1   1   1   1 Homeodomain
+eIF-1a               PF01176.20 Q8N9N8               -            6.1e-07   29.2   0.1   6.1e-07   29.2   0.1   1.0   1   0   0   1   1   1   1 Translation initiation factor 1A / IF-1
+eIF-1a               PF01176.20 Q8N9N8               -            4.6e-09   36.0   0.0   4.7e-09   36.0   0.0   1.0   1   0   0   1   1   1   1 Translation initiation factor 1A / IF-1
+HLH                  PF00010.27 Q96RJ6               -              0.006   16.6   0.0     0.006   16.6   0.0   1.0   1   0   0   1   1   1   1 Helix-loop-helix DNA-binding domain
+DUF1981              PF09324.11 Q9Y6D6               -            3.2e-05   23.7   0.0   3.2e-05   23.7   0.0   1.0   1   0   0   1   1   1   1 Domain of unknown function (DUF1981)
+bZIP_1               PF00170.22 O14867               -            1.1e-05   25.5   2.5   1.1e-05   25.5   2.5   1.0   1   0   0   1   1   1   1 bZIP transcription factor
+bZIP_2               PF07716.16 O14867               -            0.00035   20.6   0.5   0.00035   20.6   0.5   1.1   1   0   0   1   1   1   1 Basic region leucine zipper
+bZIP_Maf             PF03131.18 O14867               -             0.0011   19.5   1.1    0.0011   19.5   1.1   1.0   1   0   0   1   1   1   1 bZIP Maf transcription factor
+Homeodomain          PF00046.30 Q8N693               -            1.5e-05   24.7   8.4   1.8e-05   24.5   8.4   1.1   1   0   0   1   1   1   1 Homeodomain
+DUF1659              PF07872.12 Q9ULI0               -              0.035   13.8   0.3      0.04   13.6   0.3   1.0   1   0   0   1   1   1   0 Protein of unknown function (DUF1659)
+EF-1_beta_acid       PF10587.10 P01100               -               0.12   12.8   3.5      0.12   12.8   3.5   1.1   1   0   0   1   1   1   0 Eukaryotic elongation factor 1 beta central acidic region
+GET2                 PF08690.11 P01100               -               0.88    9.2   3.4      0.77    9.4   3.4   1.0   1   0   0   1   1   1   0 GET complex subunit GET2
+E2F_TDP              PF02319.21 O00716               -            5.7e-07   29.5   0.8   5.9e-07   29.4   0.8   1.0   1   0   0   1   1   1   1 E2F/DP family winged-helix DNA-binding domain
+zf-C4_Topoisom       PF01396.20 O00716               -              0.064   13.1   0.0     0.068   13.0   0.0   1.0   1   0   0   1   1   1   0 Topoisomerase DNA binding C4 zinc finger
+AT_hook              PF02178.20 Q8TEK3               -             0.0006   19.4   2.6    0.0006   19.4   2.6   1.7   2   0   0   2   2   2   1 AT hook motif
+pKID                 PF02173.18 Q03060               -              8e-09   34.9   0.7     8e-09   34.9   0.7   1.0   1   0   0   1   1   1   1 pKID domain
+Wound_ind            PF08186.12 Q9NY93               -               0.22   12.0   1.4      0.22   12.0   1.4   1.1   1   0   0   1   1   1   0 Wound-inducible basic protein family
+Dapper               PF15268.7  Q9NYF0               -              0.034   13.0   0.3     0.034   13.0   0.3   1.0   1   0   0   1   1   1   0 Dapper
+AT_hook              PF02178.20 Q49A26               -            0.00054   19.6   4.1   0.00065   19.3   4.1   1.2   1   0   0   1   1   1   1 AT hook motif
+AT_hook              PF02178.20 Q49A26               -            0.00065   19.3   4.1   0.00065   19.3   4.1   1.4   2   0   0   2   2   2   1 AT hook motif
+AT_hook              PF02178.20 Q49A26               -            0.00056   19.5   4.1   0.00065   19.3   4.1   1.2   1   0   0   1   1   1   1 AT hook motif
+AT_hook              PF02178.20 Q49A26               -            0.00065   19.3   4.1   0.00065   19.3   4.1   1.5   2   0   0   2   2   2   1 AT hook motif
+FRG2                 PF15315.7  A6NGY1               -             0.0001   22.6   1.3    0.0001   22.6   1.3   1.0   1   0   0   1   1   1   1 Facioscapulohumeral muscular dystrophy candidate 2
+zf-H2C2_5            PF13909.7  Q8NEA6               -              0.052   13.3   0.1     0.058   13.2   0.1   1.1   1   0   0   1   1   1   0 C2H2-type zinc-finger domain
+GN3L_Grn1            PF08701.12 Q9BVP2               -              0.028   14.6   6.7     0.028   14.6   6.7   1.0   1   0   0   1   1   1   0 GNL3L/Grn1 putative GTPase
+DM                   PF00751.19 Q96SC8               -            7.7e-10   38.5   1.1   7.7e-10   38.5   1.1   1.0   1   0   0   1   1   1   1 DM DNA binding domain
+Fra10Ac1             PF09725.10 Q70Z53               -            2.7e-07   30.7   0.1   2.8e-07   30.7   0.1   1.0   1   0   0   1   1   1   1 Folate-sensitive fragile site protein Fra10Ac1
+Homeodomain          PF00046.30 P56915               -            0.00023   21.0   6.8   0.00027   20.8   6.8   1.1   1   0   0   1   1   1   1 Homeodomain
+Homeodomain          PF00046.30 P31267               -            3.2e-05   23.7   6.3   3.6e-05   23.6   6.3   1.1   1   0   0   1   1   1   1 Homeodomain
+Homeodomain          PF00046.30 P31267               -            9.9e-06   25.3   6.9   1.1e-05   25.2   6.9   1.1   1   0   0   1   1   1   1 Homeodomain
+IKBKB_SDD            PF18397.2  O14920               -            0.00029   20.2   0.3   0.00029   20.2   0.3   1.0   1   0   0   1   1   1   1 IQBAL scaffold dimerization domain
+Homeodomain          PF00046.30 Q14549               -            5.9e-06   26.1   7.6   6.3e-06   26.0   7.6   1.0   1   0   0   1   1   1   1 Homeodomain
+Homeodomain          PF00046.30 Q00056               -            2.4e-05   24.1   6.9   2.7e-05   23.9   6.9   1.1   1   0   0   1   1   1   1 Homeodomain
+Homeodomain          PF00046.30 Q00056               -            6.8e-06   25.9   7.6   7.8e-06   25.7   7.6   1.1   1   0   0   1   1   1   1 Homeodomain
+FRG2                 PF15315.7  Q96QU4               -            8.5e-05   22.8   4.0   8.5e-05   22.8   4.0   1.0   1   0   0   1   1   1   1 Facioscapulohumeral muscular dystrophy candidate 2
+CDC27                PF09507.11 Q15054               -             0.0026   17.2   1.7    0.0026   17.2   1.7   1.0   1   0   0   1   1   1   1 DNA polymerase subunit Cdc27
+CDC27                PF09507.11 Q15054               -            0.00055   19.5   0.5   0.00055   19.5   0.5   1.0   1   0   0   1   1   1   1 DNA polymerase subunit Cdc27
+CDC27                PF09507.11 Q15054               -              0.004   16.6   2.4     0.004   16.6   2.4   1.0   1   0   0   1   1   1   1 DNA polymerase subunit Cdc27
+CDC27                PF09507.11 Q15054               -            0.00088   18.8   1.4   0.00088   18.8   1.4   1.0   1   0   0   1   1   1   1 DNA polymerase subunit Cdc27
+Helicase_C           PF00271.32 Q08211               -               0.17   12.3   0.2      0.17   12.3   0.2   1.0   1   0   0   1   1   1   0 Helicase conserved C-terminal domain
+DUF4062              PF13271.7  Q13609               -              0.048   14.1   0.1     0.055   13.9   0.1   1.0   1   0   0   1   1   1   0 Domain of unknown function (DUF4062)
+Proteasom_Rpn13      PF04683.14 Q16186               -              9e-08   32.5   0.2   9.2e-08   32.5   0.2   1.0   1   0   0   1   1   1   1 Proteasome complex subunit Rpn13 ubiquitin receptor
+SIX1_SD              PF16878.6  E9PGG2               -             0.0011   19.4   0.8    0.0011   19.4   0.8   1.0   1   0   0   1   1   1   1 Transcriptional regulator, SIX1, N-terminal SD domain
+DM                   PF00751.19 Q9NQL9               -            9.9e-10   38.2   1.4     1e-09   38.2   1.4   1.0   1   0   0   1   1   1   1 DM DNA binding domain
+RecR                 PF02132.16 Q8TBZ0               -              0.035   13.7   0.2     0.035   13.7   0.2   1.0   1   0   0   1   1   1   0 RecR protein
+CENP-U               PF13097.7  Q71F23               -              0.001   19.1   0.9    0.0011   19.0   0.9   1.1   1   0   0   1   1   1   1 CENP-A nucleosome associated complex (NAC) subunit
+FAM53                PF15242.7  Q14153               -            1.7e-05   24.8   0.9   1.8e-05   24.7   0.9   1.0   1   0   0   1   1   1   1 Family of FAM53
+CCDC106              PF15794.6  Q9BWC9               -               0.42   10.3   2.9      0.42   10.3   2.9   1.0   1   0   0   1   1   1   0 Coiled-coil domain-containing protein 106
+MCC-bdg_PDZ          PF10506.10 P23508               -              4e-05   23.6   0.3   4.2e-05   23.5   0.3   1.0   1   0   0   1   1   1   1 PDZ domain of MCC-2 bdg protein for Usher syndrome
+NUDIX_2              PF13869.7  O43809               -            3.3e-08   33.3   0.9   3.4e-08   33.3   0.9   1.0   1   0   0   1   1   1   1 Nucleotide hydrolase
+zf-CXXC              PF02008.21 Q7LFL8               -              0.016   15.3   4.9     0.017   15.2   4.9   1.1   1   0   0   1   1   1   0 CXXC zinc finger domain
+Homeodomain          PF00046.30 O95076               -            1.7e-05   24.6   8.4     2e-05   24.4   8.4   1.1   1   0   0   1   1   1   1 Homeodomain
+Homeodomain          PF00046.30 Q9UMQ3               -            0.00018   21.3   5.4    0.0002   21.2   5.4   1.1   1   0   0   1   1   1   1 Homeodomain
+Homeodomain          PF00046.30 Q9UMQ3               -            5.6e-05   22.9   6.1   6.1e-05   22.8   6.1   1.1   1   0   0   1   1   1   1 Homeodomain
+DnaJ                 PF00226.32 Q99615               -              0.013   15.7   0.0     0.014   15.6   0.0   1.0   1   0   0   1   1   1   0 DnaJ domain
+A1_Propeptide        PF07966.13 Q9NRL2               -              0.053   13.4   1.0     0.056   13.3   1.0   1.0   1   0   0   1   1   1   0 A1 Propeptide
+Snf7                 PF03357.22 Q9H444               -            0.00013   21.7   3.8   0.00013   21.7   3.8   1.0   1   0   0   1   1   1   1 Snf7
+Homeodomain          PF00046.30 A6NNA5               -            1.9e-05   24.5   8.4     2e-05   24.4   8.4   1.1   1   0   0   1   1   1   1 Homeodomain
+AT_hook              PF02178.20 Q9UIF9               -              0.011   15.5   7.0     0.022   14.6   7.0   1.5   1   0   0   1   1   1   0 AT hook motif
+AT_hook              PF02178.20 Q9UIF9               -              0.029   14.2   4.3     0.046   13.6   4.3   1.5   1   1   0   1   1   1   0 AT hook motif
+AT_hook              PF02178.20 Q9UIF9               -              0.014   15.2   7.0     0.022   14.6   7.0   1.3   1   0   0   1   1   1   0 AT hook motif
+AT_hook              PF02178.20 Q9UIF9               -              0.024   14.5   6.4     0.031   14.1   6.4   1.3   1   0   0   1   1   1   0 AT hook motif
+AT_hook              PF02178.20 Q9UIF9               -              0.022   14.6   7.0     0.022   14.6   7.0   1.6   2   0   0   2   2   2   0 AT hook motif
+HTH_39               PF14090.7  Q99459               -               0.08   12.8   0.1      0.08   12.8   0.1   1.0   1   0   0   1   1   1   0 Helix-turn-helix domain
+Dabb                 PF07876.13 Q99459               -               0.11   13.1   0.1      0.18   12.5   0.1   1.3   1   0   0   1   1   1   0 Stress responsive A/B Barrel Domain
+LYRIC                PF15686.6  Q99459               -               0.12   11.8  12.6      0.16   11.4  12.6   1.1   1   0   0   1   1   1   0 Lysine-rich CEACAM1 co-isolated protein family
+DUF3285              PF11688.9  Q86V15               -              0.068   13.2   0.8     0.068   13.2   0.8   1.1   1   0   0   1   1   1   0 Protein of unknown function (DUF3285)
+DM                   PF00751.19 Q9Y5R5               -            4.4e-09   36.1   3.2   4.5e-09   36.1   3.2   1.0   1   0   0   1   1   1   1 DM DNA binding domain
+EIF4E-T              PF10477.10 Q9NRA8               -              0.016   14.1   2.4     0.019   13.9   2.4   1.1   1   0   0   1   1   1   0 Nucleocytoplasmic shuttling protein for mRNA cap-binding EIF4E
+CDT1                 PF08839.12 Q9H211               -            0.00058   20.2   0.8   0.00058   20.2   0.8   1.0   1   0   0   1   1   1   1 DNA replication factor CDT1 like
+DM                   PF00751.19 Q9Y5R6               -              7e-09   35.5   0.9   7.1e-09   35.4   0.9   1.0   1   0   0   1   1   1   1 DM DNA binding domain
+DM                   PF00751.19 Q8IXT2               -            3.8e-07   29.9   0.8   3.9e-07   29.9   0.8   1.0   1   0   0   1   1   1   1 DM DNA binding domain
+CENP_C_N             PF15622.7  Q03188               -            5.5e-09   35.9   0.7   5.6e-09   35.9   0.7   1.0   1   0   0   1   1   1   1 Kinetochore assembly subunit CENP-C N-terminal
+CENP_C_N             PF15622.7  Q03188               -            2.5e-14   53.4   0.7   2.7e-14   53.4   0.7   1.0   1   0   0   1   1   1   1 Kinetochore assembly subunit CENP-C N-terminal
+CENP-C_mid           PF15620.7  Q03188               -            2.3e-05   24.5   7.9   2.4e-05   24.4   7.9   1.0   1   0   0   1   1   1   1 Centromere assembly component CENP-C middle DNMT3B-binding region
+Homeodomain          PF00046.30 Q9H161               -            1.7e-05   24.6   8.4     2e-05   24.4   8.4   1.1   1   0   0   1   1   1   1 Homeodomain
+DUF3886              PF13025.7  Q8N6M6               -              0.036   14.3   2.7     0.038   14.2   2.7   1.0   1   0   0   1   1   1   0 Protein of unknown function (DUF3886)
+BEN                  PF10523.10 Q5T5X7               -              0.026   14.8   0.0     0.027   14.8   0.0   1.0   1   0   0   1   1   1   0 BEN domain
+HLH                  PF00010.27 Q9BYE0               -            0.00013   22.0   0.3   0.00013   22.0   0.3   1.0   1   0   0   1   1   1   1 Helix-loop-helix DNA-binding domain
+AT_hook              PF02178.20 P17096               -              0.034   14.0   9.1     0.048   13.6   9.1   1.3   1   0   0   1   1   1   0 AT hook motif
+DUF1639              PF07797.15 P17096               -              0.076   13.0   0.9      0.08   13.0   0.9   1.1   1   0   0   1   1   1   0 Protein of unknown function (DUF1639)
+AT_hook              PF02178.20 P17096               -               0.03   14.2   9.1     0.048   13.6   9.1   1.4   1   0   0   1   1   1   0 AT hook motif
+AT_hook              PF02178.20 P17096               -              0.063   13.2   8.1     0.088   12.8   8.1   1.3   1   0   0   1   1   1   0 AT hook motif
+AT_hook              PF02178.20 P17096               -              0.063   13.2   8.1     0.088   12.8   8.1   1.3   1   0   0   1   1   1   0 AT hook motif
+DUF1639              PF07797.15 P17096               -               0.06   13.4   0.6      0.06   13.4   0.6   1.1   1   0   0   1   1   1   0 Protein of unknown function (DUF1639)
+AT_hook              PF02178.20 P17096               -              0.035   14.0   9.1     0.053   13.4   9.1   1.3   1   0   0   1   1   1   0 AT hook motif
+AT_hook              PF02178.20 P17096               -              0.032   14.1   9.1     0.048   13.6   9.1   1.4   1   0   0   1   1   1   0 AT hook motif
+HMG_box_2            PF09011.11 O15347               -            0.00068   20.2   0.8   0.00073   20.1   0.8   1.1   1   0   0   1   1   1   1 HMG-box domain
+Homeodomain          PF00046.30 P20719               -            3.2e-05   23.7   6.3   3.6e-05   23.6   6.3   1.1   1   0   0   1   1   1   1 Homeodomain
+Homeodomain          PF00046.30 P20719               -            9.6e-06   25.4   6.9   1.1e-05   25.2   6.9   1.1   1   0   0   1   1   1   1 Homeodomain
+IBB                  PF01749.21 P52294               -            4.5e-08   33.5   2.8   4.5e-08   33.5   2.8   1.0   1   0   0   1   1   1   1 Importin beta binding domain
+IBB                  PF01749.21 P52294               -            1.1e-05   25.8   1.2   1.1e-05   25.8   1.2   1.0   1   0   0   1   1   1   1 Importin beta binding domain
+Mcm10                PF09332.12 Q7L590               -              0.057   12.9   0.3     0.057   12.9   0.3   1.0   1   0   0   1   1   1   0 Mcm10 replication factor
+EF-1_beta_acid       PF10587.10 P29692               -               0.04   14.4   4.2      0.04   14.4   4.2   1.4   2   0   0   2   2   2   0 Eukaryotic elongation factor 1 beta central acidic region
+Homeodomain          PF00046.30 P17483               -            3.2e-05   23.7   6.3   3.6e-05   23.6   6.3   1.1   1   0   0   1   1   1   1 Homeodomain
+Homeodomain          PF00046.30 P17483               -            9.7e-06   25.4   6.9   1.1e-05   25.2   6.9   1.1   1   0   0   1   1   1   1 Homeodomain
+LGFP                 PF08310.12 P20823               -              0.035   14.7   0.1     0.036   14.6   0.1   1.1   1   0   0   1   1   1   0 LGFP repeat
+HNF-1_N              PF04814.14 P20823               -            3.9e-10   40.4   0.2     4e-10   40.4   0.2   1.0   1   0   0   1   1   1   1 Hepatocyte nuclear factor 1 (HNF-1), N terminus
+Homeodomain          PF00046.30 P09629               -            3.2e-05   23.7   6.3   3.6e-05   23.6   6.3   1.1   1   0   0   1   1   1   1 Homeodomain
+Homeodomain          PF00046.30 P09629               -              1e-05   25.3   6.9   1.1e-05   25.2   6.9   1.1   1   0   0   1   1   1   1 Homeodomain
+Homeodomain          PF00046.30 P49640               -            0.00079   19.3   2.0   0.00088   19.1   1.6   1.3   1   1   0   1   1   1   1 Homeodomain
+HTH_Crp_2            PF13545.7  Q9UBP5               -              0.053   13.5   0.3     0.053   13.5   0.3   1.0   1   0   0   1   1   1   0 Crp-like helix-turn-helix domain
+Helicase_C_2         PF13307.7  P18074               -              0.015   15.5   0.0     0.016   15.5   0.0   1.0   1   0   0   1   1   1   0 Helicase C-terminal domain
+IMUP                 PF15761.6  Q9GZP8               -            0.00068   20.3   9.2   0.00069   20.3   9.2   1.0   1   0   0   1   1   1   1 Immortalisation up-regulated protein
+Homeodomain          PF00046.30 Q9NQ69               -            5.2e-09   35.9   1.5   5.5e-09   35.8   1.5   1.0   1   0   0   1   1   1   1 Homeodomain
+Homeobox_KN          PF05920.12 Q9NQ69               -            0.00015   21.6   0.2   0.00019   21.3   0.2   1.1   1   0   0   1   1   1   1 Homeobox KN domain
+Homeodomain          PF00046.30 Q9NQ69               -            8.4e-09   35.2   1.5   9.5e-09   35.0   1.5   1.1   1   0   0   1   1   1   1 Homeodomain
+Homeobox_KN          PF05920.12 Q9NQ69               -            0.00022   21.1   0.2   0.00031   20.6   0.2   1.2   1   0   0   1   1   1   1 Homeobox KN domain
+Homeodomain          PF00046.30 Q9NQ69               -            4.3e-08   32.9   1.8   4.7e-08   32.8   1.8   1.0   1   0   0   1   1   1   1 Homeodomain
+Homeobox_KN          PF05920.12 Q9NQ69               -            0.00086   19.2   0.2    0.0011   18.8   0.2   1.2   1   0   0   1   1   1   1 Homeobox KN domain
+RBR                  PF17208.4  P51608               -            7.1e-05   23.4   1.0   7.2e-05   23.4   1.0   1.0   1   0   0   1   1   1   1 RNA binding Region
+RBR                  PF17208.4  P51608               -            0.00025   21.7   0.9   0.00027   21.6   0.9   1.1   1   0   0   1   1   1   1 RNA binding Region
+RBR                  PF17208.4  P51608               -            7.2e-05   23.4   0.4   7.3e-05   23.4   0.4   1.0   1   0   0   1   1   1   1 RNA binding Region
+AT_hook              PF02178.20 P51608               -              0.035   14.0   3.4     0.035   14.0   3.4   2.4   3   0   0   3   3   3   0 AT hook motif
+DAG1                 PF05454.12 Q14118               -            1.7e-08   34.2   0.3   1.7e-08   34.2   0.3   1.0   1   0   0   1   1   1   1 Dystroglycan (Dystrophin-associated glycoprotein 1)
+DAG1                 PF05454.12 Q14118               -            1.8e-08   34.1   0.3   1.8e-08   34.1   0.3   1.0   1   0   0   1   1   1   1 Dystroglycan (Dystrophin-associated glycoprotein 1)
+DAG1                 PF05454.12 Q14118               -            4.9e-09   36.0   0.2     5e-09   36.0   0.2   1.0   1   0   0   1   1   1   1 Dystroglycan (Dystrophin-associated glycoprotein 1)
+Nore1-SARAH          PF16517.6  Q02575               -              0.018   14.9   0.3     0.018   14.9   0.3   1.0   1   0   0   1   1   1   0 Novel Ras effector 1 C-terminal SARAH (Sav/Rassf/Hpo) domain
+HMG_box_2            PF09011.11 B2RPK0               -               0.02   15.5   0.8     0.021   15.4   0.8   1.0   1   0   0   1   1   1   0 HMG-box domain
+IBB                  PF01749.21 P52292               -            3.3e-07   30.7   0.2   3.3e-07   30.7   0.2   1.0   1   0   0   1   1   1   1 Importin beta binding domain
+Homeodomain          PF00046.30 Q03828               -            0.00081   19.2   2.1   0.00088   19.1   1.6   1.3   1   1   0   1   1   1   1 Homeodomain
+CLTH                 PF10607.10 Q7L5Y9               -              0.053   13.5   0.1     0.053   13.5   0.1   1.0   1   0   0   1   1   1   0 CTLH/CRA C-terminal to LisH motif domain
+Homeodomain          PF00046.30 P28356               -            1.5e-05   24.7   4.1   1.8e-05   24.5   4.1   1.1   1   0   0   1   1   1   1 Homeodomain
+zf-CXXC              PF02008.21 Q9Y2K7               -             0.0046   17.0   9.4    0.0046   17.0   9.4   1.0   1   0   0   1   1   1   1 CXXC zinc finger domain
+Mpp10                PF04006.13 O00566               -             0.0076   14.8   9.7    0.0076   14.8   9.7   1.0   1   0   0   1   1   1   1 Mpp10 protein
+DUF4171              PF13775.7  Q9UGU5               -            5.2e-05   23.7   1.1   5.2e-05   23.7   1.1   1.0   1   0   0   1   1   1   1 Domain of unknown function (DUF4171)
+APOBEC2              PF18772.2  Q9GZX7               -            8.1e-09   35.7   0.3   8.5e-09   35.7   0.3   1.0   1   0   0   1   1   1   1 APOBEC2
+NAD1                 PF18778.2  Q9GZX7               -            2.3e-08   34.4   0.1   2.3e-08   34.4   0.1   1.0   1   0   0   1   1   1   1 Novel AID APOBEC clade 1
+NAD2                 PF18782.2  Q9GZX7               -            1.3e-07   32.0   0.2   1.3e-07   31.9   0.2   1.0   1   0   0   1   1   1   1 Novel AID APOBEC clade 2
+APOBEC_N             PF08210.12 Q9GZX7               -            3.1e-06   27.2   0.0   3.3e-06   27.1   0.0   1.0   1   0   0   1   1   1   1 APOBEC-like N-terminal domain
+DUF1713              PF08213.12 Q9NWT8               -            7.4e-09   35.4  12.6   7.5e-09   35.4  12.6   1.0   1   0   0   1   1   1   1 Mitochondrial domain of unknown function (DUF1713)
+G10                  PF01125.18 P41223               -            1.8e-06   27.8   1.4   1.8e-06   27.8   1.4   1.0   1   0   0   1   1   1   1 G10 protein
+BRCT_assoc           PF12820.8  P38398               -              0.028   14.3   0.7     0.029   14.3   0.7   1.0   1   0   0   1   1   1   0 Serine-rich domain associated with BRCT
+BRCT_assoc           PF12820.8  P38398               -              0.072   13.0   1.2     0.076   12.9   1.2   1.0   1   0   0   1   1   1   0 Serine-rich domain associated with BRCT
+BRCT_assoc           PF12820.8  P38398               -             0.0084   16.0   0.5    0.0087   15.9   0.5   1.0   1   0   0   1   1   1   1 Serine-rich domain associated with BRCT
+CDC73_N              PF16050.6  Q6P1J9               -             0.0067   15.8   0.2    0.0067   15.8   0.2   1.0   1   0   0   1   1   1   1 Paf1 complex subunit CDC73 N-terminal
+CHIP_TPR_N           PF18391.2  Q9UNE7               -              0.026   15.3   2.2     0.028   15.2   2.2   1.0   1   0   0   1   1   1   0 CHIP N-terminal tetratricopeptide repeat domain
+Homeodomain          PF00046.30 Q96QS3               -            1.8e-05   24.5   8.4     2e-05   24.4   8.4   1.1   1   0   0   1   1   1   1 Homeodomain
+Chromo               PF00385.25 Q9Y232               -              2e-07   30.8   1.9     2e-07   30.8   1.9   1.0   1   0   0   1   1   1   1 Chromo (CHRromatin Organisation MOdifier) domain
+Mtf2_C               PF14061.7  Q9Y232               -            0.00095   19.3   0.3     0.001   19.2   0.3   1.0   1   0   0   1   1   1   1 Polycomb-like MTF2 factor 2
+Homeodomain          PF00046.30 Q15699               -            1.7e-05   24.6   8.4     2e-05   24.4   8.4   1.1   1   0   0   1   1   1   1 Homeodomain
+AT_hook              PF02178.20 Q14781               -              0.058   13.3   7.3     0.058   13.3   7.3   2.0   2   0   0   2   2   2   0 AT hook motif
+AT_hook              PF02178.20 Q14781               -              0.058   13.3   7.3     0.058   13.3   7.3   2.1   2   0   0   2   2   2   0 AT hook motif
+AT_hook              PF02178.20 Q14781               -              0.058   13.3   7.3     0.058   13.3   7.3   2.0   2   0   0   2   2   2   0 AT hook motif
+AT_hook              PF02178.20 Q14781               -              0.065   13.2   7.3     0.065   13.2   7.3   2.0   2   0   0   2   2   2   0 AT hook motif
+HLH                  PF00010.27 O15516               -              0.005   16.9   1.2    0.0055   16.7   1.2   1.1   1   0   0   1   1   1   1 Helix-loop-helix DNA-binding domain
+HLH                  PF00010.27 O15516               -             0.0034   17.4   0.8    0.0034   17.4   0.8   1.0   1   0   0   1   1   1   1 Helix-loop-helix DNA-binding domain
+HLH                  PF00010.27 O15516               -             0.0058   16.6   1.3    0.0059   16.6   1.3   1.1   1   0   0   1   1   1   1 Helix-loop-helix DNA-binding domain
+HLH                  PF00010.27 O15516               -             0.0017   18.3   1.2    0.0017   18.3   1.2   1.0   1   0   0   1   1   1   1 Helix-loop-helix DNA-binding domain
+HCR                  PF07111.13 Q8TD31               -            2.4e-05   22.7   0.4   2.4e-05   22.7   0.4   1.0   1   0   0   1   1   1   1 Alpha helical coiled-coil rod protein (HCR)
+bZIP_2               PF07716.16 P53567               -            5.5e-06   26.4   3.8   5.5e-06   26.4   3.8   1.0   1   0   0   1   1   1   1 Basic region leucine zipper
+Homeodomain          PF00046.30 P17509               -            3.2e-05   23.7   6.3   3.6e-05   23.6   6.3   1.1   1   0   0   1   1   1   1 Homeodomain
+Homeodomain          PF00046.30 P17509               -            9.9e-06   25.4   6.9   1.1e-05   25.2   6.9   1.1   1   0   0   1   1   1   1 Homeodomain
+COBRA1               PF06209.14 Q8WX92               -            1.9e-06   27.1   0.6   1.9e-06   27.0   0.6   1.0   1   0   0   1   1   1   1 Cofactor of BRCA1 (COBRA1)
+Homeodomain          PF00046.30 O95096               -              0.015   15.1   3.7     0.019   14.9   3.7   1.1   1   0   0   1   1   1   0 Homeodomain
+zf-C4                PF00105.19 Q9Y5X4               -            0.00011   22.6   0.4   0.00011   22.6   0.4   1.0   1   0   0   1   1   1   1 Zinc finger, C4 type (two domains)
+Myc_target_1         PF15179.7  Q8N699               -              0.028   14.3   0.6     0.028   14.3   0.6   1.0   1   0   0   1   1   1   0 Myc target protein 1
+Myc_target_1         PF15179.7  Q8N699               -            7.6e-05   22.7   1.9   7.6e-05   22.7   1.9   1.0   1   0   0   1   1   1   1 Myc target protein 1
+NAP                  PF00956.19 Q9ULW6               -              0.027   13.7   0.3     0.027   13.7   0.3   1.0   1   0   0   1   1   1   0 Nucleosome assembly protein (NAP)
+NAP                  PF00956.19 Q9ULW6               -              0.014   14.6   0.5     0.014   14.6   0.5   1.0   1   0   0   1   1   1   0 Nucleosome assembly protein (NAP)
+NAP                  PF00956.19 Q9ULW6               -              0.022   13.9   0.4     0.022   13.9   0.4   1.0   1   0   0   1   1   1   0 Nucleosome assembly protein (NAP)
+Homeodomain          PF00046.30 P52945               -            3.1e-05   23.8   6.3   3.6e-05   23.6   6.3   1.1   1   0   0   1   1   1   1 Homeodomain
+Homeodomain          PF00046.30 P52945               -            1.6e-05   24.7   5.8   1.8e-05   24.5   5.8   1.1   1   0   0   1   1   1   1 Homeodomain
+CBFD_NFYB_HMF        PF00808.24 Q01658               -            2.1e-06   27.9   0.1   2.1e-06   27.9   0.1   1.0   1   0   0   1   1   1   1 Histone-like transcription factor (CBF/NF-Y) and archaeal histone
+Homeodomain          PF00046.30 Q9C056               -              0.085   12.7   3.3      0.11   12.4   3.3   1.2   1   0   0   1   1   1   0 Homeodomain
+bZIP_1               PF00170.22 Q9Y4A8               -            5.7e-05   23.2   0.1   5.7e-05   23.2   0.1   1.0   1   0   0   1   1   1   1 bZIP transcription factor
+bZIP_Maf             PF03131.18 Q9Y4A8               -            0.00059   20.3   0.1   0.00059   20.3   0.1   1.0   1   0   0   1   1   1   1 bZIP Maf transcription factor
+bZIP_Maf             PF03131.18 Q9Y4A8               -            1.9e-08   34.7   1.9   1.9e-08   34.7   1.9   1.0   1   0   0   1   1   1   1 bZIP Maf transcription factor
+bZIP_1               PF00170.22 Q9Y4A8               -            1.3e-05   25.2   1.2   1.3e-05   25.2   1.2   1.0   1   0   0   1   1   1   1 bZIP transcription factor
+bZIP_2               PF07716.16 Q9Y4A8               -              0.012   15.8   4.4     0.014   15.5   4.4   1.1   1   0   0   1   1   1   0 Basic region leucine zipper
+Homeodomain          PF00046.30 Q00444               -            2.8e-05   23.9   6.3   3.6e-05   23.6   6.3   1.2   1   0   0   1   1   1   1 Homeodomain
+Homeodomain          PF00046.30 Q00444               -            7.9e-06   25.7   6.9   1.1e-05   25.2   6.9   1.3   1   0   0   1   1   1   1 Homeodomain
+Histone              PF00125.25 Q13952               -             0.0084   16.5   0.2    0.0084   16.5   0.2   1.0   1   0   0   1   1   1   1 Core histone H2A/H2B/H3/H4
+NAP                  PF00956.19 Q99733               -             0.0032   16.7   2.4    0.0032   16.7   2.4   1.0   1   0   0   1   1   1   1 Nucleosome assembly protein (NAP)
+NAP                  PF00956.19 Q99733               -             0.0018   17.5   2.8    0.0018   17.5   2.8   1.0   1   0   0   1   1   1   1 Nucleosome assembly protein (NAP)
+NAP                  PF00956.19 Q99733               -             0.0056   15.9   2.9    0.0056   15.9   2.9   1.0   1   0   0   1   1   1   1 Nucleosome assembly protein (NAP)
+Homeodomain          PF00046.30 P50458               -            5.2e-09   35.9   1.5   5.5e-09   35.8   1.5   1.0   1   0   0   1   1   1   1 Homeodomain
+Homeobox_KN          PF05920.12 P50458               -            0.00015   21.6   0.2   0.00019   21.3   0.2   1.1   1   0   0   1   1   1   1 Homeobox KN domain
+Homeodomain          PF00046.30 P50458               -            8.3e-09   35.2   1.5   9.5e-09   35.0   1.5   1.1   1   0   0   1   1   1   1 Homeodomain
+Homeobox_KN          PF05920.12 P50458               -            0.00021   21.1   0.2   0.00031   20.6   0.2   1.3   1   0   0   1   1   1   1 Homeobox KN domain
+Homeodomain          PF00046.30 P50458               -            4.3e-08   32.9   1.8   4.7e-08   32.8   1.8   1.0   1   0   0   1   1   1   1 Homeodomain
+Homeobox_KN          PF05920.12 P50458               -            0.00086   19.2   0.2    0.0011   18.8   0.2   1.2   1   0   0   1   1   1   1 Homeobox KN domain
+HLH                  PF00010.27 Q99743               -             0.0028   17.6   1.1    0.0028   17.6   1.1   1.0   1   0   0   1   1   1   1 Helix-loop-helix DNA-binding domain
+HLH                  PF00010.27 Q99743               -             0.0051   16.8   1.7    0.0053   16.8   1.7   1.0   1   0   0   1   1   1   1 Helix-loop-helix DNA-binding domain
+HLH                  PF00010.27 Q99743               -             0.0016   18.4   1.6    0.0016   18.4   1.6   1.0   1   0   0   1   1   1   1 Helix-loop-helix DNA-binding domain
+Homeodomain          PF00046.30 P09067               -            3.2e-05   23.7   6.3   3.6e-05   23.6   6.3   1.1   1   0   0   1   1   1   1 Homeodomain
+Homeodomain          PF00046.30 P09067               -            9.6e-06   25.4   6.9   1.1e-05   25.2   6.9   1.1   1   0   0   1   1   1   1 Homeodomain
+HHV-5_US34A          PF17087.6  Q0D2I5               -              0.046   13.9   0.6     0.046   13.9   0.6   1.0   1   0   0   1   1   1   0 Herpesvirus US34A protein family
+Homeodomain          PF00046.30 P31274               -            1.5e-05   24.8   4.1   1.8e-05   24.5   4.1   1.1   1   0   0   1   1   1   1 Homeodomain
+PPP1R26_N            PF15740.6  Q5T8A7               -               0.19   10.5   0.1      0.19   10.5   0.1   1.0   1   0   0   1   1   1   0 Protein phosphatase 1 regulatory subunit 26 N-terminus
+PPP1R26_N            PF15740.6  Q5T8A7               -              2e-07   30.2   4.3     2e-07   30.2   4.3   1.0   1   0   0   1   1   1   1 Protein phosphatase 1 regulatory subunit 26 N-terminus
+PPP1R26_N            PF15740.6  Q5T8A7               -            2.6e-07   29.8   5.0   2.6e-07   29.8   5.0   1.0   1   0   0   1   1   1   1 Protein phosphatase 1 regulatory subunit 26 N-terminus
+CTF_NFI              PF00859.19 Q14938               -              0.074   12.9   1.8     0.074   12.9   1.8   1.0   1   0   0   1   1   1   0 CTF/NF-I family transcription modulation region
+PsbI                 PF02532.15 Q9NP64               -               0.21   11.6   4.6      0.23   11.4   4.6   1.1   1   0   0   1   1   1   0 Photosystem II reaction centre I protein (PSII 4.8 kDa protein)
+NPAT_C               PF15712.6  Q14207               -            2.5e-05   23.2   3.2   2.5e-05   23.2   3.2   1.0   1   0   0   1   1   1   1 NPAT C terminus
+NPAT_C               PF15712.6  Q14207               -            9.7e-05   21.2   4.4   9.8e-05   21.2   4.4   1.0   1   0   0   1   1   1   1 NPAT C terminus
+NPAT_C               PF15712.6  Q14207               -            6.7e-05   21.8   3.1   6.7e-05   21.8   3.1   1.0   1   0   0   1   1   1   1 NPAT C terminus
+bZIP_1               PF00170.22 Q14494               -            3.2e-05   24.0   0.2   3.2e-05   24.0   0.2   1.0   1   0   0   1   1   1   1 bZIP transcription factor
+bZIP_Maf             PF03131.18 Q14494               -             0.0003   21.3   0.2    0.0003   21.3   0.2   1.0   1   0   0   1   1   1   1 bZIP Maf transcription factor
+Homeodomain          PF00046.30 P50219               -            2.5e-05   24.0   7.2   3.5e-05   23.6   7.2   1.3   1   0   0   1   1   1   1 Homeodomain
+FYTT                 PF07078.12 Q9P127               -               0.15   11.4   0.0      0.15   11.4   0.0   1.0   1   0   0   1   1   1   0 Forty-two-three protein
+zf-H2C2_2            PF13465.7  A6NN14               -             0.0028   18.1   0.8    0.0032   17.8   0.8   1.2   1   0   0   1   1   1   1 Zinc-finger double domain
+Tristanin_u2         PF16638.6  Q9H4Z2               -               0.96   10.4   4.3      0.93   10.5   4.3   1.0   1   0   0   1   1   1   0 Unstructured region on methyltransferase between zinc-fingers
+zf-H2C2_2            PF13465.7  P35789               -            5.2e-05   23.5   0.3   6.2e-05   23.3   0.3   1.2   1   0   0   1   1   1   1 Zinc-finger double domain
+zf-H2C2_2            PF13465.7  P35789               -            0.00032   21.0   0.5   0.00037   20.8   0.5   1.2   1   0   0   1   1   1   1 Zinc-finger double domain
+Vps36-NZF-N          PF16988.6  Q6NZY4               -              0.021   14.3   0.2     0.021   14.3   0.2   1.0   1   0   0   1   1   1   0 Vacuolar protein sorting 36 NZF-N zinc-finger domain
+zf-H2C2_2            PF13465.7  Q15973               -            3.2e-05   24.2   0.5   3.6e-05   24.0   0.5   1.1   1   0   0   1   1   1   1 Zinc-finger double domain
+zf-H2C2_2            PF13465.7  O75346               -            0.00013   22.2   0.5   0.00014   22.1   0.5   1.1   1   0   0   1   1   1   1 Zinc-finger double domain
+zf-H2C2_2            PF13465.7  O75346               -             0.0004   20.7   0.7   0.00042   20.6   0.7   1.1   1   0   0   1   1   1   1 Zinc-finger double domain
+zf-C2H2              PF00096.27 O14709               -            1.6e-07   31.4   1.4   1.6e-07   31.4   1.4   1.0   1   0   0   1   1   1   1 Zinc finger, C2H2 type
+zf-C2H2_4            PF13894.7  O14709               -              0.001   19.7   1.0    0.0011   19.7   1.0   1.0   1   0   0   1   1   1   1 C2H2-type zinc finger
+zf-LYAR              PF08790.12 O14709               -              0.026   14.4   0.5     0.028   14.3   0.5   1.1   1   0   0   1   1   1   0 LYAR-type C2HC zinc finger
+zf-C2H2_6            PF13912.7  O14709               -              0.027   14.5   0.5     0.028   14.5   0.5   1.1   1   0   0   1   1   1   0 C2H2-type zinc finger
+zf-H2C2_2            PF13465.7  Q9H8G1               -             0.0005   20.4   1.8   0.00058   20.2   1.8   1.2   1   0   0   1   1   1   1 Zinc-finger double domain
+zf-C2H2              PF00096.27 Q9H8G1               -              0.083   13.4   2.9       0.1   13.1   2.9   1.2   1   0   0   1   1   1   0 Zinc finger, C2H2 type
+zf-H2C2_2            PF13465.7  A6NP11               -              0.011   16.2   0.4     0.012   16.1   0.4   1.1   1   0   0   1   1   1   0 Zinc-finger double domain
+zf-H2C2_2            PF13465.7  A6NP11               -              0.017   15.6   1.2     0.021   15.3   0.4   1.6   2   0   0   2   2   2   0 Zinc-finger double domain
+zf-H2C2_2            PF13465.7  A6NP11               -              6e-05   23.3   0.8     6e-05   23.3   0.8   1.5   2   0   0   2   2   2   1 Zinc-finger double domain
+zf-H2C2_2            PF13465.7  A6NP11               -            0.00018   21.8   0.4   0.00021   21.6   0.4   1.2   1   0   0   1   1   1   1 Zinc-finger double domain
+zf-H2C2_2            PF13465.7  A6NP11               -            0.00018   21.8   0.6   0.00021   21.6   0.6   1.2   1   0   0   1   1   1   1 Zinc-finger double domain
+zf-H2C2_2            PF13465.7  Q5JNZ3               -            0.00023   21.5   0.4   0.00023   21.5   0.4   1.5   2   0   0   2   2   2   1 Zinc-finger double domain
+zf-H2C2_2            PF13465.7  Q6P9G9               -            2.4e-06   27.7   2.7   2.9e-06   27.5   2.7   1.2   1   0   0   1   1   1   1 Zinc-finger double domain
+zf-H2C2_5            PF13909.7  Q6P9G9               -             0.0015   18.3   2.1    0.0022   17.7   2.1   1.4   1   0   0   1   1   1   1 C2H2-type zinc-finger domain
+zf-H2C2_2            PF13465.7  Q8N9L1               -            0.00037   20.8   0.6    0.0004   20.7   0.6   1.1   1   0   0   1   1   1   1 Zinc-finger double domain
+zf-C2H2              PF00096.27 Q8N9L1               -               0.03   14.8   0.4     0.043   14.3   0.4   1.3   1   0   0   1   1   1   0 Zinc finger, C2H2 type
+zf-H2C2_2            PF13465.7  Q96N38               -            7.7e-05   23.0   0.5   8.6e-05   22.8   0.5   1.1   1   0   0   1   1   1   1 Zinc-finger double domain
+zf-C2H2              PF00096.27 Q96N38               -               0.02   15.3   1.0     0.025   15.1   1.0   1.2   1   0   0   1   1   1   0 Zinc finger, C2H2 type
+zf-H2C2_2            PF13465.7  Q9NTW7               -            1.3e-05   25.4   0.8   1.3e-05   25.4   0.8   1.1   1   0   0   1   1   1   1 Zinc-finger double domain
+zf-H2C2_5            PF13909.7  Q9NTW7               -             0.0059   16.3   0.7    0.0059   16.3   0.7   1.5   2   0   0   2   2   2   1 C2H2-type zinc-finger domain
+zf-H2C2_2            PF13465.7  Q8N587               -            0.00023   21.4   0.6   0.00024   21.4   0.6   1.1   1   0   0   1   1   1   1 Zinc-finger double domain
+zf-H2C2_2            PF13465.7  Q96JC4               -            0.00016   21.9   0.5   0.00017   21.9   0.5   1.1   1   0   0   1   1   1   1 Zinc-finger double domain
+zf-H2C2_5            PF13909.7  Q96JC4               -             0.0062   16.3   1.6    0.0069   16.1   1.6   1.1   1   0   0   1   1   1   1 C2H2-type zinc-finger domain
+zf-H2C2_2            PF13465.7  P52739               -              0.025   15.0   0.7     0.026   15.0   0.7   1.2   1   0   0   1   1   1   0 Zinc-finger double domain
+Tub                  PF01167.19 P50607               -             0.0016   18.2   0.1    0.0016   18.2   0.1   1.0   1   0   0   1   1   1   1 Tub family
+zf-C2H2              PF00096.27 P17030               -             0.0006   20.2   3.0   0.00063   20.1   3.0   1.0   1   0   0   1   1   1   1 Zinc finger, C2H2 type
+zf-H2C2_2            PF13465.7  P17030               -              0.055   14.0   2.1     0.055   14.0   2.1   1.4   2   0   0   2   2   2   0 Zinc-finger double domain
+zf-H2C2_2            PF13465.7  Q05481               -            3.5e-05   24.1   0.9   3.6e-05   24.0   0.9   1.1   1   0   0   1   1   1   1 Zinc-finger double domain
+zf-H2C2_5            PF13909.7  Q05481               -             0.0061   16.3   0.8    0.0069   16.1   0.8   1.1   1   0   0   1   1   1   1 C2H2-type zinc-finger domain
+zf-H2C2_2            PF13465.7  Q05481               -            3.5e-05   24.0   0.9   3.6e-05   24.0   0.9   1.1   1   0   0   1   1   1   1 Zinc-finger double domain
+zf-H2C2_5            PF13909.7  Q05481               -             0.0048   16.6   0.5    0.0055   16.5   0.5   1.1   1   0   0   1   1   1   1 C2H2-type zinc-finger domain
+zf-H2C2_2            PF13465.7  Q05481               -            1.7e-05   25.1   1.2   1.8e-05   25.0   1.2   1.1   1   0   0   1   1   1   1 Zinc-finger double domain
+zf-H2C2_5            PF13909.7  Q05481               -             0.0041   16.9   1.0    0.0047   16.7   1.0   1.1   1   0   0   1   1   1   1 C2H2-type zinc-finger domain
+zf-H2C2_2            PF13465.7  Q05481               -            3.5e-05   24.0   0.9   3.6e-05   24.0   0.9   1.1   1   0   0   1   1   1   1 Zinc-finger double domain
+zf-H2C2_5            PF13909.7  Q05481               -             0.0048   16.6   0.5    0.0055   16.5   0.5   1.1   1   0   0   1   1   1   1 C2H2-type zinc-finger domain
+zf-H2C2_2            PF13465.7  P0CB33               -            9.6e-06   25.8   0.2     1e-05   25.8   0.2   1.1   1   0   0   1   1   1   1 Zinc-finger double domain
+zf-H2C2_5            PF13909.7  P0CB33               -            0.00087   19.0   0.7   0.00097   18.9   0.7   1.1   1   0   0   1   1   1   1 C2H2-type zinc-finger domain
+UCH_N                PF16674.6  Q9BXU7               -            3.6e-05   23.7   0.0   3.7e-05   23.7   0.0   1.0   1   0   0   1   1   1   1 N-terminal of ubiquitin carboxyl-terminal hydrolase 37
+zf-H2C2_2            PF13465.7  O60481               -            5.3e-10   39.3   8.3   2.8e-05   24.3   0.9   2.1   2   0   0   2   2   2   2 Zinc-finger double domain
+zf-C2H2              PF00096.27 O60481               -            4.1e-07   30.1   0.2   4.1e-07   30.1   0.2   1.4   2   0   0   2   2   2   1 Zinc finger, C2H2 type
+zf-C2H2_4            PF13894.7  O60481               -            0.00043   20.9   0.2   0.00043   20.9   0.2   1.4   2   0   0   2   2   2   1 C2H2-type zinc finger
+zf-H2C2_2            PF13465.7  O60481               -            4.6e-06   26.9   2.2   1.3e-05   25.4   0.2   2.1   2   0   0   2   2   2   1 Zinc-finger double domain
+zf-C2H2              PF00096.27 O60481               -            7.4e-05   23.0   0.4   0.00014   22.1   0.4   1.5   1   1   0   1   1   1   1 Zinc finger, C2H2 type
+zf-C2H2_4            PF13894.7  O60481               -              0.014   16.2   0.5     0.024   15.5   0.1   1.6   2   0   0   2   2   2   0 C2H2-type zinc finger
+zf-H2C2_2            PF13465.7  O60481               -            0.00023   21.5   0.6   0.00025   21.4   0.6   1.1   1   0   0   1   1   1   1 Zinc-finger double domain
+zf-C2H2              PF00096.27 O60481               -              0.043   14.3   0.4     0.043   14.3   0.4   1.3   2   0   0   2   2   2   0 Zinc finger, C2H2 type
+zf-BED               PF02892.16 O75132               -            0.00059   19.8   2.0   0.00066   19.6   2.0   1.1   1   0   0   1   1   1   1 BED zinc finger
+zf-H2C2_2            PF13465.7  Q96N22               -            1.7e-05   25.1   1.7   1.8e-05   24.9   1.7   1.1   1   0   0   1   1   1   1 Zinc-finger double domain
+zf-C2H2              PF00096.27 Q96N22               -              0.055   14.0   2.9     0.064   13.8   2.9   1.1   1   0   0   1   1   1   0 Zinc finger, C2H2 type
+zf-H2C2_2            PF13465.7  Q96N22               -            7.7e-05   23.0   0.5   8.6e-05   22.8   0.5   1.1   1   0   0   1   1   1   1 Zinc-finger double domain
+zf-H2C2_2            PF13465.7  Q96N22               -              0.006   17.0   0.4    0.0062   16.9   0.4   1.1   1   0   0   1   1   1   1 Zinc-finger double domain
+zf-H2C2_2            PF13465.7  O43296               -            7.2e-05   23.1   0.2   7.8e-05   23.0   0.2   1.1   1   0   0   1   1   1   1 Zinc-finger double domain
+Gcd10p               PF04189.14 Q9UJA5               -              1e-05   24.8   2.7     1e-05   24.8   2.7   1.0   1   0   0   1   1   1   1 Gcd10p family
+zf-H2C2_2            PF13465.7  A6NK75               -            9.6e-05   22.7   0.6    0.0001   22.6   0.6   1.1   1   0   0   1   1   1   1 Zinc-finger double domain
+zf-H2C2_2            PF13465.7  A6NK75               -            7.9e-05   22.9   0.5   8.6e-05   22.8   0.5   1.1   1   0   0   1   1   1   1 Zinc-finger double domain
+zf-H2C2_2            PF13465.7  A6NK75               -             0.0024   18.3   1.6    0.0027   18.1   1.6   1.1   1   0   0   1   1   1   1 Zinc-finger double domain
+zf-C2H2              PF00096.27 A6NK75               -               0.14   12.7   2.9      0.17   12.4   2.9   1.2   1   0   0   1   1   1   0 Zinc finger, C2H2 type
+zf-C2H2              PF00096.27 A6NK75               -              0.084   13.4   0.9      0.11   13.0   0.9   1.2   1   0   0   1   1   1   0 Zinc finger, C2H2 type
+zf-H2C2_2            PF13465.7  A6NK75               -            0.00031   21.0   2.0   0.00037   20.8   2.0   1.2   1   0   0   1   1   1   1 Zinc-finger double domain
+zf-C2H2              PF00096.27 A6NK75               -               0.39   11.3   3.3      0.48   11.0   3.3   1.2   1   0   0   1   1   1   0 Zinc finger, C2H2 type
+zf-H2C2_2            PF13465.7  Q6IV72               -              0.056   13.9   2.4     0.062   13.8   2.4   1.1   1   0   0   1   1   1   0 Zinc-finger double domain
+zf-H2C2_2            PF13465.7  Q8NEK5               -            0.00011   22.5   0.8   0.00013   22.2   0.8   1.2   1   0   0   1   1   1   1 Zinc-finger double domain
+Homeodomain          PF00046.30 Q9NZR4               -              2e-05   24.4   7.7   2.7e-05   23.9   7.7   1.2   1   0   0   1   1   1   1 Homeodomain
+zf-H2C2_2            PF13465.7  Q6P3V2               -             0.0011   19.3   0.6    0.0013   19.0   0.6   1.2   1   0   0   1   1   1   1 Zinc-finger double domain
+zf-C2H2              PF00096.27 Q6P3V2               -               0.12   12.9   0.6      0.14   12.7   0.6   1.1   1   0   0   1   1   1   0 Zinc finger, C2H2 type
+zf-H2C2_2            PF13465.7  Q86V71               -            0.00062   20.1   1.3    0.0007   19.9   1.3   1.1   1   0   0   1   1   1   1 Zinc-finger double domain
+zf-C2H2              PF00096.27 Q86V71               -              0.082   13.4   1.0       0.1   13.1   1.0   1.2   1   0   0   1   1   1   0 Zinc finger, C2H2 type
+zf-H2C2_2            PF13465.7  Q86V71               -             0.0029   18.0   0.5    0.0033   17.8   0.5   1.1   1   0   0   1   1   1   1 Zinc-finger double domain
+zf-H2C2_2            PF13465.7  Q8TF39               -            0.00089   19.6   0.2   0.00092   19.6   0.2   1.1   1   0   0   1   1   1   1 Zinc-finger double domain
+BTB                  PF00651.32 O43829               -            0.00054   20.2   0.1   0.00054   20.2   0.1   1.0   1   0   0   1   1   1   1 BTB/POZ domain
+zf-H2C2_2            PF13465.7  O43829               -            0.00073   19.9   1.8   0.00081   19.7   1.8   1.1   1   0   0   1   1   1   1 Zinc-finger double domain
+BTB                  PF00651.32 O43829               -            3.2e-09   37.0   0.2   3.2e-09   37.0   0.2   1.0   1   0   0   1   1   1   1 BTB/POZ domain
+Zfx_Zfy_act          PF04704.14 P08048               -            1.5e-05   24.2   1.6   1.5e-05   24.2   1.6   1.0   1   0   0   1   1   1   1 Zfx / Zfy transcription activation region
+zf-H2C2_2            PF13465.7  O43361               -              8e-06   26.1   0.1   9.9e-06   25.8   0.1   1.2   1   0   0   1   1   1   1 Zinc-finger double domain
+zf-H2C2_5            PF13909.7  O43361               -              0.012   15.4   1.0     0.014   15.2   1.0   1.2   1   0   0   1   1   1   0 C2H2-type zinc-finger domain
+zf-H2C2_2            PF13465.7  A6NHJ4               -              0.016   15.6   5.2     0.036   14.5   5.2   1.7   1   1   0   1   1   1   0 Zinc-finger double domain
+zf-C2H2              PF00096.27 O43309               -             0.0019   18.6   0.3     0.002   18.5   0.3   1.2   1   1   0   1   1   1   1 Zinc finger, C2H2 type
+zf-H2C2_2            PF13465.7  O43309               -             0.0035   17.7   0.3    0.0035   17.7   0.3   1.4   2   0   0   2   2   2   1 Zinc-finger double domain
+Zn-ribbon_8          PF09723.11 O43309               -              0.011   15.8   0.4     0.011   15.8   0.4   1.0   1   0   0   1   1   1   0 Zinc ribbon domain
+zf_UBZ               PF18439.2  O43309               -              0.023   14.4   0.2     0.023   14.4   0.2   1.1   1   0   0   1   1   1   0 Ubiquitin-Binding Zinc Finger
+zf-C2H2_6            PF13912.7  O43309               -              0.024   14.6   1.0     0.026   14.6   0.3   1.4   2   0   0   2   2   2   0 C2H2-type zinc finger
+zf-C2H2_4            PF13894.7  O43309               -              0.052   14.4   0.4     0.053   14.4   0.4   1.2   1   0   0   1   1   1   0 C2H2-type zinc finger
+SSXRD                PF09514.11 O43309               -              0.072   12.8   0.0      0.08   12.6   0.0   1.1   1   0   0   1   1   1   0 SSXRD motif
+Shugoshin_C          PF07557.12 O43309               -               0.13   12.1   0.3      0.16   11.8   0.3   1.1   1   0   0   1   1   1   0 Shugoshin C terminus
+zf-H2C2_2            PF13465.7  P17019               -            0.00014   22.1   1.0   0.00016   22.0   1.0   1.2   1   0   0   1   1   1   1 Zinc-finger double domain
+zf-H2C2_2            PF13465.7  Q96T25               -            0.00023   21.5   0.6   0.00025   21.4   0.6   1.1   1   0   0   1   1   1   1 Zinc-finger double domain
+zf-C2H2              PF00096.27 Q96T25               -              0.043   14.3   0.4     0.043   14.3   0.4   1.3   2   0   0   2   2   2   0 Zinc finger, C2H2 type
+zf-H2C2_2            PF13465.7  O95409               -            0.00016   22.0   0.4   0.00017   21.8   0.4   1.1   1   0   0   1   1   1   1 Zinc-finger double domain
+zf-C2H2              PF00096.27 O95409               -              0.034   14.6   0.4     0.043   14.3   0.4   1.2   1   0   0   1   1   1   0 Zinc finger, C2H2 type
+zf-H2C2_2            PF13465.7  Q8TD23               -            0.00039   20.7   0.7   0.00042   20.6   0.7   1.1   1   0   0   1   1   1   1 Zinc-finger double domain
+zf-C2H2              PF00096.27 Q8TD23               -               0.11   13.0   0.8      0.14   12.7   0.8   1.2   1   0   0   1   1   1   0 Zinc finger, C2H2 type
+zf-H2C2_2            PF13465.7  Q8TD23               -            8.7e-05   22.8   0.3   0.00012   22.4   0.3   1.3   1   0   0   1   1   1   1 Zinc-finger double domain
+zf-C2H2              PF00096.27 Q8TD23               -               0.21   12.2   1.9      0.26   11.9   1.9   1.2   1   0   0   1   1   1   0 Zinc finger, C2H2 type
+zf-H2C2_2            PF13465.7  Q8TD23               -            0.00013   22.3   0.5   0.00018   21.8   0.5   1.3   1   0   0   1   1   1   1 Zinc-finger double domain
+zf-C2H2              PF00096.27 Q8TD23               -               0.21   12.2   2.7      0.26   11.9   2.7   1.2   1   0   0   1   1   1   0 Zinc finger, C2H2 type
+zf-H2C2_2            PF13465.7  Q6ZSB9               -            6.6e-05   23.2   0.3   9.2e-05   22.7   0.3   1.3   1   0   0   1   1   1   1 Zinc-finger double domain
+zf-C2H2              PF00096.27 Q6ZSB9               -               0.03   14.8   1.3     0.038   14.5   1.3   1.2   1   0   0   1   1   1   0 Zinc finger, C2H2 type
+zf-H2C2_2            PF13465.7  Q96I27               -             0.0014   19.0   0.5    0.0015   18.9   0.5   1.1   1   0   0   1   1   1   1 Zinc-finger double domain
+zf-H2C2_2            PF13465.7  Q96I27               -             0.0057   17.1   0.5    0.0064   16.9   0.5   1.2   1   0   0   1   1   1   1 Zinc-finger double domain
+zf-H2C2_2            PF13465.7  Q8NEM1               -             0.0081   16.6   0.9    0.0093   16.4   0.9   1.1   1   0   0   1   1   1   1 Zinc-finger double domain
+zf-H2C2_2            PF13465.7  Q14584               -            0.00053   20.3   0.2   0.00056   20.3   0.2   1.1   1   0   0   1   1   1   1 Zinc-finger double domain
+zf-H2C2_2            PF13465.7  B4DX44               -               0.28   11.7   4.6      0.33   11.5   4.6   1.2   1   0   0   1   1   1   0 Zinc-finger double domain
+zf-H2C2_2            PF13465.7  O75373               -            2.7e-05   24.4   0.6   3.1e-05   24.2   0.6   1.2   1   0   0   1   1   1   1 Zinc-finger double domain
+zf-H2C2_2            PF13465.7  O75373               -             0.0031   17.9   2.4    0.0035   17.7   2.4   1.1   1   0   0   1   1   1   1 Zinc-finger double domain
+zf-H2C2_2            PF13465.7  O75373               -            0.00038   20.8   0.5   0.00038   20.8   0.5   1.3   2   0   0   2   2   2   1 Zinc-finger double domain
+zf-H2C2_2            PF13465.7  O75373               -            0.00032   21.0   2.0   0.00037   20.8   2.0   1.1   1   0   0   1   1   1   1 Zinc-finger double domain
+zf-H2C2_2            PF13465.7  O75373               -            0.00037   20.8   0.5   0.00037   20.8   0.5   1.4   2   0   0   2   2   2   1 Zinc-finger double domain
+zf-H2C2_2            PF13465.7  Q15915               -            0.00023   21.5   0.6   0.00025   21.4   0.6   1.1   1   0   0   1   1   1   1 Zinc-finger double domain
+zf-C2H2              PF00096.27 Q15915               -              0.043   14.3   0.4     0.043   14.3   0.4   1.3   2   0   0   2   2   2   0 Zinc finger, C2H2 type
+SIM_C                PF06621.13 Q14190               -            1.5e-14   54.9   3.8   1.5e-14   54.9   3.8   1.0   1   0   0   1   1   1   1 Single-minded protein C-terminus
+SPAN-X               PF07458.13 Q9NS26               -            2.3e-07   31.2   0.2   2.3e-07   31.2   0.2   1.0   1   0   0   1   1   1   1 Sperm protein associated with nucleus, mapped to X chromosome
+SPAN-X               PF07458.13 Q9NS26               -            1.2e-08   35.4   0.1   1.2e-08   35.4   0.1   1.0   1   0   0   1   1   1   1 Sperm protein associated with nucleus, mapped to X chromosome
+Tub                  PF01167.19 O75386               -            0.00066   19.5   0.2   0.00066   19.5   0.2   1.0   1   0   0   1   1   1   1 Tub family
+Zfx_Zfy_act          PF04704.14 Q9Y462               -            3.5e-05   23.1   4.1   3.5e-05   23.0   4.1   1.0   1   0   0   1   1   1   1 Zfx / Zfy transcription activation region
+Zfx_Zfy_act          PF04704.14 Q9Y462               -            0.00051   19.2   4.7   0.00052   19.2   4.7   1.0   1   0   0   1   1   1   1 Zfx / Zfy transcription activation region
+zf-C2H2_2            PF12756.8  Q9NRM2               -             0.0015   18.9   0.7    0.0015   18.9   0.7   1.0   1   0   0   1   1   1   1 C2H2 type zinc-finger (2 copies)
+USP8_dimer           PF08969.12 P40818               -             0.0047   17.1   0.3    0.0047   17.1   0.3   1.0   1   0   0   1   1   1   1 USP8 dimerisation domain
+zf-H2C2_2            PF13465.7  Q3SXZ3               -            0.00037   20.8   0.5    0.0004   20.7   0.5   1.1   1   0   0   1   1   1   1 Zinc-finger double domain
+THRAP3_BCLAF1        PF15440.7  Q9Y2W1               -            0.00044   19.4  25.7   0.00045   19.4  25.7   1.0   1   0   0   1   1   1   1 THRAP3/BCLAF1 family
+THRAP3_BCLAF1        PF15440.7  Q9Y2W1               -            8.9e-10   38.3   4.0   9.1e-10   38.2   4.0   1.0   1   0   0   1   1   1   1 THRAP3/BCLAF1 family
+zf-H2C2_5            PF13909.7  O43167               -              0.092   12.5   0.3     0.092   12.5   0.3   1.3   2   0   0   2   2   2   0 C2H2-type zinc-finger domain
+AT_hook              PF02178.20 O43167               -             0.0013   18.4   4.1    0.0013   18.4   4.1   1.8   1   1   0   1   1   1   1 AT hook motif
+AT_hook              PF02178.20 O43167               -             0.0017   18.0   4.4    0.0017   18.0   4.4   1.5   1   1   0   1   1   1   1 AT hook motif
+zf-H2C2_2            PF13465.7  P17038               -              0.013   15.9   0.5     0.015   15.8   0.5   1.1   1   0   0   1   1   1   0 Zinc-finger double domain
+zf-H2C2_2            PF13465.7  P17038               -             0.0016   18.8   0.4    0.0018   18.6   0.4   1.1   1   0   0   1   1   1   1 Zinc-finger double domain
+zf-H2C2_2            PF13465.7  P17038               -             0.0048   17.3   1.7    0.0055   17.1   1.7   1.3   1   1   0   1   1   1   1 Zinc-finger double domain
+zf-H2C2_2            PF13465.7  P17035               -            2.5e-05   24.5   2.2     3e-05   24.3   2.2   1.2   1   0   0   1   1   1   1 Zinc-finger double domain
+zf-C2H2              PF00096.27 P17035               -              0.012   16.1   2.8     0.014   15.8   2.8   1.2   1   0   0   1   1   1   0 Zinc finger, C2H2 type
+zf-H2C2_5            PF13909.7  P17035               -               0.11   12.3   2.6      0.13   12.1   2.6   1.1   1   0   0   1   1   1   0 C2H2-type zinc-finger domain
+zf-H2C2_2            PF13465.7  Q5VIY5               -            2.5e-05   24.5   2.2     3e-05   24.3   2.2   1.2   1   0   0   1   1   1   1 Zinc-finger double domain
+zf-C2H2              PF00096.27 Q5VIY5               -              0.012   16.1   2.8     0.014   15.8   2.8   1.2   1   0   0   1   1   1   0 Zinc finger, C2H2 type
+zf-H2C2_5            PF13909.7  Q5VIY5               -               0.11   12.3   2.6      0.13   12.1   2.6   1.1   1   0   0   1   1   1   0 C2H2-type zinc-finger domain
+zf-H2C2_2            PF13465.7  Q8NA42               -            2.2e-06   27.9   1.3   2.7e-06   27.6   1.3   1.2   1   0   0   1   1   1   1 Zinc-finger double domain
+zf-H2C2_5            PF13909.7  Q8NA42               -              0.044   13.6   1.5     0.058   13.2   1.5   1.2   1   0   0   1   1   1   0 C2H2-type zinc-finger domain
+zf-H2C2_2            PF13465.7  Q03924               -             0.0019   18.6   2.3    0.0021   18.4   2.3   1.1   1   0   0   1   1   1   1 Zinc-finger double domain
+zf-C2H2              PF00096.27 Q03924               -               0.14   12.7   2.1      0.17   12.4   2.1   1.2   1   0   0   1   1   1   0 Zinc finger, C2H2 type
+zf-H2C2_2            PF13465.7  Q03924               -             0.0031   17.9   0.5    0.0033   17.8   0.5   1.1   1   0   0   1   1   1   1 Zinc-finger double domain
+zf-H2C2_2            PF13465.7  Q8IYI8               -             0.0012   19.1   1.0    0.0017   18.7   1.0   1.3   1   0   0   1   1   1   1 Zinc-finger double domain
+Helicase_C           PF00271.32 Q8NDG6               -               0.12   12.7   0.1      0.12   12.7   0.1   1.0   1   0   0   1   1   1   0 Helicase conserved C-terminal domain
+zf-H2C2_2            PF13465.7  Q6ZMV8               -            0.00075   19.8   1.7   0.00089   19.6   1.7   1.2   1   0   0   1   1   1   1 Zinc-finger double domain
+zf-H2C2_2            PF13465.7  Q6ZMV8               -            7.9e-05   22.9   0.5   8.6e-05   22.8   0.5   1.1   1   0   0   1   1   1   1 Zinc-finger double domain
+zf-H2C2_2            PF13465.7  Q6ZMV8               -            0.00033   21.0   2.0   0.00037   20.8   2.0   1.1   1   0   0   1   1   1   1 Zinc-finger double domain
+zf-H2C2_2            PF13465.7  Q6ZMV8               -            0.00026   21.3   0.5   0.00027   21.2   0.5   1.1   1   0   0   1   1   1   1 Zinc-finger double domain
+zf-C2H2              PF00096.27 P19544               -             0.0046   17.4   3.5    0.0049   17.3   3.5   1.1   1   0   0   1   1   1   1 Zinc finger, C2H2 type
+zf-H2C2_2            PF13465.7  P19544               -               0.14   12.7   2.9       0.2   12.2   2.9   1.3   1   0   0   1   1   1   0 Zinc-finger double domain
+DFRP_C               PF16543.6  Q8WU90               -              0.002   18.6   0.9     0.002   18.6   0.9   1.0   1   0   0   1   1   1   1 DRG Family Regulatory Proteins, Tma46
+Melittin             PF01372.18 Q8WU90               -              0.095   12.7   0.1       0.1   12.6   0.1   1.1   1   0   0   1   1   1   0 Melittin
+DFRP_C               PF16543.6  Q8WU90               -               0.01   16.4   1.0      0.01   16.4   1.0   1.0   1   0   0   1   1   1   0 DRG Family Regulatory Proteins, Tma46
+Melittin             PF01372.18 Q8WU90               -               0.12   12.3   0.2      0.13   12.2   0.2   1.1   1   0   0   1   1   1   0 Melittin
+DFRP_C               PF16543.6  Q8WU90               -              0.022   15.3   1.4     0.022   15.3   1.4   1.0   1   0   0   1   1   1   0 DRG Family Regulatory Proteins, Tma46
+zf-H2C2_2            PF13465.7  Q03938               -            0.00022   21.5   0.3   0.00024   21.4   0.3   1.1   1   0   0   1   1   1   1 Zinc-finger double domain
+zf-H2C2_2            PF13465.7  Q03938               -            0.00017   21.9   0.6   0.00018   21.8   0.6   1.1   1   0   0   1   1   1   1 Zinc-finger double domain
+zf-H2C2_2            PF13465.7  Q03938               -               0.13   12.8   0.1      0.14   12.6   0.1   1.1   1   0   0   1   1   1   0 Zinc-finger double domain
+zf-C4                PF00105.19 Q07869               -            9.6e-18   64.4  13.4   1.6e-17   63.7  13.4   1.4   1   0   0   1   1   1   1 Zinc finger, C4 type (two domains)
+RFX5_DNA_bdg         PF14621.7  P48382               -            7.4e-09   35.7   4.9   7.6e-09   35.7   4.9   1.0   1   0   0   1   1   1   1 RFX5 DNA-binding domain
+AT_hook              PF02178.20 P48382               -              0.018   14.9  10.1     0.022   14.6  10.1   1.2   1   0   0   1   1   1   0 AT hook motif
+RFX5_DNA_bdg         PF14621.7  P48382               -            1.2e-10   41.6   4.6   1.2e-10   41.5   4.6   1.0   1   0   0   1   1   1   1 RFX5 DNA-binding domain
+AT_hook              PF02178.20 P48382               -              0.024   14.5  10.1     0.031   14.1  10.1   1.3   1   0   0   1   1   1   0 AT hook motif
+RFX5_DNA_bdg         PF14621.7  P48382               -            2.2e-08   34.2   6.1   2.2e-08   34.2   6.1   1.0   1   0   0   1   1   1   1 RFX5 DNA-binding domain
+AT_hook              PF02178.20 P48382               -              0.017   14.9  10.1     0.022   14.6  10.1   1.3   1   0   0   1   1   1   0 AT hook motif
+#
+# Program:         hmmscan
+# Version:         3.3.2 (Nov 2020)
+# Pipeline mode:   SCAN
+# Query file:      ./nlsdb.human.pos.fasta
+# Target file:     /home/yukai6/software/Pfam/Pfam-A.hmm
+# Option settings: hmmscan -o ./nlsdb.hmmscan --tblout ./nlsdb.tbl --domtblout ./nlsdb.dom --noali -E 1.0 /home/yukai6/software/Pfam/Pfam-A.hmm ./nlsdb.human.pos.fasta 
+# Current dir:     /home/yukai6/projects/ProNuclear/0.database
+# Date:            Tue Apr  6 22:58:26 2021
+# [ok]

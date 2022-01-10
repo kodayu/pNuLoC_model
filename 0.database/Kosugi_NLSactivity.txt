@@ -1,0 +1,375 @@
+	Mutation template	P-5	P-4	P-3	P-2	P-1	P1	P2	P3	P4	P5	P6	P7	P8	*score
+1	xAxKRR[KR]xA				R	A	R	K	R	R	K	Y	A		10
+2	xAxKRR[KR]xA				C	A	M	K	R	R	K	H	A		5
+3	xAxKRR[KR]xA				T	A	S	K	R	R	R	S	A		5
+4	xAxKRR[KR]xA				R	A	I	K	R	R	K	P	A		9
+5	xAxKRR[KR]xA				S	A	Y	K	R	R	R	I	A		8
+6	xAxKRR[KR]xA				R	A	N	K	R	R	R	I	A		9
+7	xAxKRR[KR]xA				R	A	F	K	R	R	K	K	A		9
+8	xAxKRR[KR]xA				Y	A	I	K	R	R	R	D	A		7
+9	xAxKRR[KR]xA				S	A	V	K	R	R	K	T	A		9
+10	xAxKRR[KR]xA				A	A	R	K	R	R	R	H	A		8
+11	xAxKRR[KR]xA				R	A	P	K	R	R	K	M	A		9
+12	xAxKRR[KR]xA				R	A	W	K	R	R	K	T	A		10
+13	xAxKRR[KR]xA				S	A	K	K	R	R	R	S	A		9
+14	xAxKRR[KR]xA				P	A	Y	K	R	R	R	R	A		9
+15	xAxKRR[KR]xA				L	A	S	K	R	R	R	G	A		5
+16	xAxKRR[KR]xA				G	A	G	K	R	R	K	F	A		6
+17	xAxKRR[KR]xA				E	A	V	K	R	R	K	C	A		7
+18	xAxKRR[KR]xA				W	A	K	K	R	R	R	N	A		9
+19	xAxKRR[KR]xA				R	A	R	K	R	R	K	A	A		10
+20	xAxKRR[KR]xA				H	A	T	K	R	R	R	L	A		9
+21	xAxKRR[KR]xA				K	A	R	K	R	R	R	R	A		9
+22	xAxKRR[KR]xA				T	A	P	K	R	R	R	N	A		4
+23	xAxKRR[KR]xA				F	A	H	K	R	R	R	V	A		9
+24	xAxKRR[KR]xA				K	A	G	K	R	R	R	D	A		2
+25	xAxKRR[KR]xA				L	A	L	K	R	R	K	Y	A		8
+26	xAxKRR[KR]xA				R	A	L	K	R	R	K	P	A		9
+27	xAxKRR[KR]xA				W	A	H	K	R	R	R	L	A		9
+28	xAxKRR[KR]xA				T	A	P	K	R	R	K	C	A		7
+29	xAxKRR[KR]xA				T	A	S	K	R	R	K	H	A		6
+30	QAAK[KR][KR][KR][LS]S				Q	A	A	K	R	R	R	S	S		8
+31	QAAK[KR][KR][KR][LS]S				Q	A	A	K	R	R	R	L	S		10
+32	QAAK[KR][KR][KR][LS]S				Q	A	A	K	R	R	K	S	S		6
+33	QAAK[KR][KR][KR][LS]S				Q	A	A	K	R	R	K	L	S		9
+34	QAAK[KR][KR][KR][LS]S				Q	A	A	K	R	K	R	S	S		6
+35	QAAK[KR][KR][KR][LS]S				Q	A	A	K	R	K	R	L	S		8
+36	QAAK[KR][KR][KR][LS]S				Q	A	A	K	R	K	K	S	S		4
+37	QAAK[KR][KR][KR][LS]S				Q	A	A	K	R	K	K	L	S		7
+38	QAAK[KR][KR][KR][LS]S				Q	A	A	K	K	R	R	S	S		6
+39	QAAK[KR][KR][KR][LS]S				Q	A	A	K	K	R	R	L	S		9
+40	QAAK[KR][KR][KR][LS]S				Q	A	A	K	K	R	K	S	S		8
+41	QAAK[KR][KR][KR][LS]S				Q	A	A	K	K	R	K	L	S		10
+42	QAAK[KR][KR][KR][LS]S				Q	A	A	K	K	K	R	S	S		2
+43	QAAK[KR][KR][KR][LS]S				Q	A	A	K	K	K	R	L	S		5
+44	QAAK[KR][KR][KR][LS]S				Q	A	A	K	K	K	K	L	S		3
+45	[LPQR]AAK[KR][FLPS]RTT				R	A	A	K	R	P	R	T	T		10
+46	[LPQR]AAK[KR][FLPS]RTT				L	A	A	K	R	L	R	T	T		4
+47	[LPQR]AAK[KR][FLPS]RTT				R	A	A	K	R	F	R	T	T		7
+48	[LPQR]AAK[KR][FLPS]RTT				L	A	A	K	R	S	R	T	T		2
+49	[LPQR]AAK[KR][FLPS]RTT				P	A	A	K	R	L	R	T	T		8
+50	[LPQR]AAK[KR][FLPS]RTT				Q	A	A	K	R	P	R	T	T		7
+51	[LPQR]AAK[KR][FLPS]RTT				L	A	A	K	R	P	R	T	T		5
+52	[LPQR]AAK[KR][FLPS]RTT				R	A	A	K	R	L	R	T	T		9
+53	[LPQR]AAK[KR][FLPS]RTT				L	A	A	K	R	F	R	T	T		2
+54	[LPQR]AAK[KR][FLPS]RTT				P	A	A	K	R	P	R	T	T		9
+55	[LPQR]AAK[KR][FLPS]RTT				Q	A	A	K	R	S	R	T	T		4
+56	[LPQR]AAK[KR][FLPS]RTT				R	A	A	K	R	S	R	T	T		7
+57	[LPQR]AAK[KR][FLPS]RTT				L	A	A	K	K	P	R	T	T		5
+58	[LPQR]AAK[KR][FLPS]RTT				P	A	A	K	R	F	R	T	T		7
+59	[LPQR]AAK[KR][FLPS]RTT				Q	A	A	K	R	L	R	T	T		6
+60	A[AP]AKRAR[AST][ST]				A	P	A	K	R	A	R	T	S		7
+61	A[AP]AKRAR[AST][ST]				A	A	A	K	R	A	R	S	S		2
+62	A[AP]AKRAR[AST][ST]				A	P	A	K	R	A	R	A	S		4
+63	A[AP]AKRAR[AST][ST]				A	P	A	K	R	A	R	T	T		8
+64	A[AP]AKRAR[AST][ST]				A	P	A	K	R	A	R	S	T		5
+65	A[AP]AKRAR[AST][ST]				A	A	A	K	R	A	R	T	S		4
+66	A[AP]AKRAR[AST][ST]				A	A	A	K	R	A	R	T	T		3
+67	A[AP]AKRAR[AST][ST]				A	P	A	K	R	A	R	A	T		3
+68	A[AP]AKRAR[AST][ST]				A	A	A	K	R	A	R	A	T		2
+69	A[AP]AKRAR[AST][ST]				A	A	A	K	R	A	R	A	S		2
+70	PAAK[KR][AS][KR]TT				P	A	A	K	R	A	R	T	T		10
+71	PAAK[KR][AS][KR]TT				P	A	A	K	K	S	R	T	T		6
+72	PAAK[KR][AS][KR]TT				P	A	A	K	K	S	K	T	T		6
+73	PAAK[KR][AS][KR]TT				P	A	A	K	K	A	R	T	T		9
+74	PAAK[KR][AS][KR]TT				P	A	A	K	R	A	K	T	T		9
+75	PAAK[KR][AS][KR]TT				P	A	A	K	R	S	K	T	T		7
+76	PAAK[KR][AS][KR]TT				P	A	A	K	R	S	R	T	T		7
+77	xxxKRARLS				H	P	R	K	R	A	R	L	S		10
+78	xxxKRARLS				P	N	M	K	R	A	R	L	S		8
+79	xxxKRARLS				T	A	V	K	R	A	R	L	S		7
+80	xxxKRARLS				T	V	W	K	R	A	R	L	S		5
+81	xxxKRARLS				P	M	I	K	R	A	R	L	S		9
+82	xxxKRARLS				V	M	Q	K	R	A	R	L	S		3
+83	xxxKRARLS				L	D	Q	K	R	A	R	L	S		2
+84	xxxKRARLS				V	N	Q	K	R	A	R	L	S		4
+85	xxxKRARLS				N	C	E	K	R	A	R	L	S		2
+86	xxxKRARLS				L	A	R	K	R	A	R	L	S		9
+87	xxxKRARLS				A	P	E	K	R	A	R	L	S		2
+88	xxxKRARLS				L	T	P	K	R	A	R	L	S		5
+89	xxxKRARLS				G	D	T	K	R	A	R	L	S		6
+90	xxxKRARLS				R	I	S	K	R	A	R	L	S		8
+91	xxxKRARLS				H	S	V	K	R	A	R	L	S		8
+92	xxxKRARLS				R	T	P	K	R	A	R	L	S		8
+93	xxxKRARLS				V	L	Q	K	R	A	R	L	S		2
+94	xxxKRARLS				I	T	P	K	R	A	R	L	S		5
+95	xxxKRARLS				G	T	T	K	R	A	R	L	S		6
+96	xxxKRARLS				S	I	N	K	R	A	R	L	S		5
+97	xxxKRARLS				T	S	K	K	R	A	R	L	S		8
+98	xxxKRARLS				V	P	L	K	R	A	R	L	S		9
+99	xxxKRARLS				W	V	A	K	R	A	R	L	S		6
+100	xxxKRARLS				I	L	K	K	R	A	R	L	S		6
+101	xxxKRARLS				R	Y	M	K	R	A	R	L	S		8
+102	xxxKRARLS				S	S	Y	K	R	A	R	L	S		9
+103	xxxKRARLS				Q	S	S	K	R	A	R	L	S		7
+104	xxxKRARLS				L	N	F	K	R	A	R	L	S		8
+105	xxxKRARLS				W	T	L	K	R	A	R	L	S		6
+106	xxxKRARLS				W	S	K	K	R	A	R	L	S		8
+107	xxxKRARLS				W	K	T	K	R	A	R	L	S		7
+108	xxxKRARLS				L	K	F	K	R	A	R	L	S		8
+109	xxxKRARLS				R	F	T	K	R	A	R	L	S		8
+110	xxxKRARLS				R	E	P	K	R	A	R	L	S		7
+111	xxxKRARLS				G	P	T	K	R	A	R	L	S		7
+112	xxxKRARLS				R	Y	D	K	R	A	R	L	S		2
+113	PxxK[KR]x[KR]xx				P	V	G	K	R	C	R	G	N		3
+114	PxxK[KR]x[KR]xx				P	R	S	K	R	I	R	A	I		5
+115	PxxK[KR]x[KR]xx				P	K	R	K	R	L	R	N	S		10
+116	PxxK[KR]x[KR]xx				P	K	T	K	K	S	R	T	V		8
+117	PxxK[KR]x[KR]xx				P	N	A	K	R	S	R	Y	N		7
+118	PxxK[KR]x[KR]xx				P	R	R	K	K	E	R	R	A		4
+119	PxxK[KR]x[KR]xx				P	P	P	K	R	T	K	T	A		9
+120	PxxK[KR]x[KR]xx				P	G	P	K	R	I	R	V	A		5
+121	PxxK[KR]x[KR]xx				P	V	T	K	R	S	R	V	F		5
+122	PxxK[KR]x[KR]xx				P	L	S	K	R	R	K	I	P		10
+123	PxxK[KR]x[KR]xx				P	Y	Y	K	R	P	K	T	Q		7
+124	PxxK[KR]x[KR]xx				P	S	N	K	K	P	R	W	P		5
+125	PxxK[KR]x[KR]xx				P	P	Q	K	K	R	R	L	E		10
+126	PxxK[KR]x[KR]xx				P	A	W	K	R	N	K	R	V		4
+127	PxxK[KR]x[KR]xx				P	G	R	K	K	A	K	T	R		6
+128	PxxK[KR]x[KR]xx				P	P	C	K	K	P	K	I	E		10
+129	PxxK[KR]x[KR]xx				P	P	G	K	K	I	K	W	G		6
+130	PxxK[KR]x[KR]xx				P	E	R	K	K	T	R	V	G		7
+131	PxxK[KR]x[KR]xx				P	N	N	K	R	R	K	D	V		4
+132	PxxK[KR]x[KR]xx				P	P	T	K	R	P	K	A	R		7
+133	PxxK[KR]x[KR]xx				P	K	R	K	R	F	K	K	Y		9
+134	PxxK[KR]x[KR]xx				P	T	A	K	R	R	R	R	H		9
+135	PxxK[KR]x[KR]xx				P	D	N	K	R	R	R	G	R		4
+136	PxxK[KR]x[KR]xx				P	Q	P	K	R	S	R	G	P		5
+137	PxxK[KR]x[KR]xx				P	L	R	K	K	A	R	R	P		9
+138	PxxK[KR]x[KR]xx				P	T	D	K	K	A	R	M	C		2
+139	PxxK[KR]x[KR]xx				P	S	C	K	R	G	K	D	F		1
+140	PxxK[KR]x[KR]xx				P	G	A	K	K	V	K	G	G		1
+141	PxxK[KR]x[KR]xx				P	V	Q	K	R	G	K	I	Q		3
+142	PxxK[KR]x[KR]xx				P	L	A	K	R	S	K	E	N		2
+143	PxxK[KR]x[KR]xx				P	D	P	K	K	Q	K	N	S		5
+144	PxxK[KR]x[KR]xx				P	D	D	K	R	T	K	R	Y		1
+145	PxxK[KR]x[KR]xx				P	V	P	K	K	W	K	G	T		6
+146	PxxK[KR]x[KR]xx				P	R	A	K	R	C	R	Q	E		7
+147	PxxK[KR]x[KR]xx				P	A	L	K	K	D	K	R	R		1
+148	PxxK[KR]x[KR]xx				P	Q	C	K	R	L	R	T	Y		7
+149	PxxK[KR]x[KR]xx				P	P	I	K	R	S	K	S	G		6
+150	PxxK[KR]x[KR]xx				P	R	V	K	K	V	R	A	A		4
+151	PxxK[KR]x[KR]xx				P	D	C	K	R	M	K	S	R		4
+152	PxxK[KR]x[KR]xx				P	S	V	K	R	L	R	V	A		8
+153	PxxK[KR]x[KR]xx				P	P	P	K	R	I	K	T	R		9
+154	PxxK[KR]x[KR]xx				P	A	Y	K	K	R	K	M	T		10
+155	PxxK[KR]x[KR]xx				P	I	A	K	K	C	K	D	W		2
+156	PxxK[KR]x[KR]xx				P	Y	R	K	R	R	R	Q	P		8
+157	PxxK[KR]x[KR]xx				P	V	V	K	R	L	R	Q	V		5
+158	PxxK[KR]x[KR]xx				P	D	A	K	R	N	R	H	T		2
+159	PxxK[KR]x[KR]xx				P	G	Y	K	R	P	R	T	P		5
+160	PxxK[KR]x[KR]xx				P	V	V	K	R	A	K	W	Y		7
+161	PxxK[KR]x[KR]xx				P	C	P	K	K	T	K	Y	V		7
+162	PxxK[KR]x[KR]xx				P	L	V	K	K	H	R	Q	T		3
+163	PxxK[KR]x[KR]xx				P	E	G	K	R	V	R	E	G		2
+164	PxxK[KR]x[KR]xx				P	G	P	K	R	P	K	M	R		4
+165	PxxK[KR]x[KR]xx				P	A	R	K	K	N	K	S	Y		7
+166	PxxK[KR]x[KR]xx				P	L	E	K	R	S	R	S	W		2
+167	PxxK[KR]x[KR]xx				P	W	A	K	K	A	R	W	V		4
+168	PxxK[KR]x[KR]xx				P	R	K	K	R	Q	R	S	K		8
+169	PxxK[KR]x[KR]xx				P	Y	R	K	R	G	K	K	Q		3
+170	PxxK[KR]x[KR]xx				P	L	S	K	K	V	K	G	R		3
+171	PxxK[KR]x[KR]xx				P	A	A	K	K	R	R	N	L		9
+172	PxxK[KR]x[KR]xx				P	K	P	K	K	T	K	M	Y		6
+173	PxxK[KR]x[KR]xx				P	G	P	K	K	A	K	Q	R		2
+174	PxxK[KR]x[KR]xx				P	Q	V	K	R	A	R	Q	A		7
+175	PxxK[KR]x[KR]xx				P	S	G	K	R	G	K	G	E		1
+176	PxxK[KR]x[KR]xx				P	H	P	K	K	P	R	T	L		8
+177	PxxK[KR]x[KR]xx				P	Q	P	K	R	A	R	Q	H		5
+178	PxxK[KR]x[KR]xx				P	P	G	K	K	R	R	S	S		8
+179	PxxK[KR]x[KR]xx				P	A	R	K	R	L	R	A	K		9
+180	PxxK[KR]x[KR]xx				P	P	N	K	K	V	R	T	T		9
+181	PxxK[KR]x[KR]xx				P	I	T	K	R	K	K	P	P		4
+182	PxxK[KR]x[KR]xx				P	H	R	K	R	H	K	V	R		8
+183	PxxK[KR]x[KR]xx				P	N	R	K	R	R	K	P	L		9
+184	PxxK[KR]x[KR]xx				P	W	G	K	R	V	R	G	Q		1
+185	PxxK[KR]x[KR]xx				P	E	K	K	R	P	K	H	P		6
+186	PxxK[KR]x[KR]xx				P	T	L	K	R	A	K	R	S		9
+187	PxxK[KR]x[KR]xx				P	L	W	K	K	T	R	S	L		2
+188	PxxK[KR]x[KR]xx				P	C	T	K	R	L	R	S	C		7
+189	PAAKRxRxxA				P	A	A	K	R	R	R	F	I	A	9
+190	PAAKRxRxxA				P	A	A	K	R	N	R	M	R	A	1
+191	PAAKRxRxxA				P	A	A	K	R	L	R	L	H	A	7
+192	PAAKRxRxxA				P	A	A	K	R	V	R	S	P	A	2
+193	PAAKRxRxxA				P	A	A	K	R	N	R	K	S	A	1
+194	PAAKRxRxxA				P	A	A	K	R	E	R	G	N	A	1
+195	PAAKRxRxxA				P	A	A	K	R	T	R	S	L	A	3
+196	PAAKRxRxxA				P	A	A	K	R	V	R	A	L	A	2
+197	PAAKRxRxxA				P	A	A	K	R	S	R	S	D	A	6
+198	PAAKRxRxxA				P	A	A	K	R	V	R	F	S	A	8
+199	PAAKRxRxxA				P	A	A	K	R	P	R	V	V	A	9
+200	PAAKRxRxxA				P	A	A	K	R	N	R	M	V	A	2
+201	PAAKRxRxxA				P	A	A	K	R	R	R	M	S	A	9
+202	PAAKRxRxxA				P	A	A	K	R	S	R	S	M	A	6
+203	PAAKRxRxxA				P	A	A	K	R	L	R	R	R	A	5
+204	PAAKRxRxxA				P	A	A	K	R	F	R	S	L	A	6
+205	PAAKRxRxxA				P	A	A	K	R	F	R	S	M	A	7
+206	PAAKRxRxxA				P	A	A	K	R	L	R	T	S	A	8
+207	PAAKRxRxxA				P	A	A	K	R	S	R	W	R	A	3
+208	PAAKRxRxxA				P	A	A	K	R	T	R	R	P	A	4
+209	PAAKRxRxxA				P	A	A	K	R	D	R	L	L	A	2
+210	PAAKRxRxxA				P	A	A	K	R	K	R	S	L	A	7
+211	PAAKRxRxxA				P	A	A	K	R	A	R	S	L	A	5
+212	PAAKRxRxxA				P	A	A	K	R	P	R	C	N	A	8
+213	PAAKRxRxxA				P	A	A	K	R	R	R	P	R	A	7
+214	PAAKRxRxxA				P	A	A	K	R	A	R	K	V	A	7
+215	PAAKRxRxxA				P	A	A	K	R	F	R	K	L	A	5
+216	PAAKRxRxxA				P	A	A	K	R	R	R	V	D	A	8
+217	PAAKRxRxxA				P	A	A	K	R	V	R	V	V	A	5
+218	PAAKRxRxxA				P	A	A	K	R	L	R	L	P	A	5
+219	PAAKRxRxxA				P	A	A	K	R	S	R	M	N	A	5
+220	PAAKRxRxxA				P	A	A	K	R	V	R	H	G	A	6
+221	PAAKRxRxxA				P	A	A	K	R	Y	R	Y	G	A	7
+222	PAAKRxRxxA				P	A	A	K	R	Y	R	N	P	A	1
+223	PAAKRxRxxA				P	A	A	K	R	S	R	D	C	A	2
+224	PAAKRxRxxA				P	A	A	K	R	M	R	C	H	A	8
+225	PAAKRxRxxA				P	A	A	K	R	V	R	L	M	A	9
+226	PAAKRxRxxA				P	A	A	K	R	A	R	P	P	A	4
+227	PAAKRxRxxA				P	A	A	K	R	T	R	Y	A	A	8
+228	PAAKRxRxxA				P	A	A	K	R	Y	R	L	W	A	5
+229	PAAKRxRxxA				P	A	A	K	R	L	R	S	G	A	7
+230	PAAKRxRxxA				P	A	A	K	R	S	R	I	T	A	6
+231	PAAKRxRxxA				P	A	A	K	R	I	R	R	P	A	6
+232	PAAKRxRxxA				P	A	A	K	R	A	R	T	E	A	9
+233	PAAKRxRxxA				P	A	A	K	R	Q	R	S	D	A	9
+234	PAAKRxRxxA				P	A	A	K	R	F	R	D	L	A	2
+235	PAAKRxRxxA				P	A	A	K	R	I	R	Y	R	A	6
+236	PAAKRxRxxA				P	A	A	K	R	Y	R	L	N	A	6
+237	PAAKRxRxxA				P	A	A	K	R	A	R	W	Y	A	7
+238	PAAKRxRxxA				P	A	A	K	R	M	R	H	W	A	8
+239	PAAKRxRxxA				P	A	A	K	R	S	R	N	G	A	5
+240	PAAKRxRxxA				P	A	A	K	R	S	R	L	S	A	7
+241	PAAKRxRxxA				P	A	A	K	R	G	R	E	R	A	1
+242	PAAKRxRxxA				P	A	A	K	R	R	R	C	L	A	10
+243	PAAKRxRxxA				P	A	A	K	R	M	R	A	G	A	6
+244	PAAKRxRxxA				P	A	A	K	R	V	R	M	S	A	8
+245	PAAKRxRxxA				P	A	A	K	R	S	R	K	Y	A	6
+246	PAAKRxRxxA				P	A	A	K	R	A	R	Q	Y	A	5
+247	PAAKRxRxxA				P	A	A	K	R	P	R	S	V	A	7
+248	AAPKRARxxA				A	A	P	K	R	A	R	I	D	A	6
+249	AAPKRARxxA				A	A	P	K	R	A	R	V	C	A	4
+250	AAPKRARxxA				A	A	P	K	R	A	R	T	P	A	1
+251	AAPKRARxxA				A	A	P	K	R	A	R	Y	G	A	5
+252	AAPKRARxxA				A	A	P	K	R	A	R	T	F	A	3
+253	AAPKRARxxA				A	A	P	K	R	A	R	A	N	A	1
+254	AAPKRARxxA				A	A	P	K	R	A	R	L	L	A	3
+255	AAPKRARxxA				A	A	P	K	R	A	R	A	C	A	2
+256	AAPKRARxxA				A	A	P	K	R	A	R	R	V	A	3
+257	AAPKRARxxA				A	A	P	K	R	A	R	L	C	A	6
+258	AAPKRARxxA				A	A	P	K	R	A	R	D	P	A	1
+259	AAPKRARxxA				A	A	P	K	R	A	R	H	A	A	3
+260	AAPKRARxxA				A	A	P	K	R	A	R	G	P	A	1
+261	AAPKRARxxA				A	A	P	K	R	A	R	W	V	A	2
+262	AAPKRARxxA				A	A	P	K	R	A	R	V	I	A	2
+263	AAPKRARxxA				A	A	P	K	R	A	R	C	R	A	2
+264	AAPKRARxxA				A	A	P	K	R	A	R	T	L	A	4
+265	AAPKRARxxA				A	A	P	K	R	A	R	M	K	A	1
+266	AAPKRARxxA				A	A	P	K	R	A	R	L	P	A	2
+267	AAPKRARxxA				A	A	P	K	R	A	R	Y	V	A	4
+268	AAPKRARxxA				A	A	P	K	R	A	R	N	P	A	1
+269	AAPKRARxxA				A	A	P	K	R	A	R	F	V	A	3
+270	AAPKRARxxA				A	A	P	K	R	A	R	V	D	A	6
+271	AAPKRARxxA				A	A	P	K	R	A	R	K	G	A	2
+272	AAPKRARxxA				A	A	P	K	R	A	R	S	F	A	1
+273	AAPKRARxxA				A	A	P	K	R	A	R	L	G	A	4
+274	AAPKRARxxA				A	A	P	K	R	A	R	H	Q	A	2
+275	AAPKRARxxA				A	A	P	K	R	A	R	V	A	A	3
+276	AAPKRARxxA				A	A	P	K	R	A	R	D	V	A	1
+277	AAPKRARxxA				A	A	P	K	R	A	R	M	G	A	2
+278	AAPKRARxxA				A	A	P	K	R	A	R	A	W	A	1
+279	AAPKRARxxA				A	A	P	K	R	A	R	L	Y	A	4
+280	AAPKRARxxA				A	A	P	K	R	A	R	F	E	A	4
+281	AAPKRARxxA				A	A	P	K	R	A	R	V	Y	A	3
+282	AAPKRARxxA				A	A	P	K	R	A	R	F	N	A	4
+283	AAPKRARxxA				A	A	P	K	R	A	R	Y	S	A	5
+284	AAPKRARxxA				A	A	P	K	R	A	R	V	L	A	2
+285	AA[AP]AK[KR]A[KR]TT			A	A	P	A	K	R	A	R	T	T		6
+286	AA[AP]AK[KR]A[KR]TT			A	A	A	A	K	R	A	K	T	T		3
+287	AA[AP]AK[KR]A[KR]TT			A	A	P	A	K	R	A	K	T	T		5
+288	AA[AP]AK[KR]A[KR]TT			A	A	A	A	K	K	A	K	T	T		2
+289	AA[AP]AK[KR]A[KR]TT			A	A	A	A	K	K	A	R	T	T		1
+290	AA[AP]AK[KR]A[KR]TT			A	A	P	A	K	K	A	K	T	T		3
+291	AA[AP]AK[KR]A[KR]TT			A	A	P	A	K	K	A	R	T	T		2
+292	[CGRS]P[FILV]PAKRTR[GV][AL]		C	P	I	P	A	K	R	T	R	V	L		4
+293	[CGRS]P[FILV]PAKRTR[GV][AL]		S	P	I	P	A	K	R	T	R	V	L		5
+294	[CGRS]P[FILV]PAKRTR[GV][AL]		R	P	V	P	A	K	R	T	R	V	L		2
+295	[CGRS]P[FILV]PAKRTR[GV][AL]		R	P	F	P	A	K	R	T	R	V	L		3
+296	[CGRS]P[FILV]PAKRTR[GV][AL]		C	P	V	P	A	K	R	T	R	V	L		3
+297	[CGRS]P[FILV]PAKRTR[GV][AL]		S	P	L	P	A	K	R	T	R	V	L		4
+298	[CGRS]P[FILV]PAKRTR[GV][AL]		S	P	F	P	A	K	R	T	R	V	L		2
+299	[CGRS]P[FILV]PAKRTR[GV][AL]		S	P	V	P	A	K	R	T	R	V	L		3
+300	[CGRS]P[FILV]PAKRTR[GV][AL]		C	P	L	P	A	K	R	T	R	V	L		3
+301	[CGRS]P[FILV]PAKRTR[GV][AL]		G	P	L	P	A	K	R	T	R	V	L		4
+302	[CGRS]P[FILV]PAKRTR[GV][AL]		S	P	V	P	A	K	R	T	R	G	A		3
+303	[CGRS]P[FILV]PAKRTR[GV][AL]		R	P	L	P	A	K	R	T	R	V	L		3
+304	[CGRS]P[FILV]PAKRTR[GV][AL]		G	P	F	P	A	K	R	T	R	V	L		3
+305	[CGRS]P[FILV]PAKRTR[GV][AL]		R	P	I	P	A	K	R	T	R	V	L		2
+306	xxxxAAKRLRTT	R	R	H	V	A	A	K	R	L	R	T	T		5
+307	xxxxAAKRLRTT	V	P	A	P	A	A	K	R	L	R	T	T		6
+308	xxxxAAKRLRTT	T	P	G	P	A	A	K	R	L	R	T	T		9
+309	xxxxAAKRLRTT	R	S	S	A	A	A	K	R	L	R	T	T		3
+310	xxxxAAKRLRTT	R	L	S	P	A	A	K	R	L	R	T	T		7
+311	xxxxAAKRLRTT	P	D	H	S	A	A	K	R	L	R	T	T		4
+312	xxxxAAKRLRTT	A	Y	S	F	A	A	K	R	L	R	T	T		5
+313	xxxxAAKRLRTT	G	R	F	D	A	A	K	R	L	R	T	T		2
+314	xxxxAAKRLRTT	D	E	G	R	A	A	K	R	L	R	T	T		9
+315	xxxxAAKRLRTT	D	P	V	P	A	A	K	R	L	R	T	T		8
+316	xxxxAAKRLRTT	S	P	A	A	A	A	K	R	L	R	T	T		2
+317	xxxxAAKRLRTT	V	P	R	A	A	A	K	R	L	R	T	T		5
+318	xxxxAAKRLRTT	V	A	G	S	A	A	K	R	L	R	T	T		5
+319	xxxxAAKRLRTT	W	P	P	R	A	A	K	R	L	R	T	T		8
+320	xxxxAAKRLRTT	E	G	G	K	A	A	K	R	L	R	T	T		6
+321	xxxxAAKRLRTT	T	L	G	G	A	A	K	R	L	R	T	T		5
+322	xxxxAAKRLRTT	Q	E	G	E	A	A	K	R	L	R	T	T		2
+323	xxxxAAKRLRTT	W	P	H	D	A	A	K	R	L	R	T	T		2
+324	xxxxAAKRLRTT	R	G	Q	M	A	A	K	R	L	R	T	T		5
+325	xxxxAAKRLRTT	A	Q	I	T	A	A	K	R	L	R	T	T		2
+326	xxxxAAKRLRTT	R	G	H	D	A	A	K	R	L	R	T	T		2
+327	xxxxAAKRLRTT	S	P	P	P	A	A	K	R	L	R	T	T		7
+328	xxxxAAKRLRTT	P	H	T	G	A	A	K	R	L	R	T	T		4
+329	xxxxAAKRLRTT	K	G	S	T	A	A	K	R	L	R	T	T		4
+330	xxxxAAKRLRTT	S	S	T	R	A	A	K	R	L	R	T	T		8
+331	xxxxAAKRLRTT	G	V	R	S	A	A	K	R	L	R	T	T		6
+332	xxxxAAKRLRTT	A	S	L	V	A	A	K	R	L	R	T	T		4
+333	xxxxAAKRLRTT	G	K	A	A	A	A	K	R	L	R	T	T		3
+334	xxxxAAKRLRTT	A	L	I	T	A	A	K	R	L	R	T	T		2
+335	xxxxAAKRLRTT	H	A	H	H	A	A	K	R	L	R	T	T		8
+336	xxxxAAKRLRTT	S	H	E	A	A	A	K	R	L	R	T	T		2
+337	xxxxAAKRLRTT	L	A	S	H	A	A	K	R	L	R	T	T		7
+338	xxxxAAKRLRTT	A	H	R	C	A	A	K	R	L	R	T	T		5
+339	xxxxAAKRLRTT	P	I	E	D	A	A	K	R	L	R	T	T		2
+340	xxxxAAKRLRTT	A	T	L	S	A	A	K	R	L	R	T	T		4
+341	xxxxAAKRLRTT	S	A	R	W	A	A	K	R	L	R	T	T		5
+342	xxxxAAKRLRTT	G	P	S	P	A	A	K	R	L	R	T	T		7
+343	xxxxAAKRLRTT	P	V	E	G	A	A	K	R	L	R	T	T		4
+344	xxxxAAKRLRTT	R	C	Y	A	A	A	K	R	L	R	T	T		5
+345	xxxxAAKRLRTT	C	S	H	G	A	A	K	R	L	R	T	T		5
+346	xxxxAAKRLRTT	R	Q	I	N	A	A	K	R	L	R	T	T		5
+347	xxxxAAKRLRTT	G	S	P	L	A	A	K	R	L	R	T	T		3
+348	xxxxAAKRLRTT	P	N	Q	P	A	A	K	R	L	R	T	T		7
+349	xxxxAAKRLRTT	P	P	H	I	A	A	K	R	L	R	T	T		3
+350	xxxxAAKRLRTT	R	R	R	R	A	A	K	R	L	R	T	T		8
+351	xxxxAAKRLRTT	L	Q	V	F	A	A	K	R	L	R	T	T		3
+352	xxxxAAKRLRTT	Q	R	S	V	A	A	K	R	L	R	T	T		3
+353	xxxxAAKRLRTT	R	S	I	S	A	A	K	R	L	R	T	T		4
+354	xxxxAAKRLRTT	G	A	D	L	A	A	K	R	L	R	T	T		2
+355	xxxxAAKRLRTT	L	A	R	T	A	A	K	R	L	R	T	T		4
+356	xxxxAAKRLRTT	E	G	L	V	A	A	K	R	L	R	T	T		4
+357	xxxxAAKRLRTT	S	C	L	P	A	A	K	R	L	R	T	T		9
+358	xxxxAAKRLRTT	L	E	P	C	A	A	K	R	L	R	T	T		3
+359	xxxxAAKRLRTT	A	S	G	H	A	A	K	R	L	R	T	T		8
+360	xxxxAAKRLRTT	R	R	T	P	A	A	K	R	L	R	T	T		7
+361	xxxxAAKRLRTT	G	P	S	Q	A	A	K	R	L	R	T	T		6
+362	xxxxAAKRLRTT	I	R	T	R	A	A	K	R	L	R	T	T		9
+363	xxxxAAKRLRTT	L	T	L	R	A	A	K	R	L	R	T	T		8
+364	xxxxAAKRLRTT	P	V	Q	A	A	A	K	R	L	R	T	T		4
+365	xxxxAAKRLRTT	L	Q	N	R	A	A	K	R	L	R	T	T		7
+366	xxxxAAKRLRTT	Q	R	R	D	A	A	K	R	L	R	T	T		4
+367	xxxxAAKRLRTT	S	P	C	R	A	A	K	R	L	R	T	T		8
+368	xxxxAAKRLRTT	T	P	P	E	A	A	K	R	L	R	T	T		2
+369	xxxxAAKRLRTT	R	P	P	V	A	A	K	R	L	R	T	T		4
+370	xxxxAAKRLRTT	A	P	H	P	A	A	K	R	L	R	T	T		7
+371	xxxxAAKRLRTT	Q	S	L	D	A	A	K	R	L	R	T	T		2
+372	xxxxAAKRLRTT	G	L	G	P	A	A	K	R	L	R	T	T		8
+373	xxxxAAKRLRTT	M	Q	L	S	A	A	K	R	L	R	T	T		3
+374	xxxxAAKRLRTT	C	R	I	A	A	A	K	R	L	R	T	T		3

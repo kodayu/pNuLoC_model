@@ -1,0 +1,1 @@
+CUDA_VISIBLE_DEVICES="1" python 5.diffparas.py ../0.datadeal/eukaryota.train.fixedlength8.dataset ../0.datadeal/eukaryota.valid.fixedlength8.dataset ../0.datadeal/eukaryota.test.fixedlength8.dataset CNNBiLSTMAtten3 1

@@ -1,0 +1,4 @@
+CUDA_VISIBLE_DEVICES="0,1" python 06.gridsearch.model.cnn.py ../0.datadeal/eukaryota.train.fixedlength8.dataset ../0.datadeal/eukaryota.valid.fixedlength8.dataset ../0.datadeal/eukaryota.test.fixedlength8.dataset CNNBiLSTMAtten1 5
+CUDA_VISIBLE_DEVICES="0,1" python 06.gridsearch.model.cnn.py ../0.datadeal/eukaryota.train.fixedlength8.dataset ../0.datadeal/eukaryota.valid.fixedlength8.dataset ../0.datadeal/eukaryota.test.fixedlength8.dataset CNNBiLSTMAtten2 5
+CUDA_VISIBLE_DEVICES="0,1" python 06.gridsearch.model.cnn.py ../0.datadeal/eukaryota.train.fixedlength8.dataset ../0.datadeal/eukaryota.valid.fixedlength8.dataset ../0.datadeal/eukaryota.test.fixedlength8.dataset CNNBiLSTMAtten3 5
+CUDA_VISIBLE_DEVICES="0,1" python 06.gridsearch.model.cnn.py ../0.datadeal/eukaryota.train.fixedlength8.dataset ../0.datadeal/eukaryota.valid.fixedlength8.dataset ../0.datadeal/eukaryota.test.fixedlength8.dataset CNNBiLSTMAtten4 5

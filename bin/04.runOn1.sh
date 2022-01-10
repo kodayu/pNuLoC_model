@@ -1,0 +1,10 @@
+CUDA_VISIBLE_DEVICES=1 python 04.gridsearch.model.cnn.py ../0.datadeal/eukaryota.train.fixedlength5.dataset ../0.datadeal/eukaryota.valid.fixedlength5.dataset ../0.datadeal/eukaryota.test.fixedlength5.dataset CNN1 2
+CUDA_VISIBLE_DEVICES=1 python 04.gridsearch.model.cnn.py ../0.datadeal/eukaryota.train.fixedlength5.dataset ../0.datadeal/eukaryota.valid.fixedlength5.dataset ../0.datadeal/eukaryota.test.fixedlength5.dataset CNN2 2
+CUDA_VISIBLE_DEVICES=1 python 04.gridsearch.model.cnn.py ../0.datadeal/eukaryota.train.fixedlength6.dataset ../0.datadeal/eukaryota.valid.fixedlength6.dataset ../0.datadeal/eukaryota.test.fixedlength6.dataset CNN1 2
+CUDA_VISIBLE_DEVICES=1 python 04.gridsearch.model.cnn.py ../0.datadeal/eukaryota.train.fixedlength6.dataset ../0.datadeal/eukaryota.valid.fixedlength6.dataset ../0.datadeal/eukaryota.test.fixedlength6.dataset CNN2 2
+CUDA_VISIBLE_DEVICES=1 python 04.gridsearch.model.cnn.py ../0.datadeal/eukaryota.train.fixedlength7.dataset ../0.datadeal/eukaryota.valid.fixedlength7.dataset ../0.datadeal/eukaryota.test.fixedlength7.dataset CNN1 2
+CUDA_VISIBLE_DEVICES=1 python 04.gridsearch.model.cnn.py ../0.datadeal/eukaryota.train.fixedlength7.dataset ../0.datadeal/eukaryota.valid.fixedlength7.dataset ../0.datadeal/eukaryota.test.fixedlength7.dataset CNN2 2
+CUDA_VISIBLE_DEVICES=1 python 04.gridsearch.model.cnn.py ../0.datadeal/eukaryota.train.fixedlength8.dataset ../0.datadeal/eukaryota.valid.fixedlength8.dataset ../0.datadeal/eukaryota.test.fixedlength8.dataset CNN1 2
+CUDA_VISIBLE_DEVICES=1 python 04.gridsearch.model.cnn.py ../0.datadeal/eukaryota.train.fixedlength8.dataset ../0.datadeal/eukaryota.valid.fixedlength8.dataset ../0.datadeal/eukaryota.test.fixedlength8.dataset CNN2 2
+CUDA_VISIBLE_DEVICES=1 python 04.gridsearch.model.cnn.py ../0.datadeal/eukaryota.train.fixedlength9.dataset ../0.datadeal/eukaryota.valid.fixedlength9.dataset ../0.datadeal/eukaryota.test.fixedlength9.dataset CNN1 2
+CUDA_VISIBLE_DEVICES=1 python 04.gridsearch.model.cnn.py ../0.datadeal/eukaryota.train.fixedlength9.dataset ../0.datadeal/eukaryota.valid.fixedlength9.dataset ../0.datadeal/eukaryota.test.fixedlength9.dataset CNN2 2

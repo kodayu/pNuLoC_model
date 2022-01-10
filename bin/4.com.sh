@@ -1,0 +1,4 @@
+CUDA_VISIBLE_DEVICES=0 python 4.comparedifferentmodel.py ../0.datadeal/eukaryota.train.fixedlength8.dataset ../0.datadeal/eukaryota.valid.fixedlength8.dataset ../0.datadeal/eukaryota.test.fixedlength8.dataset CNN 1
+CUDA_VISIBLE_DEVICES=0 python 4.comparedifferentmodel.py ../0.datadeal/eukaryota.train.fixedlength8.dataset ../0.datadeal/eukaryota.valid.fixedlength8.dataset ../0.datadeal/eukaryota.test.fixedlength8.dataset BiLSTM 1
+CUDA_VISIBLE_DEVICES=0 python 4.comparedifferentmodel.py ../0.datadeal/eukaryota.train.fixedlength8.dataset ../0.datadeal/eukaryota.valid.fixedlength8.dataset ../0.datadeal/eukaryota.test.fixedlength8.dataset CNNBiLSTM 1
+CUDA_VISIBLE_DEVICES=0 python 4.comparedifferentmodel.py ../0.datadeal/eukaryota.train.fixedlength8.dataset ../0.datadeal/eukaryota.valid.fixedlength8.dataset ../0.datadeal/eukaryota.test.fixedlength8.dataset CNNBiLSTMAtten 1
